@@ -1,0 +1,29 @@
+{
+  "$schema": "shmor-site/1",
+  "id": "handwerkerfinder",
+  "name": "HandwerkerFinder",
+  "subdomain": "handwerkerfinder",
+  "order": 330,
+  "status": "building",
+  "icon": "wrench",
+  "accent": "#4ADE80",
+  "blurb": "Handwerker in ganz Deutschland finden und kostenlose Angebote vergleichen: Gewerke, Bundesländer, Ratgeber.",
+  "keywords": [
+    "handwerker",
+    "handwerker finden",
+    "handwerker angebote",
+    "handwerker vergleichen"
+  ],
+  "fallback": "",
+  "popular": [],
+  "offers": [],
+  "links": {},
+  "seo": {
+    "siteName": "HandwerkerFinder",
+    "description": "Handwerker in ganz Deutschland finden und kostenlose Angebote vergleichen: Gewerke, Bundesländer, Ratgeber.",
+    "locale": "en",
+    "ogLocale": "en_GB",
+    "themeColor": "#0A0C0E",
+    "searchPlaceholder": "What are you looking for?"
+  }
+}
