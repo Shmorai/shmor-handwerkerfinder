@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/maurer",
+  "nav": "Maurer",
+  "title": "Maurer finden: Maurer- und Betonarbeiten | HandwerkerFinder",
+  "description": "Mauerarbeiten, Wanddurchbruch, Fundament, Bodenplatte oder Kellersanierung: Finden Sie einen Maurerbetrieb in Ihrer Nähe und vergleichen Sie Angebote.",
+  "keywords": [
+    "maurer",
+    "maurerarbeiten",
+    "wanddurchbruch",
+    "fundament gießen",
+    "kellersanierung",
+    "betonarbeiten"
+  ],
+  "cardText": "Mauerarbeiten, Wanddurchbrüche, Fundamente, Bodenplatten, Kellersanierung",
+  "eyebrow": "Maurer- und Betonarbeiten",
+  "h1": "Maurer in Ihrer Nähe finden",
+  "intro": "Vom Gartenmäuerchen bis zum Wanddurchbruch: Maurer- und Betonarbeiten verlangen Erfahrung und oft auch eine statische Prüfung. Vergleichen Sie Angebote von Maurerbetrieben aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1704005445445-2747074be8ac",
+    "alt": "Ziegelmauer wird mit einer Kelle gemauert",
+    "credit": "Gowtham AGM",
+    "creditUrl": "https://unsplash.com/@gowthamagm"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Maurer?",
+      "html": "<ul><li>Rohbau und Mauerarbeiten, kleine Mauerarbeiten im Bestand</li><li>Wanddurchbrüche und Kernbohrungen</li><li>Fundamente und Bodenplatten gießen</li><li>Trockenlegen von Mauerwerk und Kellersanierung</li><li>Verputzen von Innen- und Außenwänden</li><li>Gartenmauern, Treppen und Sockel</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Sie möchten eine Wand öffnen, um Räume zu verbinden</li><li>Der Keller ist feucht oder das Mauerwerk zeigt Salzausblühungen</li><li>Ein Carport, Gartenhaus oder Anbau braucht ein Fundament</li><li>Putz bröckelt oder Risse ziehen sich durch die Wand</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Maurer und Betonbauer)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Ist die Wand tragend, und wer erstellt die Statik?</li><li>Wie wird die Feuchtigkeitsursache im Keller ermittelt, bevor saniert wird?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Art und Umfang der Arbeiten, Wandstärke und Material</li><li>Statik, Abstützung und Sturz bei Wanddurchbrüchen</li><li>Zugänglichkeit, Schuttabfuhr und Containergestellung</li><li>Nacharbeiten wie Putz, Estrich und Malerarbeiten</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Klopfen allein verrät nicht, ob eine Wand tragend ist: Lassen Sie das vor jedem Durchbruch prüfen.</li><li>Bei feuchten Kellern zuerst die Ursache klären (drückendes Wasser, Kondensat, fehlende Horizontalsperre).</li><li>Fragen Sie nach Entsorgungsnachweisen für den Bauschutt.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Maurer</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Maurer und Betonbauer). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>Wer eine tragende Wand öffnet, braucht in aller Regel einen Standsicherheitsnachweis von einem Tragwerksplaner, je nach Land und Umfang auch eine Baugenehmigung. In Eigentumswohnungen gehören tragende Wände zum Gemeinschaftseigentum: Ohne Beschluss der Eigentümergemeinschaft dürfen sie nicht verändert werden. Das Maurer- und Betonbauerhandwerk ist zulassungspflichtig.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie erkenne ich eine tragende Wand?",
+      "a": "Hinweise geben Bauzeichnungen, die Wandstärke und die Lage über Unterzügen oder Wänden darunter. Sicherheit gibt nur die Prüfung durch einen Statiker."
+    },
+    {
+      "q": "Was hilft gegen einen feuchten Keller?",
+      "a": "Je nach Ursache eine Außenabdichtung, eine nachträgliche Horizontalsperre, Drainage oder besseres Lüften. Lassen Sie die Ursache vor der Sanierung bestimmen."
+    },
+    {
+      "q": "Braucht ein Gartenhaus ein Fundament?",
+      "a": "Meist ja, je nach Größe ein Punkt-, Streifen- oder Plattenfundament. Ob das Gartenhaus genehmigungsfrei ist, regelt die Landesbauordnung."
+    }
+  ],
+  "related": [
+    "gewerke/bauunternehmen",
+    "gewerke/fassade",
+    "gewerke/pflasterarbeiten"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

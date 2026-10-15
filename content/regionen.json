@@ -1,0 +1,110 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen",
+  "nav": "Bundesländer",
+  "navOrder": 2,
+  "title": "Handwerker in allen 16 Bundesländern finden",
+  "description": "Handwerker in Ihrem Bundesland finden: regionale Bauweise, Handwerkskammern, Bauordnung, Nachbarrecht und Naturrisiken für alle 16 Länder im Überblick.",
+  "keywords": [
+    "handwerker bundesland",
+    "handwerker in meiner nähe",
+    "handwerkskammer",
+    "handwerker deutschland"
+  ],
+  "cardText": "Alle 16 Bundesländer mit regionalen Tipps",
+  "eyebrow": "Ganz Deutschland",
+  "h1": "Handwerker in Ihrem Bundesland",
+  "intro": "Bauweise, Vorschriften und Naturrisiken unterscheiden sich von Land zu Land. Wählen Sie Ihr Bundesland für Hinweise zu Handwerkskammern, Bauordnung und Nachbarrecht.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1626447637943-4c9d412fa8cf",
+    "alt": "Skyline einer Stadt unter weißen Wolken",
+    "credit": "Matthias Münning",
+    "creditUrl": "https://unsplash.com/@muenningmedia"
+  },
+  "blocks": [
+    {
+      "type": "tiles",
+      "title": "Alle Bundesländer",
+      "feature": false,
+      "items": [
+        {
+          "slug": "regionen/baden-wuerttemberg",
+          "text": "Stuttgart, Mannheim, Karlsruhe"
+        },
+        {
+          "slug": "regionen/bayern",
+          "text": "München, Nürnberg, Augsburg"
+        },
+        {
+          "slug": "regionen/berlin",
+          "text": "Mitte, Friedrichshain-Kreuzberg, Pankow"
+        },
+        {
+          "slug": "regionen/brandenburg",
+          "text": "Potsdam, Cottbus, Brandenburg an der Havel"
+        },
+        {
+          "slug": "regionen/bremen",
+          "text": "Bremen, Bremerhaven"
+        },
+        {
+          "slug": "regionen/hamburg",
+          "text": "Hamburg-Mitte, Altona, Eimsbüttel"
+        },
+        {
+          "slug": "regionen/hessen",
+          "text": "Frankfurt am Main, Wiesbaden, Kassel"
+        },
+        {
+          "slug": "regionen/mecklenburg-vorpommern",
+          "text": "Rostock, Schwerin, Neubrandenburg"
+        },
+        {
+          "slug": "regionen/niedersachsen",
+          "text": "Hannover, Braunschweig, Oldenburg"
+        },
+        {
+          "slug": "regionen/nordrhein-westfalen",
+          "text": "Köln, Düsseldorf, Dortmund"
+        },
+        {
+          "slug": "regionen/rheinland-pfalz",
+          "text": "Mainz, Ludwigshafen am Rhein, Koblenz"
+        },
+        {
+          "slug": "regionen/saarland",
+          "text": "Saarbrücken, Neunkirchen, Homburg"
+        },
+        {
+          "slug": "regionen/sachsen",
+          "text": "Leipzig, Dresden, Chemnitz"
+        },
+        {
+          "slug": "regionen/sachsen-anhalt",
+          "text": "Halle (Saale), Magdeburg, Dessau-Roßlau"
+        },
+        {
+          "slug": "regionen/schleswig-holstein",
+          "text": "Kiel, Lübeck, Flensburg"
+        },
+        {
+          "slug": "regionen/thueringen",
+          "text": "Erfurt, Jena, Gera"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Gibt es Unterschiede zwischen den Bundesländern?",
+      "a": "Ja. Bauordnungen, Nachbarrechtsgesetze, Förderprogramme und Denkmalschutz sind Ländersache. Auch die Bauweise und typische Risiken wie Sturmfluten, Radon oder Bergschäden unterscheiden sich."
+    }
+  ],
+  "related": [
+    "gewerke",
+    "ratgeber/foerderung",
+    "blog/haus-vor-starkregen-schuetzen"
+  ],
+  "relatedTitle": "Gut zu wissen",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

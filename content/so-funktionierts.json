@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-15",
+  "slug": "so-funktionierts",
+  "nav": "So funktioniert’s",
+  "navOrder": 5,
+  "title": "So funktioniert HandwerkerFinder",
+  "description": "In drei Schritten zum passenden Handwerker: Auftrag beschreiben, Angebote erhalten, vergleichen und auswählen. Kostenlos und unverbindlich für Auftraggeber.",
+  "keywords": [
+    "handwerker finden so funktionierts",
+    "handwerker vermittlung",
+    "kostenlose handwerkerangebote"
+  ],
+  "cardText": "Drei Schritte, kostenlos und unverbindlich",
+  "eyebrow": "So funktioniert’s",
+  "h1": "So finden Sie den passenden Handwerker",
+  "intro": "HandwerkerFinder hilft Ihnen, den richtigen Handwerker zu finden: mit Informationen zu jedem Gewerk und jedem Bundesland und mit dem Weg zu Plattformen, auf denen Sie kostenlos Angebote erhalten.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1681505531034-8d67054e07f6",
+    "alt": "Zwei Personen geben sich über einem Dokument die Hand",
+    "credit": "Amina Atar",
+    "creditUrl": "https://unsplash.com/@minaslens"
+  },
+  "blocks": [
+    {
+      "type": "steps",
+      "title": "In drei Schritten",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Auftrag beschreiben",
+          "text": "Gewerk, Leistung, Postleitzahl und ein paar Details: in wenigen Minuten erledigt."
+        },
+        {
+          "icon": "message",
+          "title": "Rückmeldungen erhalten",
+          "text": "Interessierte Betriebe aus Ihrer Region melden sich mit Fragen oder Angeboten."
+        },
+        {
+          "icon": "check",
+          "title": "Vergleichen und auswählen",
+          "text": "Sie vergleichen Profile und Angebote und entscheiden frei, wen Sie beauftragen."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Was wir tun",
+      "html": "<p>HandwerkerFinder ist ein Informations- und Vermittlungsangebot. Wir erklären Gewerke, Vorschriften und regionale Besonderheiten und verweisen auf Partner-Plattformen, auf denen Sie Ihren Auftrag kostenlos einstellen können.</p>"
+    },
+    {
+      "h2": "Was wir nicht tun",
+      "html": "<ul><li>Wir beschäftigen keine Handwerker und führen keine Arbeiten aus.</li><li>Wir prüfen Betriebe nicht einzeln; Partner-Plattformen haben eigene Prüfprozesse.</li><li>Wir veröffentlichen keine erfundenen Bewertungen, Preise oder Statistiken.</li><li>Unsere Inhalte sind allgemeine Informationen, keine Rechts- oder Steuerberatung.</li></ul><p>Den Vertrag schließen Sie direkt mit dem Handwerker. Prüfen Sie ihn vorher, siehe <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Wie wir uns finanzieren",
+      "html": "<p>Einige Links auf dieser Website sind Affiliate-Links. Wenn Sie darüber einen Auftrag bei einem Partner einstellen, kann dieser uns eine Provision zahlen. Für Sie entstehen dadurch keine Mehrkosten, und es beeinflusst nicht, welche Informationen wir veröffentlichen. Solche Links sind als Partnerlinks gekennzeichnet.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kostet HandwerkerFinder etwas?",
+      "a": "Nein. Unsere Inhalte sind kostenlos, und das Einstellen eines Auftrags bei unseren Partnern ist für Auftraggeber ebenfalls kostenlos."
+    },
+    {
+      "q": "Muss ich ein Angebot annehmen?",
+      "a": "Nein. Sie entscheiden frei, ob und wen Sie beauftragen."
+    },
+    {
+      "q": "Wer ist mein Vertragspartner?",
+      "a": "Immer der Handwerksbetrieb, den Sie beauftragen. HandwerkerFinder wird nicht Vertragspartner."
+    }
+  ],
+  "related": [
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/angebot-verstehen",
+    "gewerke"
+  ],
+  "relatedTitle": "Nächste Schritte",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

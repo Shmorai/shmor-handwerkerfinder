@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-15",
+  "slug": "ratgeber/notdienst-abzocke",
+  "nav": "Notdienst-Abzocke",
+  "title": "Notdienst-Abzocke vermeiden: Rohrreinigung & Co.",
+  "description": "Lockpreise, Druck und Barzahlung: So erkennen Sie unseriöse Notdienste bei Rohrverstopfung oder Wasserschaden und was Sie tun können, wenn es passiert ist.",
+  "keywords": [
+    "notdienst abzocke",
+    "rohrreinigung abzocke",
+    "handwerker notdienst",
+    "wucher handwerker"
+  ],
+  "cardText": "Warnzeichen, Preis vorher klären, richtig reagieren",
+  "eyebrow": "Ratgeber",
+  "h1": "Notdienst-Abzocke erkennen und vermeiden",
+  "intro": "Wer nachts mit verstopftem Abfluss oder ausgesperrt vor der Tür steht, sucht schnell im Internet. Genau darauf setzen unseriöse Anbieter. Mit ein paar Regeln schützen Sie sich.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1545193329-4a052e14eb8f",
+    "alt": "Weißes Rohr",
+    "credit": "Azka Rayhansyah",
+    "creditUrl": "https://unsplash.com/@azka_ryhns"
+  },
+  "sections": [
+    {
+      "h2": "Warnzeichen",
+      "html": "<ul><li>Anzeigen ganz oben in der Suche mit „ab 19 €“ oder „Festpreis“, ohne konkrete Angaben</li><li>Kein Impressum, nur eine Handynummer, kein Firmensitz in der Nähe</li><li>Am Telefon keine Preisauskunft</li><li>Vor Ort Druck, Formulare zur sofortigen Unterschrift, Forderung nach Bar- oder EC-Zahlung</li></ul>"
+    },
+    {
+      "h2": "So gehen Sie vor",
+      "html": "<ol><li>Speichern Sie die Nummer eines seriösen Betriebs aus Ihrer Gegend, <strong>bevor</strong> es eilt.</li><li>Fragen Sie am Telefon nach dem Gesamtpreis inklusive Anfahrt und Zuschlägen.</li><li>Lassen Sie sich vor Arbeitsbeginn den Preis schriftlich bestätigen.</li><li>Zahlen Sie möglichst per Rechnung und Überweisung. Bei Kartenzahlung nur den vereinbarten Betrag.</li></ol>"
+    },
+    {
+      "h2": "Wenn es schon passiert ist",
+      "html": "<p>Unterschreiben Sie nichts, was Sie nicht verstehen, und zahlen Sie höchstens den Betrag, den Sie für angemessen halten, unter Vorbehalt. Bei offensichtlich überhöhten Preisen kann Wucher vorliegen: Lassen Sie sich von der <a href=\"https://www.verbraucherzentrale.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> beraten und erstatten Sie bei Bedrohung oder Nötigung Anzeige bei der Polizei. Achtung: Bei dringenden Reparaturen, die Sie selbst angefordert haben, gibt es kein Widerrufsrecht (§ 312g Abs. 2 Nr. 11 BGB).</p>"
+    },
+    {
+      "h2": "Quellen und offizielle Links",
+      "html": "<ul><li><a href=\"https://www.verbraucherzentrale.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale: Handwerker-Notdienste</a></li><li><a href=\"https://www.gesetze-im-internet.de/bgb/__312g.html\" rel=\"noopener\" target=\"_blank\">§ 312g BGB (Widerrufsrecht)</a></li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Muss ich vor Ort bar bezahlen?",
+      "a": "Nein. Sie können eine Rechnung verlangen und überweisen. Bestehen Sie darauf, wenn Ihnen der Preis unangemessen erscheint."
+    },
+    {
+      "q": "Kann ich den Auftrag widerrufen?",
+      "a": "Bei Verträgen an der Haustür gilt grundsätzlich ein Widerrufsrecht, nicht aber bei dringenden Reparaturen, die Sie ausdrücklich angefordert haben."
+    }
+  ],
+  "related": [
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/angebot-verstehen",
+    "ratgeber/kostenvoranschlag-festpreis"
+  ],
+  "relatedTitle": "Weitere Ratgeber",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/energieberater",
+  "nav": "Energieberater",
+  "title": "Energieberater finden: Sanierung planen | HandwerkerFinder",
+  "description": "Energieberatung, Sanierungsfahrplan, Energieausweis und Fördermittel: Finden Sie einen Energieberater in Ihrer Nähe und vergleichen Sie Angebote.",
+  "keywords": [
+    "energieberater",
+    "energieberatung",
+    "sanierungsfahrplan",
+    "isfp",
+    "energieausweis",
+    "fördermittelberatung"
+  ],
+  "cardText": "Energieberatung, Sanierungsfahrplan (iSFP), Energieausweis, Förderanträge",
+  "eyebrow": "Energie- und Fördermittelberatung",
+  "h1": "Energieberater in Ihrer Nähe finden",
+  "intro": "Bevor Sie Heizung, Dach oder Fenster erneuern, lohnt sich ein Blick aufs Ganze. Ein Energieberater zeigt, welche Maßnahmen in welcher Reihenfolge sinnvoll sind, und hilft bei Förderanträgen. Vergleichen Sie Angebote aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1769776400238-cd24612240ea",
+    "alt": "Lupe über einem Hausmodell aus Holz",
+    "credit": "Sasun Bughdaryan",
+    "creditUrl": "https://unsplash.com/@sasun1990"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Energieberater?",
+      "html": "<ul><li>Vor-Ort-Energieberatung für Wohngebäude</li><li>Individueller Sanierungsfahrplan (iSFP)</li><li>Energieausweis (Bedarfs- oder Verbrauchsausweis)</li><li>Energie- und Fördermittelberatung, Unterstützung bei Anträgen</li><li>Baubegleitung und Nachweise für die Förderung</li><li>Luftdichtheitsmessung und Thermografie</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Sie haben ein älteres Haus gekauft und wollen sanieren</li><li>Die Heizung muss bald ersetzt werden</li><li>Sie verkaufen oder vermieten und brauchen einen Energieausweis</li><li>Sie möchten Fördermittel nutzen und brauchen einen Experten</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Sind Sie in der Energieeffizienz-Expertenliste des Bundes eingetragen?</li><li>Sind Sie unabhängig, oder verkaufen Sie auch Produkte oder Handwerksleistungen?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Größe und Art des Gebäudes</li><li>Umfang (Beratung, Sanierungsfahrplan, Baubegleitung)</li><li>Energieausweis: Bedarfs- oder Verbrauchsausweis</li><li>Förderung der Beratung, die den Eigenanteil senken kann</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Fragen Sie nach einem Sanierungsfahrplan: Er zeigt die sinnvolle Reihenfolge und kann zusätzliche Förderung ermöglichen.</li><li>Sammeln Sie Unterlagen wie Baupläne, Heizkostenabrechnungen und frühere Rechnungen vor dem Termin.</li><li>Eine erste, kostengünstige Beratung bietet auch die Energieberatung der Verbraucherzentrale.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Für viele Förderprogramme des Bundes ist ein Experte aus der Energieeffizienz-Expertenliste (energie-effizienz-experten.de) Pflicht. Beim Verkauf oder bei der Vermietung müssen Sie Interessenten einen Energieausweis vorlegen (§ 80 GEG). Die Förderbedingungen für Beratung und Sanierung ändern sich regelmäßig; aktuelle Informationen gibt es bei BAFA und KfW sowie auf energiewechsel.de.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was ist ein individueller Sanierungsfahrplan?",
+      "a": "Der iSFP ist ein Bericht, der zeigt, wie ein Haus Schritt für Schritt energetisch saniert werden kann. Er kann bei der späteren Förderung von Einzelmaßnahmen einen Bonus bringen."
+    },
+    {
+      "q": "Wird die Energieberatung gefördert?",
+      "a": "Ja, der Bund fördert die Energieberatung für Wohngebäude über die BAFA. Höhe und Bedingungen ändern sich; fragen Sie Ihren Berater nach dem aktuellen Stand."
+    },
+    {
+      "q": "Bedarfs- oder Verbrauchsausweis?",
+      "a": "Der Bedarfsausweis bewertet das Gebäude technisch, der Verbrauchsausweis den tatsächlichen Verbrauch. Für bestimmte ältere Gebäude ist der Bedarfsausweis vorgeschrieben."
+    }
+  ],
+  "related": [
+    "gewerke/heizung",
+    "gewerke/fassade",
+    "gewerke/fenster-tueren"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

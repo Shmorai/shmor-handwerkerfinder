@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/brandenburg",
+  "nav": "Brandenburg",
+  "title": "Handwerker in Brandenburg: Angebote vergleichen",
+  "description": "Handwerker in Brandenburg finden (Potsdam, Cottbus und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker brandenburg",
+    "handwerker potsdam",
+    "handwerker cottbus",
+    "handwerker brandenburg an der havel",
+    "handwerker frankfurt",
+    "elektriker potsdam",
+    "elektriker cottbus"
+  ],
+  "cardText": "Potsdam, Cottbus, Brandenburg an der Havel, Frankfurt (Oder) … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Brandenburg finden",
+  "intro": "Ob Sanitär in Potsdam, Dachdecker in Cottbus oder Maler in Brandenburg an der Havel: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Brandenburg.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1591878626425-4fc211b738b5",
+    "alt": "Menschen vor einem historischen Gebäude an einem sonnigen Tag",
+    "credit": "Leon Seibert",
+    "creditUrl": "https://unsplash.com/@yapics"
+  },
+  "chips": [
+    {
+      "label": "Garten- und Landschaftsbau",
+      "slug": "gewerke/garten-landschaftsbau"
+    },
+    {
+      "label": "Pflasterarbeiten",
+      "slug": "gewerke/pflasterarbeiten"
+    },
+    {
+      "label": "Zaunbau",
+      "slug": "gewerke/zaunbau"
+    },
+    {
+      "label": "Solaranlage",
+      "slug": "gewerke/solar"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Brandenburg vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern in Brandenburg",
+      "html": "<p>Landeshauptstadt ist Potsdam. Größere Städte sind unter anderem Potsdam, Cottbus, Brandenburg an der Havel, Frankfurt (Oder), Oranienburg, Falkensee, Bernau bei Berlin, Eberswalde. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Brandenburg ist die Handwerkskammern Cottbus, Frankfurt (Oder) – Region Ostbrandenburg und Potsdam zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Brandenburg",
+      "html": "<ul><li>Im Berliner Umland entstehen viele Einfamilienhäuser; gefragt sind Garten, Pflaster, Zäune und Carports.</li><li>Märkische Backsteinbauten, Gutshäuser und Dorfkirchen prägen die ländlichen Regionen.</li><li>Sandige Böden versickern Regenwasser gut, verlangen bei Fundamenten aber eine solide Planung.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>Hochwasser betreffen vor allem Oder, Elbe und Spree. Trockene Sommer erhöhen die Waldbrandgefahr; das Land gehört zu den waldbrandgefährdetsten Regionen Deutschlands. Im Lausitzer Revier können Grundwasseranstieg und Bergbaufolgen eine Rolle spielen.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Brandenburgische Bauordnung (BbgBO)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Grenzabstände für Hecken, Bäume und Zäune sowie Fragen wie überstehende Dämmung regelt das <strong>Brandenburgisches Nachbarrechtsgesetz (BbgNRG)</strong>. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Brandenburg an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Lohnt sich in Brandenburg eine Zisterne?",
+      "a": "In trockenen Sommern hilft gesammeltes Regenwasser beim Gießen und entlastet das Trinkwasser. Ob Sie es versickern lassen oder nutzen, hängt vom Grundstück und der örtlichen Satzung ab."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Brandenburg?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/garten-landschaftsbau",
+    "gewerke/pflasterarbeiten",
+    "gewerke/zaunbau",
+    "regionen/berlin",
+    "regionen/sachsen",
+    "regionen/mecklenburg-vorpommern"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Brandenburg"
+}

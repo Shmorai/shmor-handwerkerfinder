@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/badsanierung",
+  "nav": "Badsanierung",
+  "title": "Badsanierung: Angebote vergleichen | HandwerkerFinder",
+  "description": "Komplette Badsanierung, bodengleiche Dusche oder barrierefreies Bad: Finden Sie Fachbetriebe in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "badsanierung",
+    "bad renovieren",
+    "badezimmer sanieren",
+    "bodengleiche dusche",
+    "barrierefreies bad",
+    "badumbau"
+  ],
+  "cardText": "Komplettsanierung, bodengleiche Dusche, barrierefreies Bad",
+  "eyebrow": "Bad und Sanitär",
+  "h1": "Badsanierung: Fachbetriebe vergleichen",
+  "intro": "Bei einer Badsanierung arbeiten Sanitär, Elektro, Fliesen und oft Trockenbau Hand in Hand. Ein Betrieb, der das koordiniert, spart Ihnen Zeit und Nerven. Vergleichen Sie Angebote aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a",
+    "alt": "Modernes Badezimmer mit Dusche und Waschtisch",
+    "credit": "Lotus Design N Print",
+    "creditUrl": "https://unsplash.com/@lotusdnp"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Badsanierung?",
+      "html": "<ul><li>Planung und Komplettsanierung des Badezimmers</li><li>Einbau und Austausch von Bad- und Sanitärobjekten</li><li>Bodengleiche Duschen und barrierefreie Bäder</li><li>Fliesenarbeiten, Abdichtung und Vorwandinstallation</li><li>Elektroarbeiten, Beleuchtung und Lüftung im Bad</li><li>Teilrenovierung: Wanne zu Dusche, neue Fugen, neue Armaturen</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Das Bad ist in die Jahre gekommen oder unpraktisch geschnitten</li><li>Fliesen und Leitungen sind alt, es gibt Feuchteschäden</li><li>Sie möchten barrierefrei und altersgerecht wohnen</li><li>Sie haben eine Wohnung gekauft und sanieren vor dem Einzug</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Koordinieren Sie alle Gewerke, und wer ist mein Ansprechpartner?</li><li>Wie lange wird das Bad nicht nutzbar sein?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Größe des Bades und Umfang (Teil- oder Komplettsanierung)</li><li>Ausstattung: Sanitärobjekte, Armaturen, Fliesen</li><li>Versetzen von Anschlüssen, Vorwandinstallation, bodengleiche Dusche</li><li>Rückbau, Entsorgung und Zustand der alten Leitungen</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Planen Sie eine Ersatzlösung für die Bauzeit ein, besonders wenn es nur ein Bad gibt.</li><li>Bodengleiche Duschen brauchen Gefälle und Aufbauhöhe: Klären Sie früh, ob das möglich ist.</li><li>Denken Sie an die Zukunft: Breitere Türen und Haltegriff-Verstärkungen kosten beim Umbau wenig.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Für den altersgerechten Umbau gibt es je nach Situation Zuschüsse: Die Pflegekasse kann bei anerkanntem Pflegegrad wohnumfeldverbessernde Maßnahmen bezuschussen (§ 40 Abs. 4 SGB XI, derzeit bis zu 4.180 € je Maßnahme). Auch KfW-Programme zur Barrierereduzierung gab es immer wieder, abhängig von verfügbaren Haushaltsmitteln. Anträge müssen vor Beginn der Arbeiten gestellt werden.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie lange dauert eine Badsanierung?",
+      "a": "Eine Komplettsanierung dauert je nach Umfang oft zwei bis vier Wochen. Trocknungszeiten von Estrich und Abdichtung sind dabei der größte Faktor."
+    },
+    {
+      "q": "Gibt es Zuschüsse für ein barrierefreies Bad?",
+      "a": "Bei Pflegebedürftigkeit kann die Pflegekasse einen Zuschuss zahlen. Fragen Sie vor Beginn bei Ihrer Pflegekasse nach und stellen Sie den Antrag rechtzeitig."
+    },
+    {
+      "q": "Kann ich die Badsanierung von der Steuer absetzen?",
+      "a": "Die Arbeitskosten zählen zu den Handwerkerleistungen nach § 35a EStG. 20 % davon, maximal 1.200 € pro Jahr, mindern Ihre Steuer."
+    }
+  ],
+  "related": [
+    "gewerke/sanitaer",
+    "gewerke/fliesenleger",
+    "gewerke/elektriker"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

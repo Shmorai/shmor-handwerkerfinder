@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/niedersachsen",
+  "nav": "Niedersachsen",
+  "title": "Handwerker in Niedersachsen: Angebote vergleichen",
+  "description": "Handwerker in Niedersachsen finden (Hannover, Braunschweig und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker niedersachsen",
+    "handwerker hannover",
+    "handwerker braunschweig",
+    "handwerker oldenburg",
+    "handwerker osnabrück",
+    "elektriker hannover",
+    "elektriker braunschweig"
+  ],
+  "cardText": "Hannover, Braunschweig, Oldenburg, Osnabrück … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Niedersachsen finden",
+  "intro": "Ob Sanitär in Hannover, Dachdecker in Braunschweig oder Maler in Oldenburg: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Niedersachsen.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1629235505117-a0519f5213f1",
+    "alt": "Historisches Gebäude an einem See mit Bäumen",
+    "credit": "Joshua Kettle",
+    "creditUrl": "https://unsplash.com/@joshuakettle"
+  },
+  "chips": [
+    {
+      "label": "Maurer",
+      "slug": "gewerke/maurer"
+    },
+    {
+      "label": "Dachdecker",
+      "slug": "gewerke/dachdecker"
+    },
+    {
+      "label": "Energieberater",
+      "slug": "gewerke/energieberater"
+    },
+    {
+      "label": "Garten- und Landschaftsbau",
+      "slug": "gewerke/garten-landschaftsbau"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Niedersachsen vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern in Niedersachsen",
+      "html": "<p>Landeshauptstadt ist Hannover. Größere Städte sind unter anderem Hannover, Braunschweig, Oldenburg, Osnabrück, Wolfsburg, Göttingen, Hildesheim, Salzgitter, Lüneburg. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Niedersachsen ist die Handwerkskammern Braunschweig-Lüneburg-Stade, Hannover, Hildesheim-Südniedersachsen, Oldenburg, Osnabrück-Emsland-Grafschaft Bentheim und Ostfriesland zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Niedersachsen",
+      "html": "<ul><li>Fachwerkstädte wie Celle, Goslar, Hann. Münden und Wolfenbüttel stehen für viel historische Bausubstanz.</li><li>In Ostfriesland und im Oldenburger Land dominieren Klinkerhäuser; im Norden gibt es auch Reetdächer.</li><li>Im Umland der Städte prägen Einfamilienhäuser der Nachkriegsjahrzehnte das Bild, viele stehen vor einer energetischen Sanierung.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>An der Nordseeküste schützen Deiche vor Sturmfluten. Hochwasser drohen an Elbe, Weser, Aller und Leine. Im Harz gibt es Gebiete mit erhöhter Radonkonzentration.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Niedersächsische Bauordnung (NBauO)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Grenzabstände für Hecken, Bäume und Zäune sowie Fragen wie überstehende Dämmung regelt das <strong>Niedersächsisches Nachbarrechtsgesetz (NNachbG)</strong>. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Niedersachsen an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie pflege ich ein Klinkerhaus?",
+      "a": "Klinker ist sehr langlebig. Wichtig sind intakte Fugen: Sind sie ausgewaschen oder rissig, dringt Feuchtigkeit ein. Eine Fugensanierung durch einen Maurerbetrieb hält die Fassade dicht."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Niedersachsen?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/maurer",
+    "gewerke/dachdecker",
+    "gewerke/energieberater",
+    "regionen/bremen",
+    "regionen/hamburg",
+    "regionen/nordrhein-westfalen"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Niedersachsen"
+}

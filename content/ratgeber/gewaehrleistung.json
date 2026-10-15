@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "slug": "ratgeber/gewaehrleistung",
+  "nav": "Gewährleistung",
+  "title": "Gewährleistung beim Handwerker: Abnahme und Mängel",
+  "description": "Abnahme, Mängelrechte und Verjährung: Wie lange Handwerker für ihre Arbeit einstehen und was Sie tun können, wenn nach den Arbeiten Mängel auftreten.",
+  "keywords": [
+    "gewährleistung handwerker",
+    "abnahme handwerker",
+    "mängel handwerker",
+    "nacherfüllung",
+    "verjährung mängel"
+  ],
+  "cardText": "Abnahme, Nacherfüllung, 2 oder 5 Jahre Verjährung",
+  "eyebrow": "Ratgeber",
+  "h1": "Gewährleistung: Ihre Rechte bei Mängeln",
+  "intro": "Wer einen Handwerker beauftragt, schließt in der Regel einen Werkvertrag. Der Betrieb schuldet ein mangelfreies Werk. Wie Sie Ihre Rechte sichern, beginnt bei der Abnahme.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f",
+    "alt": "Person in orangefarbenem Pullover schreibt auf ein Papier",
+    "credit": "Romain Dancre",
+    "creditUrl": "https://unsplash.com/@romaindancre"
+  },
+  "sections": [
+    {
+      "h2": "Die Abnahme",
+      "html": "<p>Mit der Abnahme (§ 640 BGB) erklären Sie, dass die Arbeit im Wesentlichen vertragsgemäß ist. Sie hat wichtige Folgen: Die Vergütung wird fällig, die Verjährungsfrist für Mängel beginnt, und die Beweislast für Mängel geht in der Regel auf Sie über. Nehmen Sie größere Arbeiten deshalb gemeinsam mit dem Handwerker ab und halten Sie erkennbare Mängel in einem <strong>Abnahmeprotokoll</strong> fest. Vorbehalte müssen Sie bei der Abnahme erklären.</p>"
+    },
+    {
+      "h2": "Verjährungsfristen",
+      "html": "<ul><li><strong>5 Jahre</strong> bei Arbeiten an einem Bauwerk, etwa Dach, Heizung, Fenster, Estrich (§ 634a Abs. 1 Nr. 2 BGB)</li><li><strong>2 Jahre</strong> bei Arbeiten an Sachen, die kein Bauwerk betreffen, etwa Reparaturen an beweglichen Dingen</li><li>Die Frist beginnt mit der Abnahme.</li></ul><p>Eine <strong>Garantie</strong> ist etwas anderes: ein freiwilliges Versprechen des Herstellers oder Betriebs, zusätzlich zur gesetzlichen Gewährleistung.</p>"
+    },
+    {
+      "h2": "Was Sie bei Mängeln tun können",
+      "html": "<ol><li>Mangel dokumentieren (Fotos, Datum, Beschreibung).</li><li>Den Betrieb schriftlich auffordern, den Mangel innerhalb einer angemessenen Frist zu beseitigen (<strong>Nacherfüllung</strong>, § 635 BGB).</li><li>Erst wenn die Frist erfolglos abläuft, kommen Selbstvornahme auf Kosten des Betriebs, Minderung, Rücktritt oder Schadensersatz in Betracht (§ 634 BGB).</li></ol><p>Bezahlen Sie keine Fremdfirma, bevor Sie dem ursprünglichen Betrieb die Chance zur Nachbesserung gegeben haben, sonst bleiben Sie unter Umständen auf den Kosten sitzen.</p>"
+    },
+    {
+      "h2": "Ohne Rechnung keine Rechte",
+      "html": "<p>Bei Schwarzarbeit ist der Vertrag nichtig, Mängelansprüche bestehen dann nicht. Mehr dazu im Ratgeber <a href=\"/ratgeber/schwarzarbeit-risiken/\">Schwarzarbeit: die Risiken</a>.</p>"
+    },
+    {
+      "h2": "Quellen und offizielle Links",
+      "html": "<ul><li><a href=\"https://www.gesetze-im-internet.de/bgb/__634a.html\" rel=\"noopener\" target=\"_blank\">§ 634a BGB (Verjährung der Mängelansprüche)</a></li><li><a href=\"https://www.gesetze-im-internet.de/bgb/__640.html\" rel=\"noopener\" target=\"_blank\">§ 640 BGB (Abnahme)</a></li><li><a href=\"https://www.gesetze-im-internet.de/bgb/__635.html\" rel=\"noopener\" target=\"_blank\">§ 635 BGB (Nacherfüllung)</a></li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie lange habe ich Gewährleistung auf ein neues Dach?",
+      "a": "Bei Arbeiten an einem Bauwerk verjähren Mängelansprüche grundsätzlich in fünf Jahren ab Abnahme."
+    },
+    {
+      "q": "Muss ich bei der Abnahme etwas unterschreiben?",
+      "a": "Eine Unterschrift ist nicht zwingend, die Abnahme kann auch stillschweigend erfolgen, etwa durch Nutzung und vorbehaltlose Zahlung. Ein schriftliches Protokoll schafft aber Klarheit."
+    }
+  ],
+  "related": [
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/angebot-verstehen",
+    "ratgeber/kostenvoranschlag-festpreis"
+  ],
+  "relatedTitle": "Weitere Ratgeber",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

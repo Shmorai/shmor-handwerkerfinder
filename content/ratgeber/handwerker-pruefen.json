@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-15",
+  "slug": "ratgeber/handwerker-pruefen",
+  "nav": "Handwerker prüfen",
+  "title": "Handwerker prüfen: So erkennen Sie seriöse Betriebe",
+  "description": "Handwerksrolle, Handwerkskarte, Versicherung, Impressum und Bewertungen: Mit dieser Checkliste prüfen Sie einen Handwerksbetrieb, bevor Sie ihn beauftragen.",
+  "keywords": [
+    "handwerker prüfen",
+    "seriöser handwerker",
+    "handwerksrolle",
+    "handwerkskarte",
+    "meisterbetrieb"
+  ],
+  "cardText": "Handwerksrolle, Versicherung, Impressum und Warnzeichen",
+  "eyebrow": "Ratgeber",
+  "h1": "Handwerker prüfen: die Checkliste",
+  "intro": "Die meisten Handwerksbetriebe arbeiten zuverlässig. Ein paar Minuten Prüfung vor der Beauftragung schützen Sie trotzdem vor teuren Überraschungen. Diese Punkte sollten Sie checken.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+    "alt": "Mann schreibt auf ein Blatt Papier",
+    "credit": "Scott Graham",
+    "creditUrl": "https://unsplash.com/@amstram"
+  },
+  "sections": [
+    {
+      "h2": "Eintragung in die Handwerksrolle",
+      "html": "<p>Für zulassungspflichtige Handwerke (Anlage A der Handwerksordnung), etwa Dachdecker, Elektrotechniker, Installateur und Heizungsbauer, Maler und Lackierer, Fliesenleger oder Tischler, muss der Betrieb in die <strong>Handwerksrolle</strong> der zuständigen Handwerkskammer eingetragen sein. Nachweis ist die <strong>Handwerkskarte</strong>; lassen Sie sie sich zeigen. Die Kammern geben auch Auskunft, ob ein Betrieb eingetragen ist.</p><p>Ein Meisterbrief ist nicht in jedem Fall Pflicht: Auch Gesellen mit langjähriger Erfahrung können unter bestimmten Bedingungen eingetragen werden. Entscheidend ist die Eintragung.</p>"
+    },
+    {
+      "h2": "Firmenangaben und Impressum",
+      "html": "<ul><li>Vollständige Anschrift (kein Postfach) und Festnetz- oder Mobilnummer mit erreichbarem Ansprechpartner</li><li>Bei GmbH, UG oder eingetragenem Kaufmann: Eintrag im Handelsregister (über das gemeinsame Registerportal der Länder abrufbar)</li><li>Umsatzsteuer-Identifikationsnummer oder Steuernummer auf Angebot und Rechnung</li><li>Eine Website mit Impressum; Anbieter ohne Impressum sind ein Warnzeichen</li></ul>"
+    },
+    {
+      "h2": "Versicherung und Referenzen",
+      "html": "<p>Fragen Sie nach einer <strong>Betriebshaftpflichtversicherung</strong>: Sie zahlt, wenn bei den Arbeiten Schäden an Ihrem Eigentum entstehen. Bei größeren Projekten lohnen sich Referenzen ähnlicher Aufträge in Ihrer Gegend; seriöse Betriebe nennen sie gern. Bewertungen auf Plattformen geben einen Eindruck, achten Sie aber auf konkrete, nachvollziehbare Berichte.</p>"
+    },
+    {
+      "h2": "Warnzeichen",
+      "html": "<ul><li>Druck zur sofortigen Unterschrift oder Vorkasse in bar</li><li>Angebote „ohne Rechnung“: Das ist <a href=\"/ratgeber/schwarzarbeit-risiken/\">Schwarzarbeit</a></li><li>Unaufgeforderte Haustürbesuche („Wir sind gerade in der Gegend, Ihr Dach…“)</li><li>Nur pauschale Angebote ohne Positionen und Mengen</li><li>Lockpreise am Telefon, die vor Ort plötzlich steigen (siehe <a href=\"/ratgeber/notdienst-abzocke/\">Notdienst-Abzocke</a>)</li></ul>"
+    },
+    {
+      "h2": "Unsere Rolle",
+      "html": "<p>HandwerkerFinder beschäftigt und prüft selbst keine Handwerker. Unsere Partner-Plattformen haben eigene Prüfprozesse; die abschließende Prüfung und die Entscheidung liegen bei Ihnen. Weiter geht es mit <a href=\"/ratgeber/angebot-verstehen/\">Angebote richtig vergleichen</a>.</p>"
+    },
+    {
+      "h2": "Quellen und offizielle Links",
+      "html": "<ul><li><a href=\"https://www.gesetze-im-internet.de/hwo/\" rel=\"noopener\" target=\"_blank\">Handwerksordnung (HwO), Anlage A</a></li><li><a href=\"https://www.zdh.de/\" rel=\"noopener\" target=\"_blank\">Zentralverband des Deutschen Handwerks: Handwerkskammern</a></li><li><a href=\"https://www.handelsregister.de/\" rel=\"noopener\" target=\"_blank\">Gemeinsames Registerportal der Länder (Handelsregister)</a></li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Muss mein Handwerker Meister sein?",
+      "a": "Nicht zwingend. Bei zulassungspflichtigen Handwerken muss der Betrieb in der Handwerksrolle eingetragen sein; dafür gibt es neben dem Meisterbrief weitere Wege. Bei zulassungsfreien Tätigkeiten reicht eine Gewerbeanmeldung."
+    },
+    {
+      "q": "Wo kann ich prüfen, ob ein Betrieb eingetragen ist?",
+      "a": "Bei der zuständigen Handwerkskammer. Viele Kammern bieten eine Betriebssuche auf ihrer Website an; ansonsten hilft ein Anruf."
+    }
+  ],
+  "related": [
+    "ratgeber/angebot-verstehen",
+    "ratgeber/kostenvoranschlag-festpreis",
+    "ratgeber/gewaehrleistung"
+  ],
+  "relatedTitle": "Weitere Ratgeber",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

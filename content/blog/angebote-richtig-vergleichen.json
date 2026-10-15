@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog/angebote-richtig-vergleichen",
+  "type": "post",
+  "date": "2026-10-15",
+  "title": "Drei Handwerkerangebote einholen: So vergleichen Sie fair",
+  "description": "Warum zwei bis drei Angebote meist genügen, wie Sie gleiche Leistungen vergleichen und welche Fragen Sie bei auffällig günstigen Angeboten stellen sollten.",
+  "keywords": [
+    "angebote einholen",
+    "handwerker vergleichen",
+    "günstiger handwerker",
+    "drei angebote"
+  ],
+  "cardText": "Gleiche Leistung, gleiche Basis, gezielte Rückfragen",
+  "eyebrow": "Blog",
+  "h1": "Drei Angebote einholen und fair vergleichen",
+  "intro": "Mehrere Angebote zeigen, was eine Arbeit ungefähr kostet und wie unterschiedlich Betriebe sie angehen. Damit der Vergleich aussagekräftig ist, braucht es eine gemeinsame Basis.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1681505531034-8d67054e07f6",
+    "alt": "Zwei Personen geben sich über einem Dokument die Hand",
+    "credit": "Amina Atar",
+    "creditUrl": "https://unsplash.com/@minaslens"
+  },
+  "sections": [
+    {
+      "h2": "Eine gute Anfrage",
+      "html": "<p>Je genauer Ihre Beschreibung, desto vergleichbarer die Angebote. Nennen Sie Maße, Material- und Qualitätswünsche, den gewünschten Zeitraum und fügen Sie Fotos bei. Bei größeren Arbeiten ist ein Vor-Ort-Termin sinnvoll; viele Betriebe kalkulieren ohne Besichtigung nur grob.</p>"
+    },
+    {
+      "h2": "Gleiches mit Gleichem vergleichen",
+      "html": "<ul><li>Sind dieselben Positionen enthalten, etwa Gerüst, Entsorgung, Anfahrt?</li><li>Stimmen die Mengen überein?</li><li>Ist das Material gleichwertig?</li><li>Gibt es Positionen „nach Aufwand“ oder „Eventualpositionen“?</li></ul>"
+    },
+    {
+      "h2": "Wenn ein Angebot deutlich günstiger ist",
+      "html": "<p>Fragen Sie nach, statt sofort zuzusagen. Oft fehlen Leistungen, die später nachberechnet werden, oder Mengen sind knapp geschätzt. Manchmal ist ein Betrieb aber auch einfach gut ausgelastet geplant oder hat kurze Wege. Entscheidend ist, dass Sie verstehen, woher der Unterschied kommt.</p>"
+    },
+    {
+      "h2": "Mehr als nur der Preis",
+      "html": "<p>Erreichbarkeit, Termintreue, nachvollziehbare Erklärungen und Referenzen zählen ebenso. Wie Sie einen Betrieb prüfen, steht in unserem Ratgeber <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>; was in ein Angebot gehört, erklärt <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "§ 632 BGB (Vergütung, Kostenanschlag im Zweifel unentgeltlich)",
+      "url": "https://www.gesetze-im-internet.de/bgb/__632.html"
+    }
+  ],
+  "related": [
+    "ratgeber/angebot-verstehen",
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/kostenvoranschlag-festpreis"
+  ],
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

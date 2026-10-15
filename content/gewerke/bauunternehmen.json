@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/bauunternehmen",
+  "nav": "Bauen und Renovieren",
+  "title": "Bauunternehmen finden: Umbau und Sanierung | HandwerkerFinder",
+  "description": "Anbau, Umbau, Kernsanierung oder Innenausbau: Finden Sie ein Bauunternehmen in Ihrer Region und vergleichen Sie kostenlose Angebote für Ihr Bauvorhaben.",
+  "keywords": [
+    "bauunternehmen",
+    "sanierung",
+    "kernsanierung",
+    "anbau",
+    "umbau haus",
+    "innenausbau"
+  ],
+  "cardText": "Anbau, Umbau, Kernsanierung, Innenausbau und Rohbau",
+  "eyebrow": "Bauen und Renovieren",
+  "h1": "Bauunternehmen für Umbau und Sanierung finden",
+  "intro": "Bei größeren Vorhaben wie einem Anbau oder einer Kernsanierung braucht es ein Unternehmen, das mehrere Gewerke koordiniert oder selbst ausführt. Beschreiben Sie Ihr Projekt und vergleichen Sie Angebote aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1672627170267-fca17bb54156",
+    "alt": "Haus im Bau mit Holzwänden und gestapelten Fenstern im Vordergrund",
+    "credit": "Ernie Journeys",
+    "creditUrl": "https://unsplash.com/@erniejourneys"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Bauen und Renovieren?",
+      "html": "<ul><li>Innenausbau und Sanierung von Wohnungen und Häusern</li><li>Bau von Nebengebäuden und Anbauten</li><li>Rohbau und Mauerarbeiten</li><li>Kernsanierung mit Koordination der Gewerke</li><li>Balkonbau und -sanierung, Kellersanierung</li><li>Abrissarbeiten und Entsorgung</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Sie haben ein älteres Haus gekauft und möchten es umfassend modernisieren</li><li>Sie brauchen mehr Platz und planen einen Anbau</li><li>Mehrere Gewerke sollen aus einer Hand koordiniert werden</li><li>Ein Balkon oder Keller muss saniert werden</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Welche Gewerke führen Sie selbst aus, welche vergeben Sie an Subunternehmer?</li><li>Gibt es einen festen Bauleiter als Ansprechpartner und einen verbindlichen Bauzeitenplan?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Größe, Bauweise und Ausstattungsstandard</li><li>Zustand der Bausubstanz und unvorhergesehene Schäden</li><li>Planung, Statik, Genehmigungen und Bauleitung</li><li>Baustelleneinrichtung, Gerüst, Container und Entsorgung</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Planen Sie bei Sanierungen einen Puffer für Unvorhergesehenes ein: Im Altbau zeigt sich vieles erst beim Öffnen.</li><li>Vereinbaren Sie Abschlagszahlungen nach Baufortschritt, nicht nach Datum.</li><li>Fotografieren Sie Leitungen und Konstruktionen, bevor Wände geschlossen werden.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Für Neubau und erhebliche Umbauten eines bestehenden Gebäudes durch einen Unternehmer gelten die Regeln zum Verbraucherbauvertrag (§§ 650i ff. BGB): Sie haben Anspruch auf eine Baubeschreibung und verbindliche Angaben zur Bauzeit, ein 14-tägiges Widerrufsrecht, und Abschlagszahlungen sind auf 90 % der Gesamtvergütung begrenzt. Ob eine Baugenehmigung nötig ist, regelt die Landesbauordnung Ihres Bundeslandes; Bauanträge stellt ein bauvorlageberechtigter Architekt oder Ingenieur.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Generalunternehmer oder Einzelvergabe?",
+      "a": "Ein Generalunternehmer koordiniert alles und haftet für das Gesamtwerk, ist aber oft etwas teurer. Bei der Einzelvergabe sparen Sie unter Umständen Geld, tragen dafür aber das Koordinationsrisiko."
+    },
+    {
+      "q": "Brauche ich für einen Anbau eine Baugenehmigung?",
+      "a": "In aller Regel ja. Kleine Vorhaben können genehmigungsfrei sein. Was gilt, regelt die Landesbauordnung; das Bauamt Ihrer Gemeinde gibt Auskunft."
+    },
+    {
+      "q": "Wie sichere ich mich gegen Pleiten des Bauunternehmens ab?",
+      "a": "Zahlen Sie nur nach Baufortschritt, prüfen Sie Referenzen und Handelsregister, und vereinbaren Sie Sicherheiten. Beim Verbraucherbauvertrag steht Ihnen eine Sicherheit von 5 % der Vergütung zu."
+    }
+  ],
+  "related": [
+    "gewerke/maurer",
+    "gewerke/trockenbau",
+    "gewerke/energieberater"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

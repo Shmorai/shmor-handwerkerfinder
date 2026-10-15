@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/baumpflege",
+  "nav": "Baumpflege",
+  "title": "Baum fällen lassen: Baumpfleger finden | HandwerkerFinder",
+  "description": "Baum fällen, Baumschnitt, Kronenpflege oder Wurzelfräsen: Finden Sie einen Baumpfleger in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "baum fällen",
+    "baumfällung",
+    "baumpfleger",
+    "baumschnitt",
+    "baumpflege",
+    "wurzel entfernen"
+  ],
+  "cardText": "Baumfällung, Kronenschnitt, Totholzentfernung, Wurzelfräsen",
+  "eyebrow": "Bäume fällen und pflegen",
+  "h1": "Baumpfleger in Ihrer Nähe finden",
+  "intro": "Große Bäume zu fällen oder zu schneiden ist gefährlich und braucht Ausrüstung, Erfahrung und oft eine Genehmigung. Vergleichen Sie Angebote von Baumpflegern und Fällfirmen aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1684332666088-f35b252b5aca",
+    "alt": "Mann schneidet einen Baum mit der Motorsäge",
+    "credit": "kasia",
+    "creditUrl": "https://unsplash.com/@kachkwat"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Baumpflege?",
+      "html": "<ul><li>Fällung von Bäumen, auch Problemfällungen mit Seilklettertechnik</li><li>Kronenschnitt, Kronenpflege und Totholzentfernung</li><li>Wurzelstock fräsen und entfernen</li><li>Pflanzen von Bäumen, Sträuchern und Hecken</li><li>Entsorgung von Gartenabfällen und Häckseln</li><li>Baumkontrolle und Einschätzung der Verkehrssicherheit</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Ein Baum ist krank, morsch oder steht schief</li><li>Äste ragen über Dach, Leitungen oder zum Nachbarn</li><li>Nach einem Sturm sind Äste gebrochen</li><li>Ein Baum soll einem Bauvorhaben weichen</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Wird geprüft, ob eine Fällgenehmigung nach der Baumschutzsatzung nötig ist?</li><li>Ist eine Haftpflichtversicherung für Schäden an Haus und Nachbargrundstück vorhanden?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Höhe, Stammumfang und Standort des Baumes</li><li>Platz zum Fällen oder Abtragen in Stücken, Hubsteiger oder Seilklettertechnik</li><li>Entsorgung von Holz und Grünschnitt</li><li>Wurzelfräsen und Genehmigungsgebühren</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Fragen Sie vor jeder Fällung bei Ihrer Gemeinde nach einer Baumschutzsatzung.</li><li>Kontrollieren Sie große Bäume regelmäßig auf Pilze, Risse und Totholz: Als Eigentümer haften Sie für die Verkehrssicherheit.</li><li>Brennholz vom eigenen Baum muss vor dem Verfeuern gut trocknen, meist mindestens zwei Jahre.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Viele Städte und Gemeinden schützen Bäume ab einem bestimmten Stammumfang durch eine Baumschutzsatzung; dann brauchen Sie für die Fällung eine Genehmigung, oft verbunden mit einer Ersatzpflanzung. Außerdem verbietet § 39 Abs. 5 BNatSchG das Fällen von Bäumen außerhalb des Waldes und von gärtnerisch genutzten Grundflächen zwischen 1. März und 30. September. Nistende Vögel und Fledermäuse sind ganzjährig geschützt.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Darf ich einen Baum in meinem Garten einfach fällen?",
+      "a": "Nicht immer. Prüfen Sie, ob Ihre Gemeinde eine Baumschutzsatzung hat und ob geschützte Tiere im Baum leben. Fällungen sind grundsätzlich von Oktober bis Februar vorzunehmen."
+    },
+    {
+      "q": "Wer haftet, wenn ein Baum auf das Nachbarhaus fällt?",
+      "a": "Grundsätzlich der Eigentümer, wenn er seine Verkehrssicherungspflicht verletzt hat, etwa bei erkennbar krankem Baum. Regelmäßige Kontrollen schützen Sie."
+    },
+    {
+      "q": "Ist Baumfällen steuerlich absetzbar?",
+      "a": "Die Arbeitskosten für Baumfällung und Baumpflege auf dem eigenen Grundstück können nach § 35a EStG berücksichtigt werden."
+    }
+  ],
+  "related": [
+    "gewerke/garten-landschaftsbau",
+    "gewerke/entruempelung",
+    "gewerke/zaunbau"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

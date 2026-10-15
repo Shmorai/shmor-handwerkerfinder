@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/kuechenbau",
+  "nav": "Küchenmontage",
+  "title": "Küchenmontage: Küchenbauer finden | HandwerkerFinder",
+  "description": "Küche aufbauen, erweitern oder Arbeitsplatte tauschen: Finden Sie einen Küchenmonteur in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "küchenmontage",
+    "küche aufbauen",
+    "küchenmonteur",
+    "arbeitsplatte austauschen",
+    "küche anschließen",
+    "ikea küche aufbauen"
+  ],
+  "cardText": "Aufbau von Einbau- und Fertigküchen, Arbeitsplatten, Geräteanschluss",
+  "eyebrow": "Küche",
+  "h1": "Küchenmonteur in Ihrer Nähe finden",
+  "intro": "Eine Küche aufzubauen verlangt Präzision: Schränke ausrichten, Arbeitsplatten zuschneiden, Geräte anschließen. Vergleichen Sie Angebote von Küchenbauern und Monteuren aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1601760561441-16420502c7e0",
+    "alt": "Weiße Küchenschränke mit weißer Pendelleuchte",
+    "credit": "Clay Elliot",
+    "creditUrl": "https://unsplash.com/@ibidsy"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Küchenmontage?",
+      "html": "<ul><li>Auf- und Abbau von Fertigküchen, auch IKEA-Küchen</li><li>Aufbau und Erweiterung von Einbauküchen</li><li>Zuschnitt und Einbau von Arbeitsplatten</li><li>Anschluss von Spüle, Spülmaschine und Elektrogeräten</li><li>Ab- und Wiederaufbau der Küche beim Umzug</li><li>Küchenplanung und Aufmaß</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Sie haben eine neue Küche gekauft und möchten sie montieren lassen</li><li>Sie ziehen um und nehmen die Küche mit</li><li>Arbeitsplatte oder Fronten sollen erneuert werden</li><li>Neue Geräte müssen eingebaut und angeschlossen werden</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Sind Wasser- und Elektroanschluss im Preis enthalten, und wer führt sie aus?</li><li>Wie werden Ausschnitte für Spüle und Kochfeld gefertigt?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Anzahl der Schränke und Laufmeter</li><li>Material der Arbeitsplatte und Anzahl der Ausschnitte</li><li>Anschlüsse für Wasser, Strom und Starkstrom (Herd)</li><li>Anfahrt, Etage und Entsorgung von Verpackung und Altküche</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Prüfen Sie vor der Montage, ob alle Teile vollständig und unbeschädigt geliefert wurden.</li><li>Elektroherde mit Starkstrom gehören vom Elektriker angeschlossen.</li><li>Messen Sie Wände vor der Planung auf Schiefe und Winkel: Altbauwände sind selten gerade.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Den Anschluss eines Herdes an die Starkstromdose sollte ein Elektrofachbetrieb übernehmen; Gasherde dürfen nur von beim Gasversorger eingetragenen Installateuren angeschlossen werden. Wer eine Küche mit Montage bei einem Händler kauft, schließt oft einen Werkvertrag: Mängel an der Montage reklamieren Sie dann beim Händler.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie lange dauert die Montage einer Küche?",
+      "a": "Eine durchschnittliche Einbauküche ist oft in ein bis zwei Tagen montiert, Arbeitsplatten aus Stein werden meist separat geliefert."
+    },
+    {
+      "q": "Montiert ein Monteur auch eine online gekaufte Küche?",
+      "a": "Ja, viele Monteure bauen Küchen aller Hersteller auf. Halten Sie den Plan und die Montageanleitung bereit."
+    },
+    {
+      "q": "Ist die Küchenmontage steuerlich absetzbar?",
+      "a": "Die Arbeitskosten für die Montage im eigenen Haushalt können als Handwerkerleistung nach § 35a EStG berücksichtigt werden."
+    }
+  ],
+  "related": [
+    "gewerke/tischler",
+    "gewerke/montageservice",
+    "gewerke/elektriker"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

@@ -1,0 +1,35 @@
+{
+  "updated": "2026-10-15",
+  "search": false,
+  "ctaSearch": false,
+  "eyebrow": "Rechtliches",
+  "related": [
+    "datenschutz",
+    "impressum",
+    "so-funktionierts"
+  ],
+  "relatedTitle": "Weitere Informationen",
+  "slug": "cookies",
+  "title": "Cookies und Speicherung | HandwerkerFinder",
+  "description": "Cookie-Hinweise von HandwerkerFinder: Diese Website setzt keine Cookies und greift nicht auf Ihr Endgerät zu. Deshalb gibt es auch kein Cookie-Banner.",
+  "keywords": [
+    "cookies"
+  ],
+  "cardText": "Keine Cookies, kein Banner",
+  "h1": "Cookies",
+  "intro": "Kurz gesagt: Diese Website setzt keine Cookies und speichert nichts auf Ihrem Gerät. Deshalb sehen Sie auch kein Cookie-Banner.",
+  "sections": [
+    {
+      "h2": "Was wir nicht verwenden",
+      "html": "<ul><li>Keine Cookies</li><li>Kein localStorage oder sessionStorage</li><li>Keine Analyse-, Tracking- oder Werbedienste</li></ul><p>Damit greifen wir nicht im Sinne von § 25 Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG) auf Ihr Endgerät zu, und eine Einwilligung ist nicht erforderlich.</p>"
+    },
+    {
+      "h2": "Partnerseiten",
+      "html": "<p>Wenn Sie über einen Partnerlink auf eine andere Website wechseln, kann diese eigene Cookies setzen. Dafür gelten die Hinweise des jeweiligen Anbieters.</p>"
+    },
+    {
+      "h2": "Wenn sich das ändert",
+      "html": "<p>Sollten wir künftig Dienste einsetzen, die Cookies benötigen, holen wir vorher Ihre Einwilligung ein, bieten „Ablehnen“ genauso einfach an wie „Akzeptieren“ und führen hier jedes Cookie mit Zweck und Speicherdauer auf.</p>"
+    }
+  ]
+}

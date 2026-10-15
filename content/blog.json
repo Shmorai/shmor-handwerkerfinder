@@ -1,0 +1,25 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Blog",
+  "navOrder": 4,
+  "title": "Ratgeber-Blog: Tipps für Haus, Wohnung und Garten",
+  "description": "Praktische Tipps rund um Handwerker, Renovierung, Heizung, Garten und Umzug: verständlich erklärt, mit Quellen und offiziellen Links.",
+  "keywords": [
+    "handwerker tipps",
+    "renovierung tipps",
+    "haus und garten ratgeber"
+  ],
+  "cardText": "Tipps für Haus, Wohnung und Garten",
+  "eyebrow": "Blog",
+  "h1": "Der HandwerkerFinder-Blog",
+  "intro": "Antworten auf Fragen, die sich viele vor dem nächsten Handwerkerauftrag stellen: verständlich, mit Quellen und ohne Werbeversprechen.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1606676539940-12768ce0e762",
+    "alt": "Akkubohrer, Hammer und ein gelbes Messgerät auf einem Teppich",
+    "credit": "Sam Clarke",
+    "creditUrl": "https://unsplash.com/@clarke_designs_photography"
+  },
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

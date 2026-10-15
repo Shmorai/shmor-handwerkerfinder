@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/schleswig-holstein",
+  "nav": "Schleswig-Holstein",
+  "title": "Handwerker in Schleswig-Holstein: Angebote vergleichen",
+  "description": "Handwerker in Schleswig-Holstein finden (Kiel, Lübeck und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker schleswig-holstein",
+    "handwerker kiel",
+    "handwerker lübeck",
+    "handwerker flensburg",
+    "handwerker neumünster",
+    "elektriker kiel",
+    "elektriker lübeck"
+  ],
+  "cardText": "Kiel, Lübeck, Flensburg, Neumünster … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Schleswig-Holstein finden",
+  "intro": "Ob Sanitär in Kiel, Dachdecker in Lübeck oder Maler in Flensburg: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Schleswig-Holstein.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1581183854340-5556ec080efd",
+    "alt": "Historisches Backsteingebäude mit dunklem Dach",
+    "credit": "Moritz Kindler",
+    "creditUrl": "https://unsplash.com/@moritz_photography"
+  },
+  "chips": [
+    {
+      "label": "Dachdecker",
+      "slug": "gewerke/dachdecker"
+    },
+    {
+      "label": "Fenster und Türen",
+      "slug": "gewerke/fenster-tueren"
+    },
+    {
+      "label": "Fassade",
+      "slug": "gewerke/fassade"
+    },
+    {
+      "label": "Garten- und Landschaftsbau",
+      "slug": "gewerke/garten-landschaftsbau"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Schleswig-Holstein vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern in Schleswig-Holstein",
+      "html": "<p>Landeshauptstadt ist Kiel. Größere Städte sind unter anderem Kiel, Lübeck, Flensburg, Neumünster, Norderstedt, Elmshorn, Pinneberg, Husum. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Schleswig-Holstein ist die Handwerkskammern Flensburg und Lübeck zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Schleswig-Holstein",
+      "html": "<ul><li>Reetgedeckte Häuser sind in Nordfriesland, Dithmarschen und an der Ostsee typisch; Reetdachdecker sind gefragt, Brandschutz ist ein Thema.</li><li>Backstein und Klinker prägen Städte wie Lübeck, Flensburg und Kiel.</li><li>Knicks, die typischen Wallhecken der Region, sind geschützt und dürfen nur nach bestimmten Regeln gepflegt werden.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>Zwischen Nord- und Ostsee sind Wind und Sturmfluten das zentrale Risiko; Dächer, Fenster und Fassaden müssen viel aushalten. In Marschgebieten liegt Grundwasser oft hoch, was Keller und Fundamente betrifft.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Landesbauordnung für das Land Schleswig-Holstein (LBO)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Grenzabstände für Hecken, Bäume und Zäune sowie Fragen wie überstehende Dämmung regelt das <strong>Nachbarrechtsgesetz für das Land Schleswig-Holstein (NachbG Schl.-H.)</strong>. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Schleswig-Holstein an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was muss ich bei einem Reetdach beachten?",
+      "a": "Reetdächer brauchen regelmäßige Kontrolle und Pflege durch Fachbetriebe. Die Versicherungsprämie ist oft höher; Funkenflug von Kaminen und Abstände zu Grillplätzen sind wichtige Brandschutzthemen."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Schleswig-Holstein?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/dachdecker",
+    "gewerke/fenster-tueren",
+    "gewerke/fassade",
+    "regionen/hamburg",
+    "regionen/mecklenburg-vorpommern",
+    "regionen/niedersachsen"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Schleswig-Holstein"
+}

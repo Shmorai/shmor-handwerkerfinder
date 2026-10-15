@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/waermepumpe",
+  "nav": "Wärmepumpe",
+  "title": "Wärmepumpe installieren: Fachbetrieb finden | HandwerkerFinder",
+  "description": "Luft-Wasser- oder Erdwärmepumpe: Finden Sie einen Fachbetrieb für Planung und Installation in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "wärmepumpe",
+    "waermepumpe",
+    "wärmepumpe installieren",
+    "luft-wasser-wärmepumpe",
+    "erdwärmepumpe",
+    "wärmepumpe altbau"
+  ],
+  "cardText": "Planung, Heizlastberechnung, Installation und Wartung von Wärmepumpen",
+  "eyebrow": "Wärmepumpe",
+  "h1": "Fachbetrieb für Wärmepumpen finden",
+  "intro": "Eine Wärmepumpe nutzt Wärme aus Luft, Erde oder Grundwasser und kann auch in vielen Bestandsgebäuden effizient heizen, wenn sie gut geplant ist. Vergleichen Sie Angebote von Fachbetrieben aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1776860150305-108ed577d7d4",
+    "alt": "Außeneinheit einer Wärmepumpe neben einem Backsteingebäude",
+    "credit": "alpha innotec",
+    "creditUrl": "https://unsplash.com/@alpha_innotec"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Wärmepumpe?",
+      "html": "<ul><li>Heizlastberechnung und Auslegung der Anlage</li><li>Installation von Luft-Wasser-, Sole-Wasser- und Wasser-Wasser-Wärmepumpen</li><li>Einbindung in die bestehende Heizung, Hybridlösungen</li><li>Hydraulischer Abgleich, Austausch einzelner Heizkörper</li><li>Warmwasserbereitung mit Wärmepumpe</li><li>Wartung, Störungsbehebung und Optimierung der Einstellungen</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Ihre alte Heizung muss ersetzt werden</li><li>Sie sanieren energetisch oder bauen neu</li><li>Sie haben eine PV-Anlage und möchten den Strom selbst nutzen</li><li>Ihre bestehende Wärmepumpe verbraucht mehr Strom als erwartet</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Installateur und Heizungsbauer)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Wird eine raumweise Heizlastberechnung erstellt?</li><li>Wo steht das Außengerät, und welche Schallwerte sind am Nachbargrundstück zu erwarten?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Art der Wärmequelle (Luft, Erdsonde, Grundwasser) und Erschließung</li><li>Heizlast des Gebäudes und notwendige Leistung</li><li>Anpassungen an Heizkörpern, Speicher und Elektrik</li><li>Bohrung, Genehmigungen und Fundament für das Außengerät</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Prüfen Sie im Winter, mit welcher Vorlauftemperatur Ihre jetzige Heizung auskommt: Je niedriger, desto besser für eine Wärmepumpe.</li><li>Fragen Sie nach der erwarteten Jahresarbeitszahl, sie zeigt die Effizienz im Alltag.</li><li>Halten Sie mit dem Außengerät Abstand zu Schlafzimmerfenstern, auch zu denen der Nachbarn.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Wärmepumpe</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Installateur und Heizungsbauer). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>Luft-Wasser-Wärmepumpen müssen die Immissionsrichtwerte der TA Lärm einhalten; Abstände zum Nachbarn und baurechtliche Vorgaben regeln die Landesbauordnungen. Erdsonden und Grundwasserwärmepumpen brauchen eine wasserrechtliche Erlaubnis der Unteren Wasserbehörde. Für Wärmepumpen gibt es oft spezielle Stromtarife, für die der Netzbetreiber eine Steuerung zulassen kann (§ 14a EnWG). Förderung gibt es über die KfW; die Bedingungen ändern sich, prüfen Sie den aktuellen Stand.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Funktioniert eine Wärmepumpe im Altbau?",
+      "a": "In vielen Altbauten ja, besonders wenn Vorlauftemperaturen um 55 °C ausreichen. Oft genügt es, einzelne Heizkörper zu vergrößern. Eine Heizlastberechnung zeigt, ob es passt."
+    },
+    {
+      "q": "Wie laut ist eine Luft-Wärmepumpe?",
+      "a": "Das hängt vom Gerät und vom Aufstellort ab. Der Bundesverband Wärmepumpe bietet einen Schallrechner, mit dem Sie den Abstand zum Nachbarn prüfen können."
+    },
+    {
+      "q": "Brauche ich eine Genehmigung?",
+      "a": "Für Luft-Wärmepumpen meist nicht, Abstandsregeln gelten trotzdem. Erdwärmesonden und Brunnen müssen bei der Unteren Wasserbehörde angezeigt oder genehmigt werden."
+    }
+  ],
+  "related": [
+    "gewerke/heizung",
+    "gewerke/energieberater",
+    "gewerke/solar"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

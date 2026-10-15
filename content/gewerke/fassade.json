@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/fassade",
+  "nav": "Fassade",
+  "title": "Fassade sanieren und dämmen: Angebote | HandwerkerFinder",
+  "description": "Fassadendämmung, Putz, Anstrich, Klinker oder Fassadenreinigung: Finden Sie einen Fachbetrieb in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "fassade sanieren",
+    "fassadendämmung",
+    "fassade streichen",
+    "wärmedämmverbundsystem",
+    "fassade verputzen",
+    "fassadenreinigung"
+  ],
+  "cardText": "Fassadendämmung, Putz, Anstrich, Verkleidung, Reinigung",
+  "eyebrow": "Fassade und Dämmung",
+  "h1": "Fachbetrieb für Ihre Fassade finden",
+  "intro": "Die Fassade schützt das Haus vor Wetter und bestimmt seinen Energieverbrauch mit. Ob neuer Anstrich, Putzsanierung oder Dämmung: Vergleichen Sie Angebote von Stuckateuren, Malern und Fassadenbauern aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1574359411659-15573a27fd0c",
+    "alt": "Zwei Handwerker auf Leitern an einer Hauswand",
+    "credit": "Ricky Singh",
+    "creditUrl": "https://unsplash.com/@rickysinghy"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Fassade?",
+      "html": "<ul><li>Wärmedämmung der Fassade (z. B. Wärmedämmverbundsystem)</li><li>Verputzen von Fassaden und Außenwänden, Dekorputz</li><li>Malerarbeiten außen und Fassadenanstrich</li><li>Verkleidung von Fassaden und Giebeln, Riemchenverklinkerung</li><li>Sanierung und Restaurierung historischer Fassaden</li><li>Reinigung von Fassaden, Algen- und Moosentfernung</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Der Putz hat Risse, blättert ab oder ist von Algen befallen</li><li>Die Heizkosten sind hoch und die Wände kalt</li><li>Ein neuer Anstrich steht an</li><li>Sie sanieren ohnehin und das Gerüst steht</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Welches Dämmsystem und welche Dämmstärke schlagen Sie vor?</li><li>Wie werden Fensteranschlüsse, Sockel und Dachüberstand gelöst?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Fassadenfläche und Gebäudehöhe</li><li>Gerüst und gegebenenfalls Genehmigung für öffentlichen Raum</li><li>Dämmstoff, Dämmstärke und Oberfläche</li><li>Vorarbeiten: Putzschäden, Fensterbänke, Fallrohre versetzen</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Kombinieren Sie Anstrich, Putzreparatur und Dämmung, solange das Gerüst steht.</li><li>Lassen Sie Fensterbänke und Rollladenkästen bei der Dämmung gleich mitplanen.</li><li>Algen an der Nordseite sind oft ein Zeichen für Feuchtigkeit: Ursache vor dem Streichen klären.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Wer mehr als 10 % einer Außenwandfläche erneuert, etwa durch neuen Putz, muss die Anforderungen des Gebäudeenergiegesetzes an den Wärmeschutz einhalten (GEG, Anlage 7). Ein Gerüst auf dem öffentlichen Gehweg braucht eine Sondernutzungserlaubnis der Stadt. Ragt eine nachträgliche Dämmung über die Grundstücksgrenze, regeln die Nachbarrechtsgesetze vieler Länder, ob der Nachbar das dulden muss. Bei Denkmalschutz ist eine Genehmigung erforderlich.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Muss ich meine Fassade dämmen?",
+      "a": "Eine allgemeine Dämmpflicht für bestehende Fassaden gibt es nicht. Wenn Sie aber mehr als 10 % der Außenwand erneuern, gelten die Wärmeschutzanforderungen des GEG."
+    },
+    {
+      "q": "Wird die Fassadendämmung gefördert?",
+      "a": "Ja, über die Bundesförderung für effiziente Gebäude (BAFA) oder steuerlich nach § 35c EStG, wenn bestimmte Werte erreicht werden. Anträge vor der Beauftragung stellen."
+    },
+    {
+      "q": "Wie lange hält ein Fassadenanstrich?",
+      "a": "Je nach Farbe, Untergrund und Wetterseite oft zehn Jahre und mehr. Nord- und Westseiten brauchen meist früher Pflege."
+    }
+  ],
+  "related": [
+    "gewerke/maler",
+    "gewerke/energieberater",
+    "gewerke/dachdecker"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

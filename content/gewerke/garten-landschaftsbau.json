@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/garten-landschaftsbau",
+  "nav": "Garten- und Landschaftsbau",
+  "title": "Garten- und Landschaftsbauer finden | HandwerkerFinder",
+  "description": "Gartengestaltung, Gartenpflege, Rasen, Hecken, Teich oder Bewässerung: Finden Sie einen Gartenbauer in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "garten- und landschaftsbau",
+    "gartenbau",
+    "gärtner",
+    "gartenpflege",
+    "gartengestaltung",
+    "hecke schneiden",
+    "rasen anlegen"
+  ],
+  "cardText": "Gartengestaltung, Gartenpflege, Rasen, Hecken, Teiche, Bewässerung",
+  "eyebrow": "Garten und Außenbereich",
+  "h1": "Garten- und Landschaftsbauer finden",
+  "intro": "Vom regelmäßigen Heckenschnitt bis zur kompletten Neugestaltung: Gartenbaubetriebe planen, bauen und pflegen Ihren Garten. Vergleichen Sie Angebote von Gärtnern und Landschaftsbauern aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1621272156568-7306716648df",
+    "alt": "Schubkarre in einem Garten mit Schuppen und blühenden Sträuchern",
+    "credit": "Annie Spratt",
+    "creditUrl": "https://unsplash.com/@anniespratt"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Garten- und Landschaftsbau?",
+      "html": "<ul><li>Gartenplanung, Anlage und Gestaltung von Gärten</li><li>Pflege von Gärten: Rasen, Hecken, Sträucher, Beete</li><li>Anlegen und Pflegen von Rasenflächen, Rollrasen</li><li>Anlegen und Pflegen von Gartenteichen und Springbrunnen</li><li>Installation von Bewässerungsanlagen</li><li>Hochbeete, Rasenkanten, Garten- und Außenbeleuchtung</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Der Garten ist verwildert oder Sie haben keine Zeit für die Pflege</li><li>Sie haben neu gebaut und der Garten soll angelegt werden</li><li>Sie möchten Rasen, Beete oder einen Teich neu gestalten</li><li>Hecken und Sträucher brauchen einen fachgerechten Schnitt</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Ist die Entsorgung des Grünschnitts im Preis enthalten?</li><li>Arbeiten Sie mit einem Pflegevertrag oder auf Einzelauftrag?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Größe der Fläche und Zugänglichkeit (Maschinen, Durchgang zum Garten)</li><li>Pflanzen, Rollrasen, Erde und Material</li><li>Erdarbeiten, Entsorgung von Grünschnitt und Aushub</li><li>Häufigkeit der Pflege bei Daueraufträgen</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Heimische Stauden und Gehölze kommen mit weniger Wasser aus und helfen Insekten.</li><li>Regenwasser in einer Zisterne oder Tonne sammeln spart Trinkwasser beim Gießen.</li><li>Rasen lieber seltener und durchdringend wässern als täglich ein bisschen.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Vom 1. März bis 30. September ist es nach § 39 Abs. 5 Bundesnaturschutzgesetz verboten, Hecken, Gebüsche und andere Gehölze radikal zurückzuschneiden oder zu beseitigen; schonende Form- und Pflegeschnitte sind erlaubt. Grenzabstände für Hecken und Bäume regeln die Nachbarrechtsgesetze der Länder. Einige Länder und Gemeinden schränken Schottergärten ein. Garten- und Landschaftsbau ist kein zulassungspflichtiges Handwerk.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wann darf ich meine Hecke schneiden?",
+      "a": "Schonende Form- und Pflegeschnitte sind ganzjährig erlaubt, sofern keine Vögel brüten. Radikale Rückschnitte sind nur von Oktober bis Ende Februar zulässig."
+    },
+    {
+      "q": "Ist Gartenpflege steuerlich absetzbar?",
+      "a": "Ja. Gartenpflege zählt zu den haushaltsnahen Dienstleistungen bzw. Handwerkerleistungen nach § 35a EStG; begünstigt sind die Arbeitskosten, nicht die Pflanzen."
+    },
+    {
+      "q": "Wie weit muss meine Hecke vom Nachbarn entfernt sein?",
+      "a": "Das regelt das Nachbarrechtsgesetz Ihres Bundeslandes, abhängig von der Heckenhöhe. Einige Länder haben kein eigenes Nachbarrechtsgesetz; dann gelten das BGB und örtliche Vorschriften."
+    }
+  ],
+  "related": [
+    "gewerke/baumpflege",
+    "gewerke/pflasterarbeiten",
+    "gewerke/zaunbau"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

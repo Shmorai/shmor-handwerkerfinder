@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/sachsen",
+  "nav": "Sachsen",
+  "title": "Handwerker in Sachsen: Angebote vergleichen",
+  "description": "Handwerker in Sachsen finden (Leipzig, Dresden und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker sachsen",
+    "handwerker leipzig",
+    "handwerker dresden",
+    "handwerker chemnitz",
+    "handwerker zwickau",
+    "elektriker leipzig",
+    "elektriker dresden"
+  ],
+  "cardText": "Leipzig, Dresden, Chemnitz, Zwickau … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Sachsen finden",
+  "intro": "Ob Sanitär in Leipzig, Dachdecker in Dresden oder Maler in Chemnitz: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Sachsen.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1619120810930-6ca5048deee1",
+    "alt": "Historisches Gebäude an einem Fluss an einem sonnigen Tag",
+    "credit": "Oliver Guhr",
+    "creditUrl": "https://unsplash.com/@oliverguhr"
+  },
+  "chips": [
+    {
+      "label": "Maler",
+      "slug": "gewerke/maler"
+    },
+    {
+      "label": "Fenster und Türen",
+      "slug": "gewerke/fenster-tueren"
+    },
+    {
+      "label": "Heizung",
+      "slug": "gewerke/heizung"
+    },
+    {
+      "label": "Badsanierung",
+      "slug": "gewerke/badsanierung"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Sachsen vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern in Sachsen",
+      "html": "<p>Landeshauptstadt ist Dresden. Größere Städte sind unter anderem Leipzig, Dresden, Chemnitz, Zwickau, Plauen, Görlitz, Freiberg, Bautzen. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Sachsen ist die Handwerkskammern Chemnitz, Dresden und Leipzig zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Sachsen",
+      "html": "<ul><li>Leipzig, Dresden und Chemnitz haben große Gründerzeitviertel mit sanierten und unsanierten Altbauten.</li><li>In der Oberlausitz sind Umgebindehäuser eine regionale Besonderheit, die viel handwerkliches Wissen verlangt.</li><li>Elbsandstein und Schiefer aus dem Erzgebirge und Vogtland prägen viele Bauten.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>Im Erzgebirge und im Vogtland gibt es Gebiete mit deutlich erhöhter Radonkonzentration, zum Teil als Radonvorsorgegebiete ausgewiesen. Die Elbhochwasser 2002 und 2013 haben Dresden und viele Orte schwer getroffen.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Sächsische Bauordnung (SächsBO)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Grenzabstände für Hecken, Bäume und Zäune sowie Fragen wie überstehende Dämmung regelt das <strong>Sächsisches Nachbarrechtsgesetz (SächsNRG)</strong>. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Sachsen an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was muss ich in Sachsen beim Thema Radon beachten?",
+      "a": "In Radonvorsorgegebieten gelten für Neubauten und Arbeitsplätze besondere Anforderungen. Auch im Bestand lohnt eine Messung; Abdichtung des Kellers und gutes Lüften senken die Belastung. Informationen bieten das Land und das Bundesamt für Strahlenschutz."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Sachsen?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/maler",
+    "gewerke/fenster-tueren",
+    "gewerke/heizung",
+    "regionen/thueringen",
+    "regionen/sachsen-anhalt",
+    "regionen/brandenburg"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Sachsen"
+}

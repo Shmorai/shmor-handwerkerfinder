@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/solar",
+  "nav": "Solaranlage",
+  "title": "Solaranlage installieren: Solarteur finden | HandwerkerFinder",
+  "description": "Photovoltaikanlage, Stromspeicher, Solarthermie oder Balkonkraftwerk: Finden Sie einen Solarteur in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "photovoltaik",
+    "solaranlage",
+    "pv anlage",
+    "solarteur",
+    "stromspeicher",
+    "balkonkraftwerk",
+    "solarthermie"
+  ],
+  "cardText": "Photovoltaik, Stromspeicher, Solarthermie, Balkonkraftwerke",
+  "eyebrow": "Photovoltaik und Solar",
+  "h1": "Solarteur für Ihre Photovoltaikanlage finden",
+  "intro": "Mit einer Photovoltaikanlage erzeugen Sie Ihren Strom selbst. Gute Planung entscheidet über den Ertrag: Dachausrichtung, Verschattung, Speichergröße und Verbrauch. Vergleichen Sie Angebote von Solarteuren aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a",
+    "alt": "Person montiert ein schwarzes Solarmodul auf einem Schindeldach",
+    "credit": "Bill Mead",
+    "creditUrl": "https://unsplash.com/@wmmead"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Solaranlage?",
+      "html": "<ul><li>Planung und Montage von Photovoltaikanlagen</li><li>Installation von Stromspeichern und Energiemanagement</li><li>Solarthermie und Solar-Warmwasserspeicher</li><li>Anmeldung beim Netzbetreiber und Inbetriebnahme</li><li>Einbindung von Wallbox und Wärmepumpe</li><li>Wartung, Reinigung und Reparatur bestehender Anlagen</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Ihr Dach ist nach Süden, Osten oder Westen ausgerichtet und wenig verschattet</li><li>Sie möchten Stromkosten senken und mehr selbst verbrauchen</li><li>Sie planen eine Wärmepumpe oder ein Elektroauto</li><li>Ihre alte Anlage fällt aus der EEG-Vergütung</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Wie hoch ist der prognostizierte Ertrag, und wie wurde die Verschattung berücksichtigt?</li><li>Übernehmen Sie die Anmeldung beim Netzbetreiber und im Marktstammdatenregister?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Leistung der Anlage (kWp) und Anzahl der Module</li><li>Stromspeicher, Wechselrichter und Energiemanagement</li><li>Dachform, Dacheindeckung und Gerüst</li><li>Zählerschrank-Umbau und Elektroarbeiten</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Prüfen Sie vor der Montage den Zustand des Daches: Muss es bald saniert werden, dann am besten vorher.</li><li>Ein Speicher lohnt sich vor allem, wenn Sie abends viel Strom verbrauchen.</li><li>Verschieben Sie stromintensive Geräte wie Waschmaschine auf sonnige Mittagsstunden.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Photovoltaikanlagen müssen beim Netzbetreiber angemeldet und innerhalb eines Monats nach Inbetriebnahme im Marktstammdatenregister der Bundesnetzagentur registriert werden. Für Lieferung und Installation von PV-Anlagen bis 30 kWp auf oder an Wohngebäuden gilt seit 2023 ein Umsatzsteuersatz von 0 % (§ 12 Abs. 3 UStG). Steckersolargeräte (Balkonkraftwerke) sind vereinfacht: Wechselrichterleistung bis 800 Watt, nur Registrierung im Marktstammdatenregister. Mieter und Wohnungseigentümer haben seit 2024 grundsätzlich einen Anspruch darauf, ein Balkonkraftwerk anbringen zu dürfen.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Lohnt sich eine PV-Anlage noch?",
+      "a": "Das hängt von Dach, Verbrauch und Preisen ab. Je mehr Solarstrom Sie selbst nutzen, desto eher rechnet sich die Anlage. Lassen Sie sich mehrere Angebote mit Wirtschaftlichkeitsberechnung erstellen."
+    },
+    {
+      "q": "Brauche ich eine Genehmigung für eine Solaranlage?",
+      "a": "Auf Dächern von Wohnhäusern ist sie meist genehmigungsfrei. Ausnahmen gibt es bei Denkmalschutz und Gestaltungssatzungen."
+    },
+    {
+      "q": "Darf ich als Mieter ein Balkonkraftwerk anbringen?",
+      "a": "Seit Oktober 2024 gelten Steckersolargeräte als privilegierte Maßnahme: Der Vermieter muss grundsätzlich zustimmen, darf aber Vorgaben zur Art der Anbringung machen."
+    }
+  ],
+  "related": [
+    "gewerke/elektriker",
+    "gewerke/waermepumpe",
+    "gewerke/dachdecker"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

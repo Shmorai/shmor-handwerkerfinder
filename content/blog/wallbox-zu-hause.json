@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog/wallbox-zu-hause",
+  "type": "post",
+  "date": "2026-10-15",
+  "title": "Wallbox zu Hause: Anmeldung und Ablauf der Installation",
+  "description": "Von der Vor-Ort-Prüfung über die Anmeldung beim Netzbetreiber bis zur Inbetriebnahme: So läuft die Installation einer Wallbox für das E-Auto ab.",
+  "keywords": [
+    "wallbox installieren",
+    "wallbox anmelden",
+    "ladestation zuhause",
+    "wallbox 11 kw"
+  ],
+  "cardText": "Prüfung, Anmeldung, Installation, Inbetriebnahme",
+  "eyebrow": "Blog",
+  "h1": "Wallbox zu Hause: so läuft die Installation",
+  "intro": "Laden an der Haushaltssteckdose geht, ist aber langsam und auf Dauer nicht ideal. Eine Wallbox lädt schneller und sicherer, muss aber fachgerecht installiert und angemeldet werden.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1704474618942-ae933a8edd86",
+    "alt": "Schwarzes Ladekabel an einer Holzwand",
+    "credit": "Zaptec",
+    "creditUrl": "https://unsplash.com/@zaptec"
+  },
+  "sections": [
+    {
+      "h2": "1. Vor-Ort-Prüfung",
+      "html": "<p>Ein Elektrofachbetrieb prüft Hausanschluss, Zählerschrank, Leitungsweg und Absicherung. Häufig muss der Zählerschrank erweitert oder eine neue Leitung gelegt werden; das beeinflusst die Kosten am stärksten.</p>"
+    },
+    {
+      "h2": "2. Anmeldung beim Netzbetreiber",
+      "html": "<p>Jede Ladeeinrichtung muss vor der Inbetriebnahme beim Netzbetreiber gemeldet werden. Bei mehr als 12 kVA, also etwa 22-kW-Wallboxen, braucht es vorher seine Zustimmung (§ 19 NAV). Die meisten Privatkunden wählen 11 kW. Die Anmeldung übernimmt in der Regel der Elektrobetrieb.</p>"
+    },
+    {
+      "h2": "3. Steuerbare Verbrauchseinrichtung",
+      "html": "<p>Neue Wallboxen gelten als steuerbare Verbrauchseinrichtungen nach § 14a EnWG: Der Netzbetreiber darf die Leistung in Engpässen begrenzen, im Gegenzug gibt es reduzierte Netzentgelte. Fragen Sie Ihren Stromanbieter nach passenden Tarifen.</p>"
+    },
+    {
+      "h2": "4. Mietwohnung und Eigentumswohnung",
+      "html": "<p>Mieter und Wohnungseigentümer haben einen Anspruch darauf, dass ihnen der Einbau einer Lademöglichkeit gestattet wird (§ 554 BGB, § 20 WEG). Über die Art der Durchführung entscheiden Vermieter bzw. Gemeinschaft mit. Mehr zum Thema auf unserer Seite <a href=\"/gewerke/elektriker/\">Elektriker</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "§ 19 Niederspannungsanschlussverordnung (NAV)",
+      "url": "https://www.gesetze-im-internet.de/nav/__19.html"
+    },
+    {
+      "title": "§ 14a Energiewirtschaftsgesetz",
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__14a.html"
+    },
+    {
+      "title": "§ 554 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__554.html"
+    }
+  ],
+  "related": [
+    "gewerke/elektriker",
+    "gewerke/solar",
+    "blog/balkonkraftwerk-regeln"
+  ],
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

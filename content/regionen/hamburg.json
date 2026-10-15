@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/hamburg",
+  "nav": "Hamburg",
+  "title": "Handwerker in Hamburg: Angebote vergleichen",
+  "description": "Handwerker in Hamburg finden (Hamburg-Mitte, Altona und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker hamburg",
+    "handwerker hamburg-mitte",
+    "handwerker altona",
+    "handwerker eimsbüttel",
+    "handwerker hamburg-nord",
+    "elektriker hamburg-mitte",
+    "elektriker altona"
+  ],
+  "cardText": "Hamburg-Mitte, Altona, Eimsbüttel, Hamburg-Nord … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Hamburg finden",
+  "intro": "Ob Sanitär in Hamburg-Mitte, Dachdecker in Altona oder Maler in Eimsbüttel: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Hamburg.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1552325476-5df397d5b547",
+    "alt": "Historisches Backsteingebäude an einem sonnigen Tag",
+    "credit": "Julia Solonina",
+    "creditUrl": "https://unsplash.com/@julie_soul"
+  },
+  "chips": [
+    {
+      "label": "Fassade",
+      "slug": "gewerke/fassade"
+    },
+    {
+      "label": "Maler",
+      "slug": "gewerke/maler"
+    },
+    {
+      "label": "Umzug",
+      "slug": "gewerke/umzug"
+    },
+    {
+      "label": "Sanitär",
+      "slug": "gewerke/sanitaer"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Hamburg vergleichen",
+  "sections": [
+    {
+      "h2": "Bezirke und Handwerkskammer in Hamburg",
+      "html": "<p>Hamburg gliedert sich in die Bezirke Hamburg-Mitte, Altona, Eimsbüttel, Hamburg-Nord, Wandsbek, Bergedorf, Harburg. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Hamburg ist die Handwerkskammer Hamburg zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Hamburg",
+      "html": "<ul><li>Rotklinker prägt Hamburg, vom Kontorhausviertel bis zu den Wohnblöcken der 1920er-Jahre; Klinker- und Fugensanierung sind Spezialarbeiten.</li><li>Gründerzeitliche Etagenhäuser in Eimsbüttel, Eppendorf oder Ottensen haben Stuck, Holzdielen und alte Leitungen.</li><li>In den Vier- und Marschlanden finden sich Fachwerk und vereinzelt Reetdächer.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>Sturmfluten an der Elbe sind das größte Naturrisiko; Hochwasserschutzanlagen schützen die Stadt. In tiefliegenden Gebieten und bei Starkregen sind Keller gefährdet; Rückstausicherungen sind wichtig.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Hamburgische Bauordnung (HBauO)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Hamburg hat kein eigenes Nachbarrechtsgesetz; für Grenzabstände und Einfriedungen gelten das BGB, die Bauordnung und örtliche Satzungen. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Hamburg an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Gibt es in Hamburg ein Nachbarrechtsgesetz?",
+      "a": "Nein, Hamburg hat kein eigenes Nachbarrechtsgesetz. Es gelten das BGB, die Hamburgische Bauordnung und Bebauungspläne."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Hamburg?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/fassade",
+    "gewerke/maler",
+    "gewerke/umzug",
+    "regionen/schleswig-holstein",
+    "regionen/niedersachsen",
+    "regionen/bremen"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Hamburg"
+}

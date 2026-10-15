@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/montageservice",
+  "nav": "Montageservice",
+  "title": "Montageservice: Allroundhandwerker finden | HandwerkerFinder",
+  "description": "Möbel aufbauen, Lampen anbringen, Regale montieren, kleine Reparaturen: Finden Sie einen Allroundhandwerker in Ihrer Nähe und vergleichen Sie Angebote.",
+  "keywords": [
+    "montageservice",
+    "allroundhandwerker",
+    "möbelmontage",
+    "ikea möbel aufbauen",
+    "kleine reparaturen",
+    "handwerker für kleine arbeiten"
+  ],
+  "cardText": "Möbelaufbau, Regale, Lampen, Vorhänge, kleine Reparaturen im Haushalt",
+  "eyebrow": "Kleine Handwerks- und Montageleistungen",
+  "h1": "Allroundhandwerker für kleine Aufträge finden",
+  "intro": "Schrank aufbauen, Regal an die Wand bringen, Tür einstellen: Für kleine Aufträge lohnt sich ein flexibler Montageservice. Vergleichen Sie Angebote von Allroundhandwerkern aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1772338537689-056082f100a9",
+    "alt": "Person befestigt mit einem Schraubendreher eine Metallhalterung",
+    "credit": "Sleepline",
+    "creditUrl": "https://unsplash.com/@sleepline"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Montageservice?",
+      "html": "<ul><li>Auf- und Abbau von Fertigmöbeln, auch IKEA-Möbeln</li><li>Regale, Wandschränke, Bilder und Spiegel montieren</li><li>Gardinenstangen, Rollos und Vorhänge anbringen</li><li>Kleine Reparaturen an Türen, Möbeln und Schlössern</li><li>Einbau von Tierklappen und Kindersicherungen</li><li>TV-Wandhalterungen und Kabelmanagement</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Ein großer Schrank oder ein Bett muss aufgebaut werden</li><li>Ihnen fehlen Werkzeug, Zeit oder eine zweite Person</li><li>Mehrere Kleinigkeiten haben sich angesammelt</li><li>Sie sind neu eingezogen und alles muss an die Wand</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Rechnen Sie nach Stunden oder pauschal ab, und ab wann zählt die Anfahrt?</li><li>Wer haftet, wenn beim Bohren eine Leitung beschädigt wird?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Anzahl und Größe der Möbel bzw. Aufträge</li><li>Stundensatz oder Pauschale, Mindestauftragswert</li><li>Anfahrt und Material (Dübel, Schrauben)</li><li>Entsorgung von Verpackungen</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Sammeln Sie mehrere kleine Aufgaben für einen Termin, das spart Anfahrtskosten.</li><li>Vor dem Bohren mit einem Leitungsdetektor prüfen, wo Strom- und Wasserleitungen verlaufen.</li><li>Hohe Schränke immer an der Wand sichern, besonders mit Kindern im Haushalt.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Für einfache Montagearbeiten ist keine Meisterqualifikation nötig. Arbeiten an Strom-, Gas- und Wasserinstallationen gehören aber in die Hände eingetragener Fachbetriebe. Beauftragen Sie keine Schwarzarbeit: Ohne Rechnung haben Sie keine Mängelrechte, keinen Steuerbonus, und beide Seiten riskieren Bußgelder (Schwarzarbeitsbekämpfungsgesetz).</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Darf ein Allroundhandwerker Lampen anschließen?",
+      "a": "Das Anschließen einer Leuchte an einen vorhandenen Anschluss übernehmen viele Monteure. Neue Leitungen oder Steckdosen gehören zum Elektrofachbetrieb."
+    },
+    {
+      "q": "Lohnt sich ein Montageservice für einen Schrank?",
+      "a": "Bei großen Schränken, Betten oder Küchen oft ja: Sie sparen Zeit, und der Monteur sichert den Schrank fachgerecht an der Wand."
+    },
+    {
+      "q": "Sind kleine Handwerkerleistungen absetzbar?",
+      "a": "Ja, auch kleine Aufträge zählen nach § 35a EStG, wenn Sie eine Rechnung haben und überweisen."
+    }
+  ],
+  "related": [
+    "gewerke/tischler",
+    "gewerke/kuechenbau",
+    "gewerke/umzug"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

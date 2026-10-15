@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/pflasterarbeiten",
+  "nav": "Pflasterarbeiten",
+  "title": "Pflasterarbeiten: Angebote für Terrasse und Einfahrt",
+  "description": "Einfahrt pflastern, Terrasse bauen, Gartenwege anlegen: Finden Sie einen Pflasterer in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "pflasterarbeiten",
+    "einfahrt pflastern",
+    "terrasse bauen",
+    "pflasterer",
+    "gartenweg anlegen",
+    "terrassenplatten verlegen"
+  ],
+  "cardText": "Einfahrten, Terrassen, Gartenwege, Erdarbeiten und Entwässerung",
+  "eyebrow": "Pflaster, Wege und Terrassen",
+  "h1": "Pflasterer für Einfahrt und Terrasse finden",
+  "intro": "Ein Pflaster hält nur so gut wie sein Unterbau. Wer Einfahrt, Terrasse oder Wege pflastern lässt, sollte auf Tragschicht, Gefälle und Entwässerung achten. Vergleichen Sie Angebote aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1743802969597-cded1a7356bd",
+    "alt": "Graues Kopfsteinpflaster",
+    "credit": "William Ducret",
+    "creditUrl": "https://unsplash.com/@william_ducret"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Pflasterarbeiten?",
+      "html": "<ul><li>Pflastern von Terrassen, Wegen und Einfahrten</li><li>Bau von Terrassen mit Platten, Naturstein oder Holz</li><li>Anlegen und Ausbessern von Gartenwegen</li><li>Bagger- und Erdarbeiten, Unterbau und Tragschicht</li><li>Entwässerung, Rinnen und Versickerung</li><li>Randsteine, Stufen und Mauern</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Das alte Pflaster ist abgesackt oder hat Spurrillen</li><li>Unkraut wächst durch Fugen und Platten wackeln</li><li>Sie möchten eine neue Terrasse oder Stellplätze</li><li>Regenwasser steht auf der Fläche</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Wie dick wird die Tragschicht, und welches Gefälle ist geplant?</li><li>Ist versickerungsfähiges Pflaster möglich, und senkt das meine Abwassergebühren?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Fläche und Belastung (Gehweg oder befahrbare Einfahrt)</li><li>Pflastermaterial (Beton, Naturstein, Klinker) und Verlegemuster</li><li>Aushub, Unterbau, Entsorgung des alten Belags</li><li>Randeinfassung, Entwässerung und Stufen</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Für befahrene Flächen braucht es einen deutlich stärkeren Unterbau als für Gartenwege.</li><li>Versickerungsfähiges Pflaster entlastet die Kanalisation und kann Gebühren sparen.</li><li>Fugen mit Fugensand nachfüllen hält Pflaster stabil und hemmt Unkraut.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Viele Kommunen erheben eine gesplittete Abwassergebühr: Für versiegelte Flächen, deren Regenwasser in den Kanal fließt, zahlen Sie eine Niederschlagswassergebühr. Bebauungspläne und Landesbauordnungen können vorschreiben, wie viel Grundstücksfläche versiegelt werden darf. Für Grundstückszufahrten über den Gehweg brauchen Sie in der Regel eine Genehmigung der Gemeinde.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Muss ich für eine neue Einfahrt etwas beantragen?",
+      "a": "Eine neue oder verbreiterte Zufahrt über den öffentlichen Gehweg muss meist bei der Gemeinde beantragt werden. Die Fläche auf dem eigenen Grundstück ist häufig genehmigungsfrei, Ausnahmen regelt der Bebauungsplan."
+    },
+    {
+      "q": "Wie lange hält ein Pflaster?",
+      "a": "Ein fachgerecht verlegtes Pflaster mit gutem Unterbau hält Jahrzehnte. Probleme entstehen meist durch einen zu dünnen Unterbau."
+    },
+    {
+      "q": "Darf ich Unkraut im Pflaster mit Chemie bekämpfen?",
+      "a": "Auf versiegelten Flächen wie Pflaster, Wegen und Einfahrten ist der Einsatz von Herbiziden nach dem Pflanzenschutzgesetz grundsätzlich verboten. Nutzen Sie Fugenkratzer, Heißwasser oder Abflammgeräte."
+    }
+  ],
+  "related": [
+    "gewerke/garten-landschaftsbau",
+    "gewerke/maurer",
+    "gewerke/zaunbau"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

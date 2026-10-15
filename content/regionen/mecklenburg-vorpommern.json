@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/mecklenburg-vorpommern",
+  "nav": "Mecklenburg-Vorpommern",
+  "title": "Handwerker in Mecklenburg-Vorpommern: Angebote vergleichen",
+  "description": "Handwerker in Mecklenburg-Vorpommern finden (Rostock, Schwerin und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker mecklenburg-vorpommern",
+    "handwerker rostock",
+    "handwerker schwerin",
+    "handwerker neubrandenburg",
+    "handwerker stralsund",
+    "elektriker rostock",
+    "elektriker schwerin"
+  ],
+  "cardText": "Rostock, Schwerin, Neubrandenburg, Stralsund … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Mecklenburg-Vorpommern finden",
+  "intro": "Ob Sanitär in Rostock, Dachdecker in Schwerin oder Maler in Neubrandenburg: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Mecklenburg-Vorpommern.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1628542751276-a9bfeb48e0d4",
+    "alt": "Menschen in einer Straße mit historischen Häusern",
+    "credit": "Samuel Svec",
+    "creditUrl": "https://unsplash.com/@viewofsamu"
+  },
+  "chips": [
+    {
+      "label": "Dachdecker",
+      "slug": "gewerke/dachdecker"
+    },
+    {
+      "label": "Fenster und Türen",
+      "slug": "gewerke/fenster-tueren"
+    },
+    {
+      "label": "Fassade",
+      "slug": "gewerke/fassade"
+    },
+    {
+      "label": "Maler",
+      "slug": "gewerke/maler"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Mecklenburg-Vorpommern vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern in Mecklenburg-Vorpommern",
+      "html": "<p>Landeshauptstadt ist Schwerin. Größere Städte sind unter anderem Rostock, Schwerin, Neubrandenburg, Stralsund, Greifswald, Wismar, Güstrow, Waren (Müritz). Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Mecklenburg-Vorpommern ist die Handwerkskammern Ostmecklenburg-Vorpommern und Schwerin zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Mecklenburg-Vorpommern",
+      "html": "<ul><li>Reetdächer sind an der Küste und auf den Inseln verbreitet; für Neueindeckung und Reparatur braucht es spezialisierte Reetdachdecker.</li><li>Backsteingotik prägt die Hansestädte Wismar, Stralsund und Rostock; Sanierungen in den Altstädten unterliegen oft dem Denkmalschutz.</li><li>Viele Ferienhäuser und Ferienwohnungen werden außerhalb der Saison renoviert, Handwerkstermine sind dann leichter zu bekommen.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>Wind, Salzluft und Sturmfluten an der Ostseeküste belasten Dächer, Fassaden und Fenster stärker als im Binnenland. An der Küste und auf den Inseln sind Bau- und Gestaltungsvorschriften oft streng.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Landesbauordnung Mecklenburg-Vorpommern (LBauO M-V)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Mecklenburg-Vorpommern hat kein eigenes Nachbarrechtsgesetz; für Grenzabstände und Einfriedungen gelten das BGB, die Bauordnung und örtliche Satzungen. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Mecklenburg-Vorpommern an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Gibt es in Mecklenburg-Vorpommern ein Nachbarrechtsgesetz?",
+      "a": "Nein, Mecklenburg-Vorpommern hat kein eigenes Nachbarrechtsgesetz. Fragen zu Abständen und Einfriedungen richten sich nach BGB, Landesbauordnung und örtlichen Satzungen."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Mecklenburg-Vorpommern?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/dachdecker",
+    "gewerke/fenster-tueren",
+    "gewerke/fassade",
+    "regionen/schleswig-holstein",
+    "regionen/brandenburg",
+    "regionen/niedersachsen"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Mecklenburg-Vorpommern"
+}

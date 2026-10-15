@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-15",
+  "slug": "ratgeber/schwarzarbeit-risiken",
+  "nav": "Schwarzarbeit",
+  "title": "Schwarzarbeit: Warum „ohne Rechnung“ teuer wird",
+  "description": "Kein Vertrag, keine Gewährleistung, kein Steuerbonus und Bußgelder für beide Seiten: Was Auftraggeber über Schwarzarbeit am Bau und im Haushalt wissen sollten.",
+  "keywords": [
+    "schwarzarbeit",
+    "ohne rechnung handwerker",
+    "schwarzarbeit strafe",
+    "schwarzarbeit gewährleistung"
+  ],
+  "cardText": "Nichtiger Vertrag, keine Mängelrechte, Bußgelder",
+  "eyebrow": "Ratgeber",
+  "h1": "Schwarzarbeit: die Risiken für Auftraggeber",
+  "intro": "„Ohne Rechnung wird es billiger“: Das Angebot klingt verlockend, kann aber teuer werden. Auch Auftraggeber handeln ordnungswidrig.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1581166397057-235af2b3c6dd",
+    "alt": "Rotes Handwerkzeug",
+    "credit": "Elena Rouame",
+    "creditUrl": "https://unsplash.com/@roum"
+  },
+  "sections": [
+    {
+      "h2": "Kein wirksamer Vertrag",
+      "html": "<p>Der Bundesgerichtshof hat entschieden, dass Werkverträge, die bewusst gegen das Schwarzarbeitsbekämpfungsgesetz verstoßen, nichtig sind. Folge: Sie haben <strong>keine Mängelansprüche</strong>, wenn die Arbeit schlecht ist, und der Handwerker hat keinen Anspruch auf Bezahlung. Bereits gezahltes Geld können Sie in der Regel nicht zurückfordern.</p>"
+    },
+    {
+      "h2": "Bußgelder und weitere Folgen",
+      "html": "<ul><li>Auftraggeber, die Schwarzarbeit in erheblichem Umfang beauftragen, begehen eine Ordnungswidrigkeit, die mit Bußgeld geahndet werden kann.</li><li>Unfälle auf Ihrer Baustelle sind nicht über die Berufsgenossenschaft abgesichert.</li><li>Kein <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">Steuerbonus</a>, keine Förderung.</li></ul>"
+    },
+    {
+      "h2": "Was erlaubt ist",
+      "html": "<p>Nachbarschaftshilfe und Gefälligkeiten ohne Gewinnabsicht sind keine Schwarzarbeit. Auch Arbeiten durch Angehörige sind in der Regel erlaubt. Für Haushaltshilfen gibt es mit dem Haushaltsscheckverfahren der <a href=\"https://www.minijob-zentrale.de/\" rel=\"noopener\" target=\"_blank\">Minijob-Zentrale</a> einen einfachen legalen Weg.</p>"
+    },
+    {
+      "h2": "Quellen und offizielle Links",
+      "html": "<ul><li><a href=\"https://www.gesetze-im-internet.de/schwarzarbg_2004/\" rel=\"noopener\" target=\"_blank\">Schwarzarbeitsbekämpfungsgesetz (SchwarzArbG)</a></li><li><a href=\"https://www.zoll.de/\" rel=\"noopener\" target=\"_blank\">Zoll: Finanzkontrolle Schwarzarbeit</a></li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ist Nachbarschaftshilfe erlaubt?",
+      "a": "Ja, wenn sie gelegentlich und ohne Gewinnabsicht erfolgt. Eine kleine Anerkennung ist unproblematisch, ein regelmäßiges Entgelt nicht."
+    },
+    {
+      "q": "Was passiert, wenn der Schwarzarbeiter Pfusch macht?",
+      "a": "Sie haben keine Mängelrechte. Die Kosten für die Beseitigung tragen Sie selbst."
+    }
+  ],
+  "related": [
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/angebot-verstehen",
+    "ratgeber/kostenvoranschlag-festpreis"
+  ],
+  "relatedTitle": "Weitere Ratgeber",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

@@ -1,0 +1,59 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog/balkonkraftwerk-regeln",
+  "type": "post",
+  "date": "2026-10-15",
+  "title": "Balkonkraftwerk: Regeln für Mieter und Eigentümer",
+  "description": "800 Watt, Anmeldung im Marktstammdatenregister, Zustimmung von Vermieter oder WEG: Was beim Steckersolargerät auf dem Balkon heute gilt.",
+  "keywords": [
+    "balkonkraftwerk",
+    "steckersolargerät",
+    "balkonkraftwerk anmelden",
+    "balkonkraftwerk mieter"
+  ],
+  "cardText": "800 Watt, Registrierung und Zustimmung",
+  "eyebrow": "Blog",
+  "h1": "Balkonkraftwerk: Was Mieter und Eigentümer wissen sollten",
+  "intro": "Steckersolargeräte sind die einfachste Art, selbst Solarstrom zu erzeugen. Seit 2024 sind die Regeln deutlich einfacher geworden.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d",
+    "alt": "Schwarze und weiße Solarmodule",
+    "credit": "Nuno Marques",
+    "creditUrl": "https://unsplash.com/@logvisuals"
+  },
+  "sections": [
+    {
+      "h2": "Die wichtigsten Regeln",
+      "html": "<ul><li>Die Wechselrichterleistung darf bei vereinfachter Anmeldung bis zu 800 Watt betragen.</li><li>Eine Anmeldung beim Netzbetreiber ist nicht mehr nötig; das Gerät wird nur im <strong>Marktstammdatenregister</strong> der Bundesnetzagentur registriert.</li><li>Ein vorhandener alter Zähler ohne Rücklaufsperre wird bei Bedarf vom Messstellenbetreiber getauscht.</li></ul>"
+    },
+    {
+      "h2": "Mieter und Wohnungseigentümer",
+      "html": "<p>Seit Oktober 2024 zählen Steckersolargeräte zu den privilegierten baulichen Veränderungen: Vermieter und Eigentümergemeinschaften dürfen sie grundsätzlich nicht mehr verweigern, können aber über die Art der Anbringung mitbestimmen (§ 554 BGB, § 20 WEG). Sprechen Sie vorher mit Vermieter bzw. Verwaltung und klären Sie Befestigung und Optik.</p>"
+    },
+    {
+      "h2": "Sicher montieren",
+      "html": "<p>Module müssen sturmsicher befestigt sein, besonders in oberen Etagen. Bei der Montage an Brüstung oder Fassade hilft ein Fachbetrieb. Soll später mehr dazukommen, etwa eine Anlage auf dem Dach, lohnt der Kontakt zu einem <a href=\"/gewerke/solar/\">Solarteur</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Marktstammdatenregister der Bundesnetzagentur",
+      "url": "https://www.marktstammdatenregister.de/"
+    },
+    {
+      "title": "§ 554 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__554.html"
+    },
+    {
+      "title": "§ 20 WEG",
+      "url": "https://www.gesetze-im-internet.de/woeigg/__20.html"
+    }
+  ],
+  "related": [
+    "gewerke/solar",
+    "gewerke/elektriker",
+    "blog/wallbox-zu-hause"
+  ],
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

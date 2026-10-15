@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/tischler",
+  "nav": "Tischler",
+  "title": "Tischler und Schreiner finden: Angebote | HandwerkerFinder",
+  "description": "Einbauschränke nach Maß, Möbelreparatur, Treppen, Türen oder Holzkonstruktionen: Finden Sie einen Tischler in Ihrer Nähe und vergleichen Sie Angebote.",
+  "keywords": [
+    "tischler",
+    "schreiner",
+    "einbauschrank nach maß",
+    "möbel nach maß",
+    "treppe sanieren",
+    "schreinerei"
+  ],
+  "cardText": "Möbel und Einbauschränke nach Maß, Treppen, Türen, Reparaturen",
+  "eyebrow": "Tischler und Schreiner",
+  "h1": "Tischler und Schreiner in Ihrer Nähe finden",
+  "intro": "Dachschrägen, Nischen, Altbauwände: Wo Möbel von der Stange nicht passen, baut ein Tischler maßgenau. Auch Reparaturen an Möbeln, Treppen und Türen gehören zum Handwerk. Vergleichen Sie Angebote aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1687422810663-c316494f725a",
+    "alt": "Lächelnder Handwerker bearbeitet ein Holzstück",
+    "credit": "Ali Mkumbwa",
+    "creditUrl": "https://unsplash.com/@mkumbwajr"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Tischler?",
+      "html": "<ul><li>Maßanfertigung von Möbeln und Einbauschränken</li><li>Einbau und Sanierung von Treppen</li><li>Einbau und Reparatur von Innentüren</li><li>Reparatur von Möbeln, Einrichtungen und Holzkonstruktionen</li><li>Arbeitsplatten zuschneiden und einbauen</li><li>Hochbetten, Hochebenen und Verkleidungen</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Sie möchten Stauraum unter der Dachschräge oder in einer Nische</li><li>Eine Treppe knarrt, ist abgenutzt oder soll erneuert werden</li><li>Ein Erbstück oder Lieblingsmöbel braucht eine Reparatur</li><li>Türen klemmen oder schließen nicht mehr</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Tischler)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Welche Materialien und Oberflächen schlagen Sie vor, und warum?</li><li>Erhalte ich vorab eine Zeichnung oder Visualisierung?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Material (Massivholz, furnierte Platten, Lack- oder Ölfinish)</li><li>Größe, Komplexität und Beschläge</li><li>Aufmaß, Montage und Anpassungen vor Ort</li><li>Lieferung und Entsorgung alter Möbel</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Messen Sie Dachschrägen und Nischen nicht selbst für die Fertigung aus: Ein Aufmaß durch den Tischler vermeidet Fehler.</li><li>Geölte Holzoberflächen lassen sich partiell ausbessern, lackierte meist nicht.</li><li>Fragen Sie nach Musterstücken der Oberflächen, bevor Sie sich festlegen.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Tischler</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Tischler). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>Das Tischlerhandwerk ist zulassungspflichtig, der Betrieb muss in die Handwerksrolle eingetragen sein. Bei Treppen gelten Anforderungen der Landesbauordnung, etwa an Geländerhöhe und Steigungsverhältnis. Für Möbel nach Maß ist der Werkvertrag maßgeblich: Halten Sie Maße, Material und Termin schriftlich fest.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ist ein Einbauschrank vom Tischler viel teurer als ein Fertigschrank?",
+      "a": "Meist ja, dafür nutzt er den Raum vollständig und passt genau. Für einfache Wände reicht oft ein Systemschrank, für Schrägen und Nischen lohnt sich die Maßanfertigung."
+    },
+    {
+      "q": "Kann ein Tischler auch alte Möbel restaurieren?",
+      "a": "Viele Tischlereien übernehmen Reparaturen. Für wertvolle Antiquitäten gibt es spezialisierte Restauratoren im Handwerk."
+    },
+    {
+      "q": "Wie lange dauert die Anfertigung?",
+      "a": "Je nach Auslastung und Umfang mehrere Wochen. Planen Sie bei Küchen, Treppen oder großen Schränken früh."
+    }
+  ],
+  "related": [
+    "gewerke/kuechenbau",
+    "gewerke/montageservice",
+    "gewerke/fenster-tueren"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

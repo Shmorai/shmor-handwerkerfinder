@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/fliesenleger",
+  "nav": "Fliesenleger",
+  "title": "Fliesenleger finden: kostenlose Angebote | HandwerkerFinder",
+  "description": "Wand- und Bodenfliesen, Bad, Küche, Terrasse oder neue Fugen: Finden Sie einen Fliesenleger in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "fliesenleger",
+    "fliesen verlegen",
+    "bodenfliesen",
+    "fliesen bad",
+    "fugen erneuern",
+    "naturstein verlegen"
+  ],
+  "cardText": "Wand- und Bodenfliesen, Naturstein, Abdichtung, Fugen erneuern",
+  "eyebrow": "Fliesen und Platten",
+  "h1": "Fliesenleger in Ihrer Nähe finden",
+  "intro": "Fliesen halten Jahrzehnte, wenn Untergrund, Abdichtung und Verlegung stimmen. Ein erfahrener Fliesenleger plant Fugenbild und Gefälle sauber. Vergleichen Sie Angebote aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1523350165414-082d792c4bcc",
+    "alt": "Raster aus grünen und weißen quadratischen Keramikfliesen",
+    "credit": "Bernard Hermant",
+    "creditUrl": "https://unsplash.com/@bernardhermant"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Fliesenleger?",
+      "html": "<ul><li>Verlegen von Wand- und Bodenfliesen in Bad, Küche und Wohnräumen</li><li>Großformatige Fliesen, Mosaik und Naturstein</li><li>Abdichtung von Duschen und Nassbereichen</li><li>Erneuern von Fugen und Silikonfugen</li><li>Fliesen auf Balkon und Terrasse</li><li>Entfernen alter Fliesen und Ausgleichen des Untergrunds</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Sie renovieren Bad oder Küche</li><li>Fugen sind dunkel, rissig oder schimmelig</li><li>Fliesen klingen hohl oder sind gesprungen</li><li>Sie möchten eine bodengleiche Dusche</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Fliesen-, Platten- und Mosaikleger)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Wie wird der Duschbereich abgedichtet?</li><li>Ist das Material im Preis enthalten, oder bringe ich die Fliesen selbst mit?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Fläche und Format der Fliesen (Großformate brauchen mehr Aufwand)</li><li>Zustand des Untergrunds und Ausgleicharbeiten</li><li>Abdichtung, Profile, Schienen und Zuschnitte</li><li>Entfernen und Entsorgen alter Beläge</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Bestellen Sie rund 10 % mehr Fliesen für Verschnitt und spätere Reparaturen.</li><li>Silikonfugen sind Wartungsfugen: Erneuern Sie sie, sobald sie sich lösen oder schimmeln.</li><li>Bei Großformaten auf einen sehr ebenen Untergrund achten, sonst entstehen Kanten.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Fliesenleger</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Fliesen-, Platten- und Mosaikleger). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>Seit 2020 gehört das Fliesenlegerhandwerk wieder zu den zulassungspflichtigen Handwerken: Der Betrieb braucht eine Eintragung in die Handwerksrolle. Die Abdichtung von Innenräumen ist in der DIN 18534 geregelt; lassen Sie sich im Angebot beschreiben, wie Ihr Nassbereich abgedichtet wird.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kann man Fliesen auf Fliesen verlegen?",
+      "a": "Wenn der alte Belag fest, eben und tragfähig ist, ja. Der Boden wird dann höher, was Türen und Übergänge betrifft. Ein Fliesenleger prüft den Untergrund vorab."
+    },
+    {
+      "q": "Wie lange muss neuer Fliesenboden trocknen?",
+      "a": "Je nach Kleber und Fugenmörtel ist der Boden oft nach ein bis zwei Tagen begehbar. Die genauen Zeiten nennt der Hersteller."
+    },
+    {
+      "q": "Lohnt es sich, nur die Fugen zu erneuern?",
+      "a": "Ja, wenn die Fliesen intakt sind. Neue Fugen lassen ein Bad deutlich frischer wirken und kosten nur einen Bruchteil einer Neufliesung."
+    }
+  ],
+  "related": [
+    "gewerke/badsanierung",
+    "gewerke/bodenleger",
+    "gewerke/sanitaer"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

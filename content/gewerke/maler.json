@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/maler",
+  "nav": "Maler",
+  "title": "Maler und Lackierer finden: Angebote vergleichen",
+  "description": "Wände streichen, tapezieren, Lackierarbeiten oder Fassadenanstrich: Finden Sie einen Malerbetrieb in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "maler",
+    "malerbetrieb",
+    "wohnung streichen",
+    "tapezieren",
+    "maler und lackierer",
+    "malerarbeiten"
+  ],
+  "cardText": "Wände und Decken streichen, Tapezieren, Lackieren, Dekorputz",
+  "eyebrow": "Malerarbeiten und Tapezieren",
+  "h1": "Maler und Lackierer in Ihrer Nähe finden",
+  "intro": "Frische Farbe verändert einen Raum schneller als jede andere Renovierung. Ein Malerbetrieb bereitet den Untergrund richtig vor, arbeitet sauber und hält Termine. Vergleichen Sie Angebote von Malern aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1562259949-e8e7689d7828",
+    "alt": "Farbroller trägt blaue Farbe auf eine weiße Wand auf",
+    "credit": "Theme Photos",
+    "creditUrl": "https://unsplash.com/@themephotos"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Maler?",
+      "html": "<ul><li>Malerarbeiten innen: Wände, Decken, Treppenhäuser</li><li>Tapezieren (Raufaser, Vlies, Mustertapeten) und Entfernen alter Tapeten</li><li>Lackierarbeiten an Türen, Fenstern, Heizkörpern und Geländern</li><li>Dekorative Techniken, Dekorputz, Spachteltechniken</li><li>Malerarbeiten außen und Fassadenanstrich</li><li>Kleine Putz- und Spachtelarbeiten, Schimmelbehandlung an Oberflächen</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Sie ziehen ein oder aus und die Wohnung soll renoviert werden</li><li>Risse, Flecken oder Nikotin haben die Wände verfärbt</li><li>Holzfenster und Türen brauchen einen neuen Lackanstrich</li><li>Die Fassade blättert ab oder ist verschmutzt</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Maler und Lackierer)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Sind Abdecken, Abkleben und Möbelrücken im Preis enthalten?</li><li>Welche Farben (Marke, Deckkraft, Emissionsklasse) verwenden Sie?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Fläche in Quadratmetern und Raumhöhe</li><li>Zustand des Untergrunds (Risse, alte Tapeten, Spachtelbedarf)</li><li>Farbqualität und Anzahl der Anstriche</li><li>Möblierte oder leere Räume, Abdeckarbeiten</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Für Schlafzimmer und Kinderzimmer emissionsarme Farben wählen, etwa mit dem Umweltzeichen „Blauer Engel“.</li><li>Ein Probeanstrich auf einem Stück Wand zeigt, wie der Farbton im eigenen Licht wirkt.</li><li>Bewahren Sie einen Rest Farbe auf: Damit lassen sich Macken später unsichtbar ausbessern.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Maler</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Maler und Lackierer). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>In Mietwohnungen hängt es vom Mietvertrag ab, ob Sie beim Auszug renovieren müssen. Der Bundesgerichtshof hat viele Klauseln mit starren Fristen oder Vorgaben zur Farbwahl für unwirksam erklärt. Lassen Sie Ihren Vertrag im Zweifel vom Mieterverein prüfen, bevor Sie einen Maler beauftragen.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Muss ich beim Auszug streichen?",
+      "a": "Nur, wenn eine wirksame Klausel im Mietvertrag das verlangt. Viele formularmäßige Renovierungsklauseln sind nach der Rechtsprechung des BGH unwirksam. Eine Beratung beim Mieterverein schafft Klarheit."
+    },
+    {
+      "q": "Wie lange dauert es, eine Wohnung streichen zu lassen?",
+      "a": "Eine leere Zwei- bis Dreizimmerwohnung schafft ein Malerteam oft in wenigen Tagen. Spachtelarbeiten, Trocknungszeiten und Möbel verlängern die Dauer."
+    },
+    {
+      "q": "Sind Malerarbeiten steuerlich absetzbar?",
+      "a": "Ja, die Arbeitskosten für Malerarbeiten in Ihrer Wohnung oder Ihrem Haus zählen zu den Handwerkerleistungen nach § 35a EStG: 20 % davon, höchstens 1.200 € Steuerermäßigung pro Jahr."
+    }
+  ],
+  "related": [
+    "gewerke/fassade",
+    "gewerke/trockenbau",
+    "gewerke/bodenleger"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

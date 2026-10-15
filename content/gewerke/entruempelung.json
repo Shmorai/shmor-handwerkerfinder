@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/entruempelung",
+  "nav": "Entrümpelung",
+  "title": "Entrümpelung: Firmen in Ihrer Nähe vergleichen",
+  "description": "Wohnungsauflösung, Haushaltsauflösung, Keller- oder Dachbodenentrümpelung, Sperrmüll: Finden Sie eine Entrümpelungsfirma und vergleichen Sie Angebote.",
+  "keywords": [
+    "entrümpelung",
+    "haushaltsauflösung",
+    "wohnungsauflösung",
+    "keller entrümpeln",
+    "sperrmüll entsorgen",
+    "entrümpelungsfirma"
+  ],
+  "cardText": "Haushalts- und Wohnungsauflösung, Keller, Dachboden, Sperrmüll",
+  "eyebrow": "Entrümpelung und Entsorgung",
+  "h1": "Entrümpelungsfirma in Ihrer Nähe finden",
+  "intro": "Ob Haushaltsauflösung nach einem Todesfall, Keller voller Altlasten oder Garage vor dem Verkauf: Eine Entrümpelungsfirma räumt, sortiert und entsorgt fachgerecht. Vergleichen Sie Angebote aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1646592474273-86049d4f3575",
+    "alt": "Leerer Raum mit Waschmaschine und Trockner",
+    "credit": "Point3D Commercial Imaging Ltd.",
+    "creditUrl": "https://unsplash.com/@3dottawa"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Entrümpelung?",
+      "html": "<ul><li>Entrümpelung, Geschäfts- und Haushaltsauflösung</li><li>Keller, Dachboden und Garage räumen</li><li>Entsorgung von Sperrmüll, Elektroaltgeräten und Gartenabfällen</li><li>Entfernung und Entsorgung von Sondermüll (Farben, Chemikalien)</li><li>Bauschuttentsorgung</li><li>Besenreine Übergabe der Räume</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Eine Wohnung muss nach einem Todesfall oder Heimeinzug aufgelöst werden</li><li>Keller oder Dachboden sind voll und sollen frei werden</li><li>Sie verkaufen ein Haus und es muss geräumt übergeben werden</li><li>Nach einer Renovierung bleibt viel Abfall zurück</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Ist das Angebot ein Festpreis inklusive Entsorgungsgebühren?</li><li>Werden verwertbare Gegenstände angerechnet, und wie wird das dokumentiert?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Menge und Art des Räumguts</li><li>Etage, Aufzug und Tragewege</li><li>Entsorgungsgebühren für Sperrmüll, Elektroschrott und Sondermüll</li><li>Anrechnung verwertbarer Gegenstände</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Sichten Sie Unterlagen, Fotos und Wertgegenstände vorher selbst oder vereinbaren Sie eine Suche danach.</li><li>Fragen Sie bei Ihrer Kommune nach Sperrmüllabholung: Für kleine Mengen ist das oft günstiger.</li><li>Lassen Sie sich die besenreine Übergabe schriftlich bestätigen.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Gewerbliche Entsorger müssen Abfälle nach dem Kreislaufwirtschaftsgesetz ordnungsgemäß verwerten oder beseitigen. Elektroaltgeräte gehören nicht in den Restmüll, sondern zu Sammelstellen oder zur Rücknahme im Handel (ElektroG). Schadstoffe wie Farben, Lacke und Chemikalien nehmen Wertstoffhöfe oder Schadstoffmobile an. Für Container auf öffentlichem Grund brauchen Sie eine Genehmigung der Stadt.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was kostet eine Haushaltsauflösung?",
+      "a": "Das hängt von Menge, Etage und Entsorgung ab. Seriöse Firmen besichtigen vorher und nennen einen Festpreis. Verwertbare Möbel können den Preis senken."
+    },
+    {
+      "q": "Ist eine Entrümpelung steuerlich absetzbar?",
+      "a": "Die Arbeitskosten für die Räumung im eigenen Haushalt können als haushaltsnahe Dienstleistung nach § 35a EStG berücksichtigt werden. Bei einer Erbschaft kann die Situation anders sein."
+    },
+    {
+      "q": "Woran erkenne ich unseriöse Entrümpler?",
+      "a": "Warnzeichen sind Lockangebote wie „kostenlose Räumung“ ohne Besichtigung, Barzahlung ohne Rechnung und fehlende Firmenangaben im Impressum."
+    }
+  ],
+  "related": [
+    "gewerke/umzug",
+    "gewerke/gebaeudereinigung",
+    "gewerke/baumpflege"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

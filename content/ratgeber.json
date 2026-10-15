@@ -1,0 +1,96 @@
+{
+  "updated": "2026-10-15",
+  "slug": "ratgeber",
+  "nav": "Ratgeber",
+  "navOrder": 3,
+  "title": "Ratgeber: Handwerker beauftragen ohne Ärger",
+  "description": "Handwerker prüfen, Angebote vergleichen, Gewährleistung, Förderung, Steuerbonus: Unsere Ratgeber erklären die wichtigsten Regeln verständlich, mit Quellen.",
+  "keywords": [
+    "handwerker beauftragen",
+    "handwerker ratgeber",
+    "gewährleistung",
+    "handwerkerkosten absetzen"
+  ],
+  "cardText": "Prüfen, vergleichen, absichern, sparen",
+  "eyebrow": "Ratgeber",
+  "h1": "Ratgeber: Handwerker beauftragen",
+  "intro": "Vom ersten Angebot bis zur Abnahme: Diese Ratgeber erklären, worauf es ankommt, mit Verweisen auf Gesetze und offizielle Stellen.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+    "alt": "Architekt zeichnet mit Bleistift und Lineal einen Plan",
+    "credit": "Daniel McCullough",
+    "creditUrl": "https://unsplash.com/@d_mccullough"
+  },
+  "blocks": [
+    {
+      "type": "cards",
+      "class": "svc tips",
+      "title": "Alle Ratgeber",
+      "items": [
+        {
+          "slug": "ratgeber/handwerker-pruefen",
+          "title": "Handwerker prüfen",
+          "text": "Handwerksrolle, Versicherung, Impressum und Warnzeichen",
+          "icon": "shield",
+          "cta": "Lesen"
+        },
+        {
+          "slug": "ratgeber/angebot-verstehen",
+          "title": "Angebote verstehen",
+          "text": "Positionen, Mengen, Einheitspreise, Zahlungsplan",
+          "icon": "file",
+          "cta": "Lesen"
+        },
+        {
+          "slug": "ratgeber/kostenvoranschlag-festpreis",
+          "title": "Kostenvoranschlag",
+          "text": "Unverbindlich, verbindlich, pauschal: was Sie wissen sollten",
+          "icon": "receipt",
+          "cta": "Lesen"
+        },
+        {
+          "slug": "ratgeber/gewaehrleistung",
+          "title": "Gewährleistung",
+          "text": "Abnahme, Nacherfüllung, 2 oder 5 Jahre Verjährung",
+          "icon": "shield",
+          "cta": "Lesen"
+        },
+        {
+          "slug": "ratgeber/foerderung",
+          "title": "Förderung",
+          "text": "BAFA, KfW, § 35c EStG und Energieberatung",
+          "icon": "wallet",
+          "cta": "Lesen"
+        },
+        {
+          "slug": "ratgeber/steuerbonus-handwerkerleistungen",
+          "title": "Steuerbonus",
+          "text": "20 % der Arbeitskosten, Rechnung und Überweisung",
+          "icon": "percent",
+          "cta": "Lesen"
+        },
+        {
+          "slug": "ratgeber/schwarzarbeit-risiken",
+          "title": "Schwarzarbeit",
+          "text": "Nichtiger Vertrag, keine Mängelrechte, Bußgelder",
+          "icon": "alert",
+          "cta": "Lesen"
+        },
+        {
+          "slug": "ratgeber/notdienst-abzocke",
+          "title": "Notdienst-Abzocke",
+          "text": "Warnzeichen, Preis vorher klären, richtig reagieren",
+          "icon": "alert",
+          "cta": "Lesen"
+        }
+      ]
+    }
+  ],
+  "related": [
+    "blog",
+    "gewerke",
+    "so-funktionierts"
+  ],
+  "relatedTitle": "Mehr entdecken",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

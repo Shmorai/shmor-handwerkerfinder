@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog/haus-vor-starkregen-schuetzen",
+  "type": "post",
+  "date": "2026-10-15",
+  "title": "Starkregen und Hochwasser: So schützen Sie Ihr Haus",
+  "description": "Rückstausicherung, Abdichtung, Gefahrenkarten und Elementarschadenversicherung: Was Hausbesitzer gegen Schäden durch Starkregen und Hochwasser tun können.",
+  "keywords": [
+    "starkregen schutz",
+    "hochwasserschutz haus",
+    "rückstauklappe",
+    "elementarschadenversicherung"
+  ],
+  "cardText": "Rückstau, Abdichtung, Gefahrenkarten, Versicherung",
+  "eyebrow": "Blog",
+  "h1": "Haus vor Starkregen und Hochwasser schützen",
+  "intro": "Starkregen kann überall auftreten, nicht nur an Flüssen. Viele Schäden lassen sich mit vergleichsweise einfachen Maßnahmen verhindern oder verringern.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1782353921981-bb73a53a7482",
+    "alt": "Großer unausgebauter Keller mit Balken, Stützen und Treppe",
+    "credit": "Josh Lemmon",
+    "creditUrl": "https://unsplash.com/@wolfiex2"
+  },
+  "sections": [
+    {
+      "h2": "Gefährdung kennen",
+      "html": "<p>Die Bundesländer veröffentlichen Hochwassergefahrenkarten, viele Kommunen auch Starkregengefahrenkarten. Sie zeigen, ob Ihr Grundstück betroffen sein kann. Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe gibt allgemeine Vorsorgetipps.</p>"
+    },
+    {
+      "h2": "Bauliche Maßnahmen",
+      "html": "<ul><li><strong>Rückstausicherung</strong> für Abläufe unterhalb der Rückstauebene, regelmäßig gewartet (siehe <a href=\"/gewerke/rohrreinigung/\">Rohrreinigung</a>)</li><li>Lichtschächte, Kellerfenster und Eingänge erhöhen oder abdichten</li><li>Gelände vom Haus weg neigen, Regenwasser versickern lassen</li><li>Heizöltanks gegen Aufschwimmen sichern, Wertsachen und Elektrik nicht im Keller</li></ul>"
+    },
+    {
+      "h2": "Versicherung",
+      "html": "<p>Die normale Wohngebäude- und Hausratversicherung deckt Überschwemmung durch Starkregen oder Hochwasser meist nicht. Dafür braucht es einen <strong>Elementarschadenschutz</strong>. Prüfen Sie Ihre Verträge, bevor etwas passiert.</p>"
+    },
+    {
+      "h2": "Fachleute einbeziehen",
+      "html": "<p>Für Abdichtung und Entwässerung sind <a href=\"/gewerke/maurer/\">Maurer</a>, Garten- und Landschaftsbauer und Sanitärbetriebe die richtigen Ansprechpartner. Regionale Hinweise finden Sie auf unseren <a href=\"/regionen/\">Bundesländer-Seiten</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+      "url": "https://www.bbk.bund.de/"
+    }
+  ],
+  "related": [
+    "gewerke/rohrreinigung",
+    "gewerke/maurer",
+    "regionen/rheinland-pfalz"
+  ],
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

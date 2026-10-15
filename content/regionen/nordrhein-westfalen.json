@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/nordrhein-westfalen",
+  "nav": "Nordrhein-Westfalen",
+  "title": "Handwerker in Nordrhein-Westfalen: Angebote vergleichen",
+  "description": "Handwerker in Nordrhein-Westfalen finden (Köln, Düsseldorf und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker nordrhein-westfalen",
+    "handwerker köln",
+    "handwerker düsseldorf",
+    "handwerker dortmund",
+    "handwerker essen",
+    "elektriker köln",
+    "elektriker düsseldorf"
+  ],
+  "cardText": "Köln, Düsseldorf, Dortmund, Essen … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Nordrhein-Westfalen finden",
+  "intro": "Ob Sanitär in Köln, Dachdecker in Düsseldorf oder Maler in Dortmund: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Nordrhein-Westfalen.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1561624485-0e43bcc1836d",
+    "alt": "Graue Brücke über einen Fluss an einem sonnigen Tag",
+    "credit": "Eric Weber",
+    "creditUrl": "https://unsplash.com/@ericwebr"
+  },
+  "chips": [
+    {
+      "label": "Badsanierung",
+      "slug": "gewerke/badsanierung"
+    },
+    {
+      "label": "Fenster und Türen",
+      "slug": "gewerke/fenster-tueren"
+    },
+    {
+      "label": "Heizung",
+      "slug": "gewerke/heizung"
+    },
+    {
+      "label": "Dachdecker",
+      "slug": "gewerke/dachdecker"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Nordrhein-Westfalen vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern in Nordrhein-Westfalen",
+      "html": "<p>Landeshauptstadt ist Düsseldorf. Größere Städte sind unter anderem Köln, Düsseldorf, Dortmund, Essen, Duisburg, Bochum, Wuppertal, Bielefeld, Bonn, Münster, Aachen. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Nordrhein-Westfalen ist die Handwerkskammern Aachen, Dortmund, Düsseldorf, Köln, Münster, Ostwestfalen-Lippe zu Bielefeld und Südwestfalen zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Nordrhein-Westfalen",
+      "html": "<ul><li>Im Ruhrgebiet prägen Zechensiedlungen und Nachkriegsbauten viele Stadtteile; häufige Themen sind Dämmung, Fenster und Heizung.</li><li>Im Sauerland und Siegerland sind Schieferfassaden und -dächer typisch, im Münsterland Backstein.</li><li>In den Großstädten am Rhein wohnen viele Menschen in Mehrfamilienhäusern: Bäder, Böden und Malerarbeiten sind gefragt.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>In ehemaligen Bergbaugebieten können Bergschäden auftreten; Auskunft geben die Bergbehörden. Die Niederrheinische Bucht um Köln und Aachen ist leicht erdbebengefährdet. Das Hochwasser 2021 hat in der Eifel und an der Erft gezeigt, wie wichtig Elementarschutz und Rückstausicherung sind.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Bauordnung für das Land Nordrhein-Westfalen (BauO NRW)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Grenzabstände für Hecken, Bäume und Zäune sowie Fragen wie überstehende Dämmung regelt das <strong>Nachbarrechtsgesetz Nordrhein-Westfalen (NachbG NRW)</strong>. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Nordrhein-Westfalen an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wer zahlt Bergschäden an meinem Haus?",
+      "a": "Für Schäden durch Bergbau haftet grundsätzlich das Bergbauunternehmen bzw. dessen Rechtsnachfolger. Lassen Sie Risse dokumentieren und wenden Sie sich an die Schlichtungsstelle Bergschaden NRW oder einen Sachverständigen."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Nordrhein-Westfalen?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/badsanierung",
+    "gewerke/fenster-tueren",
+    "gewerke/heizung",
+    "regionen/niedersachsen",
+    "regionen/hessen",
+    "regionen/rheinland-pfalz"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Nordrhein-Westfalen"
+}

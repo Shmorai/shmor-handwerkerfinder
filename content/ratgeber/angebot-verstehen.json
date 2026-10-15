@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-15",
+  "slug": "ratgeber/angebot-verstehen",
+  "nav": "Angebote verstehen",
+  "title": "Handwerkerangebot verstehen und richtig vergleichen",
+  "description": "Was in ein Handwerkerangebot gehört, wie Sie Positionen und Preise vergleichen und worauf Sie bei Zahlungsbedingungen und Bindefrist achten sollten.",
+  "keywords": [
+    "handwerker angebot",
+    "angebote vergleichen",
+    "angebot handwerker prüfen",
+    "leistungsverzeichnis"
+  ],
+  "cardText": "Positionen, Mengen, Einheitspreise, Zahlungsplan",
+  "eyebrow": "Ratgeber",
+  "h1": "Handwerkerangebote verstehen und vergleichen",
+  "intro": "Ein gutes Angebot beschreibt genau, was gemacht wird, mit welchem Material und zu welchem Preis. Nur dann lassen sich mehrere Angebote fair vergleichen.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1648201637025-1c77b9be3013",
+    "alt": "Taschenrechner und Stift auf einem Blatt Papier",
+    "credit": "Aaron Lefler",
+    "creditUrl": "https://unsplash.com/@alefler"
+  },
+  "sections": [
+    {
+      "h2": "Was ein Angebot enthalten sollte",
+      "html": "<ul><li>Name, Anschrift und Kontaktdaten des Betriebs, Datum und Angebotsnummer</li><li>Genaue Beschreibung jeder Leistung als Position mit <strong>Menge, Einheit und Einheitspreis</strong></li><li>Material, Hersteller oder gleichwertige Qualität</li><li>Nebenleistungen: Anfahrt, Gerüst, Schutzmaßnahmen, Entsorgung</li><li>Nettosumme, Umsatzsteuer und Bruttosumme</li><li>Ausführungszeitraum, Bindefrist und Zahlungsbedingungen</li></ul>"
+    },
+    {
+      "h2": "So vergleichen Sie Angebote fair",
+      "html": "<ol><li>Beschreiben Sie Ihren Auftrag allen Betrieben gleich, am besten mit Fotos und Maßen.</li><li>Legen Sie die Angebote nebeneinander und prüfen Sie, ob dieselben Leistungen enthalten sind.</li><li>Fragen Sie nach, wenn ein Angebot deutlich günstiger ist: Fehlt etwas, oder ist die Menge anders geschätzt?</li><li>Achten Sie auf Positionen „nach Aufwand“: Sie können den Endpreis stark verändern.</li><li>Berücksichtigen Sie Termin, Erreichbarkeit und Eindruck, nicht nur den Preis.</li></ol><p>Zwei bis drei detaillierte Angebote reichen meist aus.</p>"
+    },
+    {
+      "h2": "Zahlungsbedingungen",
+      "html": "<p>Bei größeren Aufträgen sind Abschlagszahlungen nach Baufortschritt üblich (§ 632a BGB). Vorkasse für das ganze Projekt sollten Sie vermeiden. Beim Verbraucherbauvertrag (Neubau oder erhebliche Umbauten) dürfen Abschläge insgesamt 90 % der Vergütung nicht übersteigen. Bezahlen Sie per Überweisung, das sichert auch den <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">Steuerbonus</a>.</p>"
+    },
+    {
+      "h2": "Angebot, Kostenvoranschlag, Festpreis",
+      "html": "<p>Begriffe werden im Alltag oft vermischt. Was rechtlich gilt, wenn der Preis am Ende höher ausfällt, erklärt unser Ratgeber <a href=\"/ratgeber/kostenvoranschlag-festpreis/\">Kostenvoranschlag oder Festpreis</a>.</p>"
+    },
+    {
+      "h2": "Quellen und offizielle Links",
+      "html": "<ul><li><a href=\"https://www.gesetze-im-internet.de/bgb/__632.html\" rel=\"noopener\" target=\"_blank\">§ 632 BGB (Vergütung)</a></li><li><a href=\"https://www.gesetze-im-internet.de/bgb/__632a.html\" rel=\"noopener\" target=\"_blank\">§ 632a BGB (Abschlagszahlungen)</a></li><li><a href=\"https://www.gesetze-im-internet.de/bgb/__650m.html\" rel=\"noopener\" target=\"_blank\">§ 650m BGB (Abschlagszahlungen beim Verbraucherbauvertrag)</a></li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Darf ein Handwerker für ein Angebot Geld verlangen?",
+      "a": "Nur wenn das vorher ausdrücklich vereinbart wurde. Ein Kostenvoranschlag ist im Zweifel nicht zu vergüten (§ 632 Abs. 3 BGB)."
+    },
+    {
+      "q": "Wie lange ist ein Angebot gültig?",
+      "a": "So lange wie die genannte Bindefrist. Fehlt sie, gilt ein Angebot nur für eine angemessene Zeit, in der eine Antwort zu erwarten ist."
+    }
+  ],
+  "related": [
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/kostenvoranschlag-festpreis",
+    "ratgeber/gewaehrleistung"
+  ],
+  "relatedTitle": "Weitere Ratgeber",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

@@ -1,15 +1,552 @@
 {
+  "updated": "2026-10-15",
   "slug": "",
-  "title": "HandwerkerFinder: Handwerker in ganz Deutschland finden und ",
-  "description": "Handwerker in ganz Deutschland finden und kostenlose Angebote vergleichen: Gewerke, Bundesländer, Ratgeber. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "HandwerkerFinder",
-  "intro": "Handwerker in ganz Deutschland finden und kostenlose Angebote vergleichen: Gewerke, Bundesländer, Ratgeber.",
-  "related": [],
+  "title": "HandwerkerFinder: Handwerker finden, Angebote vergleichen",
+  "description": "Sanitär, Elektriker, Dachdecker, Maler, Heizung, Garten und mehr: Finden Sie Handwerker in ganz Deutschland und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "handwerker finden",
+    "handwerker in der nähe",
+    "handwerker angebote vergleichen",
+    "handwerker deutschland"
+  ],
+  "eyebrow": "In ganz Deutschland",
+  "h1": "Den richtigen Handwerker finden, ohne lange Suche.",
+  "h1Html": "Den richtigen Handwerker finden, <span class=\"hl\">ohne lange Suche.</span>",
+  "intro": "Beschreiben Sie Ihren Auftrag einmal und vergleichen Sie kostenlose Angebote von Betrieben aus Ihrer Region: Sanitär, Elektrik, Dach, Malerarbeiten, Heizung, Garten und vieles mehr.",
+  "searchPlaceholder": "Welchen Handwerker suchen Sie?",
+  "chips": [
+    {
+      "label": "Sanitär",
+      "slug": "gewerke/sanitaer"
+    },
+    {
+      "label": "Elektriker",
+      "slug": "gewerke/elektriker"
+    },
+    {
+      "label": "Dachdecker",
+      "slug": "gewerke/dachdecker"
+    },
+    {
+      "label": "Maler",
+      "slug": "gewerke/maler"
+    },
+    {
+      "label": "Wärmepumpe",
+      "slug": "gewerke/waermepumpe"
+    },
+    {
+      "label": "Umzug",
+      "slug": "gewerke/umzug"
+    }
+  ],
+  "image": {
+    "src": "https://images.unsplash.com/photo-1660796334938-cf0b03be7e6d",
+    "alt": "Hand bearbeitet ein Holzstück mit einem feinen Werkzeug",
+    "credit": "Alex Gruber",
+    "creditUrl": "https://unsplash.com/@alex_gruber"
+  },
+  "highlightsTitle": "Warum mit HandwerkerFinder starten?",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    },
+    {
+      "title": "Regionales Wissen",
+      "text": "Bauweise, Vorschriften und Risiken für jedes Bundesland."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "check",
+          "title": "31 Gewerke",
+          "text": "vom Sanitär bis zum Umzug"
+        },
+        {
+          "icon": "pin",
+          "title": "16 Bundesländer",
+          "text": "in ganz Deutschland"
+        },
+        {
+          "icon": "file",
+          "title": "8 Ratgeber",
+          "text": "mit Gesetzen und Quellen"
+        },
+        {
+          "icon": "shield",
+          "title": "Unverbindlich",
+          "text": "Sie entscheiden frei"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "class": "svc",
+      "title": "Häufig gefragte Leistungen",
+      "intro": "Aufträge, für die besonders oft Handwerker gesucht werden.",
+      "more": {
+        "title": "Alle Leistungen",
+        "slug": "gewerke"
+      },
+      "items": [
+        {
+          "title": "Wasserhahn und Armaturen",
+          "text": "Anschluss, Austausch, Reparatur",
+          "icon": "droplet",
+          "slug": "gewerke/sanitaer",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Wände streichen",
+          "text": "Wohnung, Treppenhaus, Decken",
+          "icon": "roller",
+          "slug": "gewerke/maler",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Dach reparieren",
+          "text": "Ziegel, Sturmschaden, Rinne",
+          "icon": "house",
+          "slug": "gewerke/dachdecker",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Steckdosen und Leitungen",
+          "text": "Verlegen, erweitern, erneuern",
+          "icon": "zap",
+          "slug": "gewerke/elektriker",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Badsanierung",
+          "text": "Komplett oder Teilrenovierung",
+          "icon": "bath",
+          "slug": "gewerke/badsanierung",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Gartenpflege",
+          "text": "Rasen, Hecken, Beete",
+          "icon": "tree",
+          "slug": "gewerke/garten-landschaftsbau",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Umzug",
+          "text": "Regional oder bundesweit",
+          "icon": "truck",
+          "slug": "gewerke/umzug",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Möbel aufbauen",
+          "text": "Schränke, Betten, IKEA",
+          "icon": "wrench",
+          "slug": "gewerke/montageservice",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Heizung warten",
+          "text": "Wartung, Heizkörper, Abgleich",
+          "icon": "flame",
+          "slug": "gewerke/heizung",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Pflastern",
+          "text": "Terrasse, Einfahrt, Wege",
+          "icon": "shovel",
+          "slug": "gewerke/pflasterarbeiten",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Fenster tauschen",
+          "text": "Kunststoff, Holz, Alu",
+          "icon": "window",
+          "slug": "gewerke/fenster-tueren",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Baum fällen",
+          "text": "Fällung und Baumpflege",
+          "icon": "tree",
+          "slug": "gewerke/baumpflege",
+          "cta": "Ansehen"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "class": "trades",
+      "title": "Alle Gewerke",
+      "intro": "31 Gewerke für Haus, Wohnung und Garten.",
+      "more": {
+        "title": "Zur Übersicht",
+        "slug": "gewerke"
+      },
+      "items": [
+        {
+          "slug": "gewerke/sanitaer",
+          "title": "Sanitär",
+          "text": "Armaturen, WC, Waschtische, Wasserleitungen und Rohrbruch",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/elektriker",
+          "title": "Elektriker",
+          "text": "Steckdosen, Leitungen, Sicherungskasten, Wallbox und Smart Home",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/dachdecker",
+          "title": "Dachdecker",
+          "text": "Dachreparatur, Neueindeckung, Dachdämmung, Dachfenster und Dachrinnen",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/maler",
+          "title": "Maler",
+          "text": "Wände und Decken streichen, Tapezieren, Lackieren, Dekorputz",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/heizung",
+          "title": "Heizung",
+          "text": "Wartung, Heizkörper, hydraulischer Abgleich, neue Heizung, Fußbodenheizung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/waermepumpe",
+          "title": "Wärmepumpe",
+          "text": "Planung, Heizlastberechnung, Installation und Wartung von Wärmepumpen",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/klimaanlage",
+          "title": "Klimaanlage",
+          "text": "Split- und Multisplit-Klimageräte, Lüftungsanlagen, Wartung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/fliesenleger",
+          "title": "Fliesenleger",
+          "text": "Wand- und Bodenfliesen, Naturstein, Abdichtung, Fugen erneuern",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/bodenleger",
+          "title": "Bodenleger",
+          "text": "Parkett, Dielen, Laminat, Vinyl, Teppich, Estrich, Schleifen und Versiegeln",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/tischler",
+          "title": "Tischler",
+          "text": "Möbel und Einbauschränke nach Maß, Treppen, Türen, Reparaturen",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/trockenbau",
+          "title": "Trockenbau",
+          "text": "Trennwände, abgehängte Decken, Dachausbau, Schall- und Brandschutz",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/maurer",
+          "title": "Maurer",
+          "text": "Mauerarbeiten, Wanddurchbrüche, Fundamente, Bodenplatten, Kellersanierung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/bauunternehmen",
+          "title": "Bauen und Renovieren",
+          "text": "Anbau, Umbau, Kernsanierung, Innenausbau und Rohbau",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/badsanierung",
+          "title": "Badsanierung",
+          "text": "Komplettsanierung, bodengleiche Dusche, barrierefreies Bad",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/kuechenbau",
+          "title": "Küchenmontage",
+          "text": "Aufbau von Einbau- und Fertigküchen, Arbeitsplatten, Geräteanschluss",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/fenster-tueren",
+          "title": "Fenster und Türen",
+          "text": "Fenster und Haustüren austauschen, Reparatur, Verglasung, Insektenschutz",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/rollladen",
+          "title": "Rollläden",
+          "text": "Rollläden, Jalousien, Markisen, Terrassenüberdachungen, elektrische Antriebe",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/garten-landschaftsbau",
+          "title": "Garten- und Landschaftsbau",
+          "text": "Gartengestaltung, Gartenpflege, Rasen, Hecken, Teiche, Bewässerung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/baumpflege",
+          "title": "Baumpflege",
+          "text": "Baumfällung, Kronenschnitt, Totholzentfernung, Wurzelfräsen",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/pflasterarbeiten",
+          "title": "Pflasterarbeiten",
+          "text": "Einfahrten, Terrassen, Gartenwege, Erdarbeiten und Entwässerung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/zaunbau",
+          "title": "Zaunbau",
+          "text": "Gartenzäune, Doppelstabmatten, Sicht- und Lärmschutz, Tore, Geländer",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/umzug",
+          "title": "Umzug",
+          "text": "Regionaler und bundesweiter Umzug, Transporte, Ab- und Aufbau",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/entruempelung",
+          "title": "Entrümpelung",
+          "text": "Haushalts- und Wohnungsauflösung, Keller, Dachboden, Sperrmüll",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/gebaeudereinigung",
+          "title": "Reinigung",
+          "text": "Unterhaltsreinigung, Fenster, Grundreinigung, Hausmeisterservice, Winterdienst",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/montageservice",
+          "title": "Montageservice",
+          "text": "Möbelaufbau, Regale, Lampen, Vorhänge, kleine Reparaturen im Haushalt",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/solar",
+          "title": "Solaranlage",
+          "text": "Photovoltaik, Stromspeicher, Solarthermie, Balkonkraftwerke",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/schornsteinfeger",
+          "title": "Schornsteinfeger",
+          "text": "Kehren, Messen, Feuerstättenschau, Schornsteinbau und -sanierung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/kaminofen",
+          "title": "Kaminofen",
+          "text": "Aufbau und Anschluss von Kamin-, Kachel- und Pelletöfen",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/energieberater",
+          "title": "Energieberater",
+          "text": "Energieberatung, Sanierungsfahrplan (iSFP), Energieausweis, Förderanträge",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/fassade",
+          "title": "Fassade",
+          "text": "Fassadendämmung, Putz, Anstrich, Verkleidung, Reinigung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/rohrreinigung",
+          "title": "Rohrreinigung",
+          "text": "Verstopfte Abflüsse, Kanalreinigung, Kamerainspektion, Rückstau",
+          "cta": "Mehr erfahren"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": "Handwerker in Ihrem Bundesland",
+      "items": [
+        {
+          "slug": "regionen/baden-wuerttemberg",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/bayern",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/berlin",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/brandenburg",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/bremen",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/hamburg",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/hessen",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/mecklenburg-vorpommern",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/niedersachsen",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/nordrhein-westfalen",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/rheinland-pfalz",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/saarland",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/sachsen",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/sachsen-anhalt",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/schleswig-holstein",
+          "icon": "pin"
+        },
+        {
+          "slug": "regionen/thueringen",
+          "icon": "pin"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "So funktioniert’s",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Auftrag beschreiben",
+          "text": "Gewerk, Leistung und Postleitzahl: in wenigen Minuten."
+        },
+        {
+          "icon": "message",
+          "title": "Rückmeldungen erhalten",
+          "text": "Interessierte Betriebe aus Ihrer Region melden sich."
+        },
+        {
+          "icon": "check",
+          "title": "Vergleichen und auswählen",
+          "text": "Sie entscheiden frei, wen Sie beauftragen."
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": "Ratgeber",
+      "items": [
+        {
+          "slug": "ratgeber/handwerker-pruefen",
+          "icon": "shield"
+        },
+        {
+          "slug": "ratgeber/angebot-verstehen",
+          "icon": "file"
+        },
+        {
+          "slug": "ratgeber/kostenvoranschlag-festpreis",
+          "icon": "receipt"
+        },
+        {
+          "slug": "ratgeber/gewaehrleistung",
+          "icon": "shield"
+        },
+        {
+          "slug": "ratgeber/foerderung",
+          "icon": "wallet"
+        },
+        {
+          "slug": "ratgeber/steuerbonus-handwerkerleistungen",
+          "icon": "percent"
+        },
+        {
+          "slug": "ratgeber/schwarzarbeit-risiken",
+          "icon": "alert"
+        },
+        {
+          "slug": "ratgeber/notdienst-abzocke",
+          "icon": "alert"
+        }
+      ]
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use HandwerkerFinder?",
-      "html": "<p>Handwerker in ganz Deutschland finden und kostenlose Angebote vergleichen: Gewerke, Bundesländer, Ratgeber.</p>"
+      "h2": "Vor der Beauftragung: die wichtigsten Punkte",
+      "html": "<ul><li><strong>Betrieb prüfen</strong>: Handwerksrolle, Versicherung, Impressum, siehe <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</li><li><strong>Angebote vergleichen</strong>, die dieselben Leistungen enthalten: <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen</a>.</li><li><strong>Förderung prüfen</strong>, bevor Sie energetische Arbeiten beauftragen: <a href=\"/ratgeber/foerderung/\">Förderung im Überblick</a>.</li><li><strong>Abnahme dokumentieren</strong> und Rechnung per Überweisung bezahlen: <a href=\"/ratgeber/gewaehrleistung/\">Gewährleistung</a> und <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">Steuerbonus</a>.</li></ul>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Ist HandwerkerFinder kostenlos?",
+      "a": "Ja. Unsere Ratgeber sind kostenlos, und das Einstellen eines Auftrags bei unseren Partnern ist für Auftraggeber ebenfalls kostenlos."
+    },
+    {
+      "q": "Wie finanziert sich HandwerkerFinder?",
+      "a": "Einige Links sind Affiliate-Links: Ein Partner kann uns eine Provision zahlen, wenn Sie dort einen Auftrag einstellen. Ihr Preis ändert sich dadurch nicht."
+    },
+    {
+      "q": "Sind die Handwerker geprüft?",
+      "a": "Die Betriebe sind unabhängige Unternehmen, die bei unseren Partnern registriert sind. Prüfen Sie Eintragung, Versicherung und Referenzen trotzdem selbst."
+    },
+    {
+      "q": "In welchen Regionen?",
+      "a": "In ganz Deutschland. Auf den Seiten der Bundesländer finden Sie regionale Hinweise."
+    }
+  ],
+  "latestPosts": 6,
+  "latestTitle": "Neu im Ratgeber-Blog",
+  "related": [
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/angebot-verstehen",
+    "ratgeber/foerderung"
+  ],
+  "relatedTitle": "Unsere Ratgeber",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
 }

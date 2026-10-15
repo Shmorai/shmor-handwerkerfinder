@@ -1,0 +1,59 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog/umzug-checkliste",
+  "type": "post",
+  "date": "2026-10-15",
+  "title": "Umzug planen: Checkliste mit Fristen und Tipps",
+  "description": "Kündigung, Halteverbot, Umzugsfirma, Ummeldung innerhalb von zwei Wochen: Die wichtigsten Schritte und Fristen für Ihren Umzug in Deutschland.",
+  "keywords": [
+    "umzug checkliste",
+    "umzug planen",
+    "ummelden frist",
+    "halteverbot umzug"
+  ],
+  "cardText": "Vom Angebot bis zur Ummeldung",
+  "eyebrow": "Blog",
+  "h1": "Umzug planen: die Checkliste",
+  "intro": "Ein Umzug hat viele Fristen. Mit einer guten Reihenfolge behalten Sie den Überblick und vergessen nichts Wichtiges.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1714647211902-bb711d643a17",
+    "alt": "Frau trägt Umzugskartons in einem Wohnzimmer",
+    "credit": "Vitaly Gariev",
+    "creditUrl": "https://unsplash.com/@silverkblack"
+  },
+  "sections": [
+    {
+      "h2": "Einige Wochen vorher",
+      "html": "<ul><li>Mietvertrag fristgerecht kündigen (gesetzliche Kündigungsfrist für Mieter: drei Monate, § 573c BGB).</li><li>Angebote von <a href=\"/gewerke/umzug/\">Umzugsunternehmen</a> einholen, am besten mit Besichtigung.</li><li>Halteverbotszone bei der Stadt beantragen.</li><li>Ausmisten: Was nicht mit soll, rechtzeitig verkaufen oder <a href=\"/gewerke/entruempelung/\">entsorgen</a>.</li></ul>"
+    },
+    {
+      "h2": "Kurz vorher",
+      "html": "<ul><li>Strom, Gas, Internet ummelden oder kündigen.</li><li>Nachsendeauftrag bei der Post stellen.</li><li>Termin für die Wohnungsübergabe vereinbaren, Renovierungspflichten prüfen.</li></ul>"
+    },
+    {
+      "h2": "Nach dem Umzug",
+      "html": "<ul><li>Innerhalb von <strong>zwei Wochen</strong> beim Bürgeramt anmelden (§ 17 Bundesmeldegesetz); der Vermieter muss Ihnen den Einzug bestätigen.</li><li>Adresse bei Bank, Versicherungen, Arbeitgeber und Kfz-Zulassung ändern.</li><li>Schäden am Umzugsgut fristgerecht melden.</li></ul><p>Privat veranlasste Umzugskosten können als haushaltsnahe Dienstleistung teilweise <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">steuerlich abgesetzt</a> werden.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "§ 17 Bundesmeldegesetz",
+      "url": "https://www.gesetze-im-internet.de/bmg/__17.html"
+    },
+    {
+      "title": "§ 573c BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__573c.html"
+    },
+    {
+      "title": "§ 451e HGB (Haftung beim Umzug)",
+      "url": "https://www.gesetze-im-internet.de/hgb/__451e.html"
+    }
+  ],
+  "related": [
+    "gewerke/umzug",
+    "gewerke/entruempelung",
+    "gewerke/gebaeudereinigung"
+  ],
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

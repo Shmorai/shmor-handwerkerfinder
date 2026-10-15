@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/bodenleger",
+  "nav": "Bodenleger",
+  "title": "Bodenleger finden: Parkett, Laminat, Vinyl | HandwerkerFinder",
+  "description": "Parkett, Laminat, Vinyl, Teppich oder Estrich: Finden Sie einen Bodenleger in Ihrer Nähe und vergleichen Sie kostenlose Angebote für Ihren neuen Boden.",
+  "keywords": [
+    "bodenleger",
+    "parkett verlegen",
+    "laminat verlegen",
+    "vinylboden verlegen",
+    "parkett schleifen",
+    "estrich"
+  ],
+  "cardText": "Parkett, Dielen, Laminat, Vinyl, Teppich, Estrich, Schleifen und Versiegeln",
+  "eyebrow": "Boden und Parkett",
+  "h1": "Bodenleger in Ihrer Nähe finden",
+  "intro": "Der Boden prägt jeden Raum. Ob Parkett, Laminat, Vinyl oder Teppich: Ein Bodenleger prüft den Untergrund, verlegt fachgerecht und sorgt für saubere Übergänge. Vergleichen Sie Angebote aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1761053130711-2515ef532bb5",
+    "alt": "Holzboden im Fischgrätmuster",
+    "credit": "Alex Cooper",
+    "creditUrl": "https://unsplash.com/@alexcooper13"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Bodenleger?",
+      "html": "<ul><li>Verlegen und Austausch von Parkett- und Dielenböden</li><li>Verlegen von Laminat, Vinyl, PVC und Linoleum</li><li>Teppichboden verlegen</li><li>Schleifen, Ölen und Versiegeln von Holzböden</li><li>Estrich legen und Fußboden ausgleichen</li><li>Entfernen alter Bodenbeläge und Reparatur von Bodenbelägen</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Der alte Belag ist abgenutzt, beschädigt oder unmodern</li><li>Parkett hat Kratzer und braucht einen neuen Schliff</li><li>Sie renovieren oder ziehen um</li><li>Sie planen eine Fußbodenheizung und brauchen einen passenden Belag</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Parkettleger / Estrichleger)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Ist der Untergrund für den gewünschten Belag geeignet, und wird die Restfeuchte gemessen?</li><li>Sind Sockelleisten, Übergangsprofile und Türkürzungen enthalten?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Belagsart und Qualität (Massivparkett, Fertigparkett, Klick-Vinyl…)</li><li>Verlegemuster (Fischgrät ist aufwendiger als Schiffsboden)</li><li>Untergrundvorbereitung, Ausgleichsmasse, Trittschalldämmung</li><li>Entfernen und Entsorgen des alten Bodens</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Lassen Sie Holz- und Vinylböden vor dem Verlegen einige Tage im Raum akklimatisieren.</li><li>Bei Fußbodenheizung nur dafür freigegebene Beläge wählen und auf einen niedrigen Wärmedurchlasswiderstand achten.</li><li>Filzgleiter unter Stuhl- und Tischbeinen schützen jeden Holzboden.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Bodenleger</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Parkettleger / Estrichleger). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>Parkettleger und Estrichleger sind seit 2020 wieder zulassungspflichtige Handwerke, die Eintragung in die Handwerksrolle ist Pflicht. In Mehrfamilienhäusern ist der Trittschallschutz wichtig: Ein neuer, härterer Belag darf den Schallschutz gegenüber den Nachbarn nicht deutlich verschlechtern. In Mietwohnungen gilt: Ein Austausch des Bodenbelags braucht die Zustimmung des Vermieters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie oft kann man Parkett abschleifen?",
+      "a": "Das hängt von der Nutzschicht ab. Massivparkett lässt sich oft mehrmals schleifen, Fertigparkett mit dünner Deckschicht nur ein- bis zweimal."
+    },
+    {
+      "q": "Vinyl oder Laminat: Was ist besser?",
+      "a": "Vinyl ist meist feuchtigkeitsbeständiger und leiser, Laminat oft günstiger und robuster gegen Druckstellen. Für Bad und Küche eignen sich wasserfeste Vinylböden besser."
+    },
+    {
+      "q": "Wie lange muss Estrich trocknen?",
+      "a": "Zementestrich braucht je nach Dicke und Raumklima mehrere Wochen. Vor dem Verlegen misst der Bodenleger die Restfeuchte."
+    }
+  ],
+  "related": [
+    "gewerke/tischler",
+    "gewerke/fliesenleger",
+    "gewerke/maler"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

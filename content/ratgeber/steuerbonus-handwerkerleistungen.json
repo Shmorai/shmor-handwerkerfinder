@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "slug": "ratgeber/steuerbonus-handwerkerleistungen",
+  "nav": "Steuerbonus",
+  "title": "Handwerkerkosten von der Steuer absetzen (§ 35a)",
+  "description": "20 % der Arbeitskosten, bis zu 1.200 € im Jahr: So setzen Sie Handwerkerleistungen und haushaltsnahe Dienstleistungen nach § 35a EStG richtig ab.",
+  "keywords": [
+    "handwerkerkosten absetzen",
+    "handwerkerleistungen steuer",
+    "35a estg",
+    "haushaltsnahe dienstleistungen",
+    "handwerkerbonus"
+  ],
+  "cardText": "20 % der Arbeitskosten, Rechnung und Überweisung",
+  "eyebrow": "Ratgeber",
+  "h1": "Handwerkerkosten von der Steuer absetzen",
+  "intro": "Reparaturen, Renovierung und Modernisierung in Ihrem Haushalt werden vom Finanzamt gefördert, ganz ohne Antrag vor dem Auftrag. Wichtig sind die richtigen Belege.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554224154-26032ffc0d07",
+    "alt": "Smartphone, Kugelschreiber und Steuerunterlagen auf einer weißen Mappe",
+    "credit": "Kelly Sikkema",
+    "creditUrl": "https://unsplash.com/@kellysikkema"
+  },
+  "sections": [
+    {
+      "h2": "So funktioniert der Bonus",
+      "html": "<ul><li><strong>Handwerkerleistungen</strong> (§ 35a Abs. 3 EStG): 20 % der Arbeitskosten, höchstens <strong>1.200 €</strong> Steuerermäßigung pro Jahr (das entspricht 6.000 € Arbeitskosten).</li><li><strong>Haushaltsnahe Dienstleistungen</strong> (§ 35a Abs. 2 EStG), etwa Reinigung, Gartenpflege, Umzugsdienstleistungen: 20 %, höchstens <strong>4.000 €</strong> pro Jahr.</li><li>Die Ermäßigung wird direkt von der Steuerschuld abgezogen, nicht vom Einkommen.</li></ul>"
+    },
+    {
+      "h2": "Was begünstigt ist",
+      "html": "<p>Begünstigt sind <strong>Arbeits-, Fahrt- und Maschinenkosten</strong> einschließlich Umsatzsteuer, nicht das Material. Die Arbeiten müssen in Ihrem Haushalt in der EU bzw. im EWR erbracht werden; dazu zählen auch Garten und Zufahrt. Neubaumaßnahmen sind ausgeschlossen. Mieter und Wohnungseigentümer können anteilige Kosten aus der Nebenkosten- bzw. Hausgeldabrechnung geltend machen.</p>"
+    },
+    {
+      "h2": "Die Belege",
+      "html": "<ol><li>Eine <strong>Rechnung</strong>, in der Arbeitskosten und Material getrennt ausgewiesen sind.</li><li>Bezahlung <strong>per Überweisung</strong> auf das Konto des Betriebs. Barzahlung wird nicht anerkannt.</li></ol>"
+    },
+    {
+      "h2": "Ausschlüsse",
+      "html": "<p>Kein Bonus für Maßnahmen, die öffentlich gefördert werden (z. B. durch zinsverbilligte Darlehen oder Zuschüsse), und nicht zusätzlich zur Förderung energetischer Maßnahmen nach § 35c EStG. Mehr zu Förderwegen im Ratgeber <a href=\"/ratgeber/foerderung/\">Förderung</a>. Die Angaben entsprechen dem Stand 2026; im Zweifel hilft ein Steuerberater oder Lohnsteuerhilfeverein.</p>"
+    },
+    {
+      "h2": "Quellen und offizielle Links",
+      "html": "<ul><li><a href=\"https://www.gesetze-im-internet.de/estg/__35a.html\" rel=\"noopener\" target=\"_blank\">§ 35a EStG</a></li><li><a href=\"https://www.bundesfinanzministerium.de/\" rel=\"noopener\" target=\"_blank\">Bundesfinanzministerium: Anwendungsschreiben zu § 35a EStG</a></li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Gilt der Bonus auch für den Schornsteinfeger?",
+      "a": "Ja, nach Auffassung der Finanzverwaltung sind Kehr-, Mess- und Überprüfungsarbeiten des Schornsteinfegers begünstigt."
+    },
+    {
+      "q": "Kann ich die Kosten absetzen, wenn ich bar bezahlt habe?",
+      "a": "Nein. Für den Bonus ist eine unbare Zahlung auf das Konto des Leistungserbringers Voraussetzung."
+    }
+  ],
+  "related": [
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/angebot-verstehen",
+    "ratgeber/kostenvoranschlag-festpreis"
+  ],
+  "relatedTitle": "Weitere Ratgeber",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

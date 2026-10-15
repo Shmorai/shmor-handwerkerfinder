@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/umzug",
+  "nav": "Umzug",
+  "title": "Umzugsunternehmen finden: Angebote vergleichen",
+  "description": "Regionaler, bundesweiter oder internationaler Umzug, Transport und Möbelmontage: Finden Sie ein Umzugsunternehmen und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "umzugsunternehmen",
+    "umzug",
+    "umzugsfirma",
+    "möbeltransport",
+    "umzug angebote",
+    "fernumzug"
+  ],
+  "cardText": "Regionaler und bundesweiter Umzug, Transporte, Ab- und Aufbau",
+  "eyebrow": "Umzug und Transport",
+  "h1": "Umzugsunternehmen finden und vergleichen",
+  "intro": "Ein guter Umzug beginnt mit einer realistischen Besichtigung und einem klaren Angebot. Ob innerhalb der Stadt, quer durch Deutschland oder ins Ausland: Vergleichen Sie Angebote von Umzugsfirmen.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1766040923580-16ad32fae8b4",
+    "alt": "Stapel brauner Umzugskartons mit blauem Klebeband",
+    "credit": "Rohit Choudhari",
+    "creditUrl": "https://unsplash.com/@iamrohitchoudhari"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Umzug?",
+      "html": "<ul><li>Regionaler Umzug (bis 50 km) und bundesweiter Umzug</li><li>Internationaler Umzug</li><li>Transport und Überführung einzelner Möbel, Lieferung und Abholung</li><li>Möbelab- und -aufbau, Küchenmontage</li><li>Einpackservice und Verpackungsmaterial</li><li>Halteverbotszone beantragen und Entsorgung von Altmöbeln</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Sie ziehen in eine neue Wohnung oder ein Haus</li><li>Einzelne große Möbel oder ein Klavier müssen transportiert werden</li><li>Sie ziehen beruflich um und brauchen eine Rechnung für den Arbeitgeber</li><li>Ein Haushalt muss nach einem Todesfall oder Umzug ins Heim aufgelöst werden</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Ist das Angebot ein Festpreis, und auf welcher Besichtigung oder Umzugsgutliste beruht es?</li><li>Wie ist das Umzugsgut versichert, und lohnt sich eine Zusatzversicherung?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Umfang des Umzugsguts (Kubikmeter) und Entfernung</li><li>Etagen, Aufzug und Länge der Tragewege</li><li>Zusatzleistungen: Einpacken, Montage, Halteverbot, Entsorgung</li><li>Termin (Monatsende und Wochenende sind gefragt)</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Beantragen Sie eine Halteverbotszone rechtzeitig bei der Stadt, meist einige Wochen vorher.</li><li>Kartons nicht zu schwer packen: Bücher in kleine Kartons, Leichtes in große.</li><li>Nach dem Umzug innerhalb von zwei Wochen ummelden (Bundesmeldegesetz).</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Bei Schäden haftet das Umzugsunternehmen nach dem Handelsgesetzbuch grundsätzlich bis zu 620 € je Kubikmeter Laderaum, der zur Erfüllung des Vertrags benötigt wird (§ 451e HGB). Schäden müssen Sie dokumentieren und rechtzeitig anzeigen: äußerlich erkennbare Schäden spätestens am Tag nach der Ablieferung, verdeckte innerhalb von 14 Tagen (§ 451f HGB). Nach dem Einzug müssen Sie sich innerhalb von zwei Wochen beim Bürgeramt anmelden.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kann ich Umzugskosten von der Steuer absetzen?",
+      "a": "Privat veranlasste Umzüge können als haushaltsnahe Dienstleistung nach § 35a EStG berücksichtigt werden (20 % der Arbeitskosten). Beruflich bedingte Umzüge sind als Werbungskosten absetzbar."
+    },
+    {
+      "q": "Wie früh sollte ich ein Umzugsunternehmen buchen?",
+      "a": "Möglichst einige Wochen vorher, für Termine zum Monatsende und im Sommer eher früher."
+    },
+    {
+      "q": "Was ist, wenn beim Umzug etwas kaputtgeht?",
+      "a": "Halten Sie den Schaden mit Fotos fest, vermerken Sie ihn am besten gleich auf dem Ablieferungsschein und melden Sie ihn schriftlich in den gesetzlichen Fristen."
+    }
+  ],
+  "related": [
+    "gewerke/entruempelung",
+    "gewerke/montageservice",
+    "gewerke/gebaeudereinigung"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

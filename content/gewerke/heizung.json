@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/heizung",
+  "nav": "Heizung",
+  "title": "Heizungsbauer finden: Heizung warten und erneuern",
+  "description": "Heizungswartung, Heizkörper tauschen, neue Gas-, Öl- oder Hybridheizung: Finden Sie einen Heizungsbauer in Ihrer Nähe und vergleichen Sie Angebote.",
+  "keywords": [
+    "heizungsbauer",
+    "heizungsinstallateur",
+    "heizung wartung",
+    "heizung erneuern",
+    "heizkörper austauschen",
+    "fußbodenheizung"
+  ],
+  "cardText": "Wartung, Heizkörper, hydraulischer Abgleich, neue Heizung, Fußbodenheizung",
+  "eyebrow": "Heizung und Warmwasser",
+  "h1": "Heizungsbauer in Ihrer Nähe finden",
+  "intro": "Die Heizung ist das Herz des Hauses und einer der größten Kostenpunkte. Ob Wartung, Reparatur oder Heizungstausch: Vergleichen Sie Angebote von Heizungsbauern aus Ihrer Region und lassen Sie sich beraten, welches System zu Ihrem Gebäude passt.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1669725341213-7379ff6c90d5",
+    "alt": "Weißer Heizkörper an einer Wand in einem Raum",
+    "credit": "e24",
+    "creditUrl": "https://unsplash.com/@e_heizung_24"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Heizung?",
+      "html": "<ul><li>Wartung und Reparatur von Gas-, Öl- und Pelletheizungen</li><li>Anschluss und Austausch von Heizkörpern und Thermostaten</li><li>Hydraulischer Abgleich und Heizungsoptimierung</li><li>Installation neuer Heizsysteme, auch Hybrid- und Wärmepumpenlösungen</li><li>Verlegen von Fußbodenheizungen</li><li>Warmwasserspeicher, Solarthermie und Einbau von Öl- oder Gastanks</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Die Heizung wird nicht mehr richtig warm oder macht Geräusche</li><li>Die jährliche Wartung steht an</li><li>Die Anlage ist alt und störanfällig oder der Schornsteinfeger beanstandet die Abgaswerte</li><li>Sie sanieren und möchten auf erneuerbare Energien umsteigen</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Installateur und Heizungsbauer)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Ist ein hydraulischer Abgleich im Angebot enthalten?</li><li>Welche Förderung ist für die geplante Anlage möglich, und wer stellt den Antrag?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Art und Leistung der Heizung, Fabrikat</li><li>Umbau von Leitungen, Schornstein oder Heizraum</li><li>Demontage und Entsorgung der Altanlage, auch eines Öltanks</li><li>Zusatzleistungen wie Pufferspeicher, Warmwasserbereitung, Regelung</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Entlüften Sie gluckernde Heizkörper zu Beginn der Heizsaison und prüfen Sie danach den Anlagendruck.</li><li>Ein hydraulischer Abgleich sorgt dafür, dass alle Räume gleichmäßig warm werden, oft bei geringerem Verbrauch.</li><li>Holen Sie sich vor einem Heizungstausch eine unabhängige Energieberatung: Die Reihenfolge der Maßnahmen entscheidet über die Kosten.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Heizung</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Installateur und Heizungsbauer). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>Welche Anforderungen an eine neue Heizung gelten, regelt das Gebäudeenergiegesetz (GEG). Die Regeln, unter anderem zum Anteil erneuerbarer Energien und zur Verknüpfung mit der kommunalen Wärmeplanung, wurden in den letzten Jahren mehrfach geändert und werden politisch weiter diskutiert. Lassen Sie sich vor dem Kauf aktuell beraten, etwa von einem Energieberater oder der Energieberatung der Verbraucherzentrale. Förderanträge müssen in der Regel <strong>vor</strong> der Beauftragung gestellt werden.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Muss ich meine alte Heizung austauschen?",
+      "a": "Eine funktionierende Heizung dürfen Sie grundsätzlich weiter betreiben und reparieren lassen. Für bestimmte alte Konstanttemperaturkessel gibt es eine Austauschpflicht nach 30 Jahren, mit Ausnahmen. Ihr Schornsteinfeger weiß, was für Ihre Anlage gilt."
+    },
+    {
+      "q": "Wie oft sollte die Heizung gewartet werden?",
+      "a": "Hersteller empfehlen meist eine jährliche Wartung. Sie verlängert die Lebensdauer, senkt den Verbrauch und ist oft Bedingung für die Herstellergarantie."
+    },
+    {
+      "q": "Wer stellt den Förderantrag für eine neue Heizung?",
+      "a": "Bei der Heizungsförderung stellen in der Regel Sie als Eigentümer den Antrag, oft mit Unterstützung des Fachbetriebs oder eines Energieberaters. Prüfen Sie die aktuellen Bedingungen bei KfW und BAFA."
+    }
+  ],
+  "related": [
+    "gewerke/waermepumpe",
+    "gewerke/energieberater",
+    "gewerke/schornsteinfeger"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

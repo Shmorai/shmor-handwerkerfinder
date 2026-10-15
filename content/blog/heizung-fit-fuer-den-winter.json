@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog/heizung-fit-fuer-den-winter",
+  "type": "post",
+  "date": "2026-10-15",
+  "title": "Heizung fit für den Winter: Checkliste für den Herbst",
+  "description": "Entlüften, Druck prüfen, Wartung planen, Thermostate einstellen: Mit dieser Herbst-Checkliste starten Sie sicher und sparsam in die Heizsaison.",
+  "keywords": [
+    "heizung entlüften",
+    "heizung winterfest",
+    "heizungswartung herbst",
+    "heizkosten sparen"
+  ],
+  "cardText": "Entlüften, Druck, Wartung und Thermostate",
+  "eyebrow": "Blog",
+  "h1": "Heizung fit für den Winter: die Herbst-Checkliste",
+  "intro": "Wenn die Nächte kühler werden, zeigt sich, ob die Heizung rund läuft. Mit ein paar Handgriffen und einer rechtzeitigen Wartung vermeiden Sie kalte Überraschungen im Januar.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1599028274511-e02a767949a3",
+    "alt": "Weißer Heizkörper neben einem Holzfenster",
+    "credit": "Julian Hochgesang",
+    "creditUrl": "https://unsplash.com/@julianhochgesang"
+  },
+  "sections": [
+    {
+      "h2": "1. Wartung rechtzeitig buchen",
+      "html": "<p>Heizungsbauer sind im Herbst gefragt. Wer die jährliche Wartung schon im Spätsommer oder frühen Herbst vereinbart, bekommt leichter einen Termin. Bei der Wartung werden Brenner, Dichtungen, Sicherheitseinrichtungen und Einstellungen geprüft. Das senkt das Ausfallrisiko und oft auch den Verbrauch.</p>"
+    },
+    {
+      "h2": "2. Heizkörper entlüften",
+      "html": "<p>Gluckert es oder werden Heizkörper oben nicht warm, ist Luft im System. Drehen Sie die Heizung auf, warten Sie, bis die Heizkörper warm sind, und öffnen Sie dann mit einem Entlüftungsschlüssel kurz das Ventil, bis Wasser austritt. Ein Lappen fängt Tropfen auf.</p>"
+    },
+    {
+      "h2": "3. Anlagendruck prüfen",
+      "html": "<p>Nach dem Entlüften sinkt der Druck. Das Manometer an der Heizung zeigt ihn an; welcher Bereich richtig ist, steht in der Bedienungsanleitung oder ist am Gerät markiert. Fällt der Druck häufig ab, kann ein Leck oder ein defektes Ausdehnungsgefäß dahinterstecken: ein Fall für den Fachbetrieb.</p>"
+    },
+    {
+      "h2": "4. Thermostate und Regelung",
+      "html": "<ul><li>Heizkörper nicht mit Möbeln oder langen Vorhängen zustellen.</li><li>Programmierbare Thermostate auf Ihre Tagesabläufe einstellen.</li><li>Die Heizkurve der Anlage prüfen lassen: Eine zu hohe Vorlauftemperatur kostet Energie.</li></ul>"
+    },
+    {
+      "h2": "5. Größere Schritte planen",
+      "html": "<p>Ist die Heizung alt oder ungleichmäßig, lohnt ein <a href=\"/gewerke/heizung/\">hydraulischer Abgleich</a> oder eine Beratung zum Heizungstausch. Prüfen Sie Fördermöglichkeiten, bevor Sie beauftragen, und lesen Sie unseren Überblick zur <a href=\"/ratgeber/foerderung/\">Förderung</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Verbraucherzentrale Energieberatung",
+      "url": "https://verbraucherzentrale-energieberatung.de/"
+    },
+    {
+      "title": "Bundesministerium für Wirtschaft und Energie: energiewechsel.de",
+      "url": "https://www.energiewechsel.de/"
+    }
+  ],
+  "related": [
+    "gewerke/heizung",
+    "gewerke/waermepumpe",
+    "ratgeber/foerderung"
+  ],
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

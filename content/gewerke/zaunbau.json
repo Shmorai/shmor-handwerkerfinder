@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/zaunbau",
+  "nav": "Zaunbau",
+  "title": "Zaunbauer finden: Zaun, Tor und Sichtschutz | HandwerkerFinder",
+  "description": "Gartenzaun, Doppelstabmatten, Sichtschutz oder Tor: Finden Sie einen Zaunbauer in Ihrer Nähe und vergleichen Sie kostenlose Angebote für Ihr Grundstück.",
+  "keywords": [
+    "zaunbau",
+    "zaun bauen",
+    "gartenzaun",
+    "sichtschutz",
+    "doppelstabmattenzaun",
+    "gartentor"
+  ],
+  "cardText": "Gartenzäune, Doppelstabmatten, Sicht- und Lärmschutz, Tore, Geländer",
+  "eyebrow": "Zäune, Tore und Sichtschutz",
+  "h1": "Zaunbauer in Ihrer Nähe finden",
+  "intro": "Ein Zaun schützt, grenzt ab und prägt das Grundstück. Ob Holz, Metall oder Sichtschutzelemente: Ein Zaunbauer setzt Pfosten und Fundamente dauerhaft stabil. Vergleichen Sie Angebote aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1718909704612-29e9707612b7",
+    "alt": "Weißer Lattenzaun vor einem Haus",
+    "credit": "Phil Hearing",
+    "creditUrl": "https://unsplash.com/@philhearing"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Zaunbau?",
+      "html": "<ul><li>Aufbau und Austausch von Zäunen aus Holz, Metall oder Kunststoff</li><li>Doppelstabmattenzäune und Maschendraht</li><li>Montage von Sicht- und Lärmschutz</li><li>Aufbau und Reparatur von Toren und Geländern</li><li>Elektrische Torantriebe</li><li>Fundamente, Pfosten und Gabionen</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Der alte Zaun ist morsch oder schief</li><li>Sie möchten mehr Privatsphäre im Garten</li><li>Kinder oder Hunde sollen sicher im Garten bleiben</li><li>Eine Einfahrt soll ein Tor bekommen</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Wie werden die Pfosten gegründet, und welches Material ist wetterfest?</li><li>Kennen Sie die Vorschriften zu Höhe und Grenzabstand in meiner Gemeinde?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Länge und Höhe des Zauns</li><li>Material (Holz, verzinkter Stahl, WPC, Gabionen)</li><li>Untergrund, Hanglage und Fundamente</li><li>Tore, Antriebe und Entsorgung des alten Zauns</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Sprechen Sie mit Ihrem Nachbarn, bevor Sie an der Grenze bauen: Das vermeidet Streit.</li><li>Klären Sie den genauen Grenzverlauf, im Zweifel mit den Grenzsteinen oder dem Vermessungsamt.</li><li>Holz hält länger, wenn es keinen direkten Erdkontakt hat: Pfostenträger aus Metall helfen.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Ob Sie einen Zaun an der Grundstücksgrenze errichten dürfen und wie hoch er sein darf, regeln die Landesbauordnung, der Bebauungsplan und, in vielen Ländern, das Nachbarrechtsgesetz. Höhere Sichtschutzwände können als bauliche Anlage genehmigungspflichtig sein. Erkundigen Sie sich beim Bauamt, bevor Sie bestellen.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie hoch darf mein Gartenzaun sein?",
+      "a": "Das ist von Land zu Land und oft von Gemeinde zu Gemeinde verschieden. Maßgeblich sind Bebauungsplan, Landesbauordnung und gegebenenfalls das Nachbarrechtsgesetz."
+    },
+    {
+      "q": "Wer zahlt einen Zaun an der Grenze?",
+      "a": "Je nach Bundesland können beide Nachbarn verpflichtet sein, sich an einer ortsüblichen Einfriedung zu beteiligen. Das Nachbarrechtsgesetz Ihres Landes gibt Auskunft."
+    },
+    {
+      "q": "Welcher Zaun ist am langlebigsten?",
+      "a": "Verzinkte und beschichtete Metallzäune halten in der Regel am längsten und brauchen wenig Pflege. Holz ist natürlicher, braucht aber regelmäßigen Schutz."
+    }
+  ],
+  "related": [
+    "gewerke/garten-landschaftsbau",
+    "gewerke/pflasterarbeiten",
+    "gewerke/montageservice"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

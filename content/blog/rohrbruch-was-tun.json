@@ -1,0 +1,51 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog/rohrbruch-was-tun",
+  "type": "post",
+  "date": "2026-10-15",
+  "title": "Rohrbruch: Was Sie in den ersten Minuten tun sollten",
+  "description": "Wasser abstellen, Strom sichern, Schaden dokumentieren, Versicherung informieren: die wichtigsten Schritte bei einem Rohrbruch im Haus oder in der Wohnung.",
+  "keywords": [
+    "rohrbruch was tun",
+    "wasserschaden",
+    "rohrbruch versicherung",
+    "haupthahn"
+  ],
+  "cardText": "Wasser ab, Strom sichern, dokumentieren, melden",
+  "eyebrow": "Blog",
+  "h1": "Rohrbruch: die ersten Schritte",
+  "intro": "Bei einem Rohrbruch zählt jede Minute. Wer weiß, was zu tun ist, begrenzt den Schaden erheblich.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1646009445351-b8192e095f3a",
+    "alt": "Nahaufnahme mehrerer Rohre an einer Wand",
+    "credit": "Roger Starnes Sr",
+    "creditUrl": "https://unsplash.com/@rstar50"
+  },
+  "sections": [
+    {
+      "h2": "Sofort",
+      "html": "<ol><li><strong>Wasser abstellen</strong>: am Haupthahn beim Wasserzähler, in Wohnungen oft am Absperrventil der Wohnung.</li><li><strong>Strom sichern</strong>: Kommt Wasser in die Nähe von Steckdosen oder Geräten, die Sicherung des Bereichs ausschalten. Nicht in Wasser stehen, das unter Strom stehen könnte.</li><li>Nachbarn unter Ihnen warnen.</li></ol>"
+    },
+    {
+      "h2": "Danach",
+      "html": "<ul><li>Schaden mit Fotos und Videos dokumentieren.</li><li>Vermieter bzw. Hausverwaltung informieren.</li><li>Versicherung melden: Leitungswasserschäden am Gebäude trägt meist die Wohngebäudeversicherung, Schäden an Möbeln die Hausratversicherung.</li><li>Wasser aufnehmen und lüften, um Folgeschäden zu begrenzen.</li></ul>"
+    },
+    {
+      "h2": "Den richtigen Betrieb finden",
+      "html": "<p>Für die Reparatur brauchen Sie einen <a href=\"/gewerke/sanitaer/\">Sanitärbetrieb</a>, für die Trocknung oft eine Fachfirma. Achten Sie auch im Notfall auf klare Preise, siehe <a href=\"/ratgeber/notdienst-abzocke/\">Notdienst-Abzocke vermeiden</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Verbraucherzentrale: Wasserschaden",
+      "url": "https://www.verbraucherzentrale.de/"
+    }
+  ],
+  "related": [
+    "gewerke/sanitaer",
+    "gewerke/rohrreinigung",
+    "ratgeber/notdienst-abzocke"
+  ],
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/dachdecker",
+  "nav": "Dachdecker",
+  "title": "Dachdecker finden: Angebote für Dacharbeiten",
+  "description": "Dachreparatur, Neueindeckung, Dachdämmung oder Dachfenster: Finden Sie einen Dachdecker in Ihrer Region und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "dachdecker",
+    "dachreparatur",
+    "dach neu eindecken",
+    "dachsanierung",
+    "dachrinne reparieren",
+    "dachfenster einbauen"
+  ],
+  "cardText": "Dachreparatur, Neueindeckung, Dachdämmung, Dachfenster und Dachrinnen",
+  "eyebrow": "Dach und Dachrinne",
+  "h1": "Dachdecker in Ihrer Nähe finden",
+  "intro": "Ein dichtes Dach schützt das ganze Haus. Ob einzelne verrutschte Ziegel, eine komplette Neueindeckung oder die Dämmung beim Dachausbau: Vergleichen Sie Angebote von Dachdeckerbetrieben aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1643225523483-e2c434191bba",
+    "alt": "Handwerker trägt Dachschindeln über ein Hausdach",
+    "credit": "Zohair Mirza",
+    "creditUrl": "https://unsplash.com/@zamclicks"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Dachdecker?",
+      "html": "<ul><li>Reparatur von Undichtigkeiten, Austausch einzelner Ziegel oder Dachsteine</li><li>Neueindeckung mit Ziegeln, Betondachsteinen, Schiefer oder Metall</li><li>Dachdämmung (Zwischen-, Auf- und Untersparrendämmung)</li><li>Einbau und Austausch von Dachfenstern und Dachluken</li><li>Flachdachabdichtung, Dachterrassen und Gründächer</li><li>Montage von Dachrinnen, Fallrohren und Schneefanggittern</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Nach einem Sturm fehlen Ziegel oder es tropft durch die Decke</li><li>Feuchte Flecken im Dachgeschoss oder an der Dachschräge</li><li>Das Dach ist alt, Moos und Bruch nehmen zu</li><li>Sie bauen das Dachgeschoss aus oder dämmen das Dach</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Dachdecker)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Wird ein Gerüst benötigt, und ist es im Angebot enthalten?</li><li>Welche Dämmung und welcher Aufbau sind für mein Dach vorgesehen?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Dachfläche, Dachneigung und Zugänglichkeit</li><li>Material der Eindeckung (Ton, Beton, Schiefer, Metall)</li><li>Gerüst, Absturzsicherung und Entsorgung des alten Daches</li><li>Zusatzarbeiten wie Dämmung, Dachfenster, Klempnerarbeiten</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Schauen Sie nach jedem Herbststurm mit dem Fernglas aufs Dach: Verrutschte Ziegel früh zu richten ist günstig.</li><li>Steigen Sie nicht selbst aufs Dach: Absturzunfälle gehören zu den schwersten Haushaltsunfällen.</li><li>Kombinieren Sie eine Neueindeckung mit der Dämmung: Das Gerüst steht dann nur einmal.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Dachdecker</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Dachdecker). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>Wer das Dach erneuert oder ausbaut, muss die Anforderungen des Gebäudeenergiegesetzes (GEG) an den Wärmeschutz einhalten. Bei denkmalgeschützten Häusern und in Gebieten mit Gestaltungssatzung können Farbe und Material der Eindeckung vorgeschrieben sein: Fragen Sie vorher bei der Gemeinde bzw. der Unteren Denkmalschutzbehörde nach. Dachgauben und größere Umbauten sind je nach Landesbauordnung genehmigungspflichtig.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Zahlt die Versicherung einen Sturmschaden am Dach?",
+      "a": "Sturmschäden ab Windstärke 8 sind in der Regel über die Wohngebäudeversicherung abgedeckt. Melden Sie den Schaden sofort, dokumentieren Sie ihn mit Fotos und lassen Sie nur notwendige Sofortmaßnahmen ausführen, bevor der Versicherer zustimmt."
+    },
+    {
+      "q": "Gibt es Förderung für die Dachdämmung?",
+      "a": "Die Dämmung von Dach oder oberster Geschossdecke kann über die Bundesförderung für effiziente Gebäude (BAFA) oder steuerlich nach § 35c EStG gefördert werden. Die Bedingungen ändern sich regelmäßig: Prüfen Sie den aktuellen Stand vor der Beauftragung."
+    },
+    {
+      "q": "Wie lange hält ein Ziegeldach?",
+      "a": "Ein fachgerecht verlegtes Ton- oder Betonsteindach hält oft mehrere Jahrzehnte. Entscheidend sind Material, Unterkonstruktion und regelmäßige Kontrolle."
+    }
+  ],
+  "related": [
+    "gewerke/fassade",
+    "gewerke/solar",
+    "gewerke/energieberater"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

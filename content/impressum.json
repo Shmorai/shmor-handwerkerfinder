@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-15",
+  "search": false,
+  "ctaSearch": false,
+  "eyebrow": "Rechtliches",
+  "related": [
+    "datenschutz",
+    "cookies",
+    "so-funktionierts"
+  ],
+  "relatedTitle": "Weitere Informationen",
+  "slug": "impressum",
+  "title": "Impressum | HandwerkerFinder",
+  "description": "Impressum von HandwerkerFinder (handwerkerfinder.shmor.ai): Angaben gemäß § 5 DDG, Kontakt, redaktionelle Verantwortung und Hinweise zur Haftung.",
+  "keywords": [
+    "impressum"
+  ],
+  "cardText": "Anbieterkennzeichnung und Kontakt",
+  "h1": "Impressum",
+  "intro": "Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG) und § 18 Medienstaatsvertrag (MStV).",
+  "sections": [
+    {
+      "h2": "Anbieter",
+      "html": "<p>HandwerkerFinder (handwerkerfinder.shmor.ai) ist Teil des Netzwerks <a href=\"https://shmor.ai/\" hreflang=\"en\">Shmor.ai</a>. Anbieter:</p><ul><li>Firma: <mark class=\"todo\">[Bitte ergänzen: Name des Unternehmens]</mark></li><li>Rechtsform und Vertretungsberechtigte: <mark class=\"todo\">[Bitte ergänzen: Rechtsform, Geschäftsführer/Inhaber]</mark></li><li>Anschrift: <mark class=\"todo\">[Bitte ergänzen: ladungsfähige Anschrift]</mark></li><li>Registereintrag: <mark class=\"todo\">[Bitte ergänzen: Registergericht und Registernummer, falls vorhanden]</mark></li><li>Umsatzsteuer-ID: <mark class=\"todo\">[Bitte ergänzen: USt-IdNr. nach § 27a UStG, falls vorhanden]</mark></li></ul>"
+    },
+    {
+      "h2": "Kontakt",
+      "html": "<ul><li>E-Mail: <a href=\"mailto:hello@shmor.ai\">hello@shmor.ai</a></li><li>Telefon: <mark class=\"todo\">[Bitte ergänzen: Telefonnummer]</mark></li></ul>"
+    },
+    {
+      "h2": "Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV",
+      "html": "<p><mark class=\"todo\">[Bitte ergänzen: Name und Anschrift der verantwortlichen Person]</mark></p>"
+    },
+    {
+      "h2": "Hosting",
+      "html": "<p>Diese Website wird über GitHub Pages bereitgestellt: GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA.</p>"
+    },
+    {
+      "h2": "Unser Angebot und Partnerlinks",
+      "html": "<p>HandwerkerFinder ist ein kostenloser Informations- und Vermittlungsdienst. Wir beschäftigen keine Handwerker und werden nicht Vertragspartner von Aufträgen. Einige Links sind Affiliate-Links, für die wir eine Provision erhalten können. Mehr dazu unter <a href=\"/so-funktionierts/\">So funktioniert’s</a>.</p>"
+    },
+    {
+      "h2": "Haftung für Inhalte und Links",
+      "html": "<p>Wir erstellen unsere Inhalte mit Sorgfalt und verweisen auf Gesetze und offizielle Quellen. Sie dienen der allgemeinen Information und ersetzen keine Rechts-, Steuer- oder Fachberatung im Einzelfall. Für Inhalte externer Websites sind deren Betreiber verantwortlich; bei Bekanntwerden von Rechtsverletzungen entfernen wir entsprechende Links umgehend.</p>"
+    },
+    {
+      "h2": "Verbraucherstreitbeilegung",
+      "html": "<p>Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>"
+    },
+    {
+      "h2": "Bildnachweise",
+      "html": "<p>Fotos stammen von <a href=\"https://unsplash.com/\" rel=\"noopener\" target=\"_blank\">Unsplash</a> und werden unter der Unsplash-Lizenz genutzt; die Fotografen sind jeweils am Bild genannt.</p>"
+    }
+  ]
+}

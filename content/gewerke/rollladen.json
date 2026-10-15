@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/rollladen",
+  "nav": "Rollläden",
+  "title": "Rollläden und Markisen: Fachbetrieb finden | HandwerkerFinder",
+  "description": "Rollläden, Jalousien, Markisen oder elektrischer Antrieb: Finden Sie einen Rollladenbauer in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "rollladen",
+    "rolladen reparieren",
+    "rollladenbauer",
+    "markise",
+    "jalousien",
+    "rollladen elektrisch nachrüsten"
+  ],
+  "cardText": "Rollläden, Jalousien, Markisen, Terrassenüberdachungen, elektrische Antriebe",
+  "eyebrow": "Rollläden und Sonnenschutz",
+  "h1": "Rollladenbauer in Ihrer Nähe finden",
+  "intro": "Rollläden und Markisen schützen vor Hitze, Blicken und Einbruch. Ob Reparatur eines gerissenen Gurts, Nachrüstung eines Motors oder neue Markise: Vergleichen Sie Angebote von Fachbetrieben aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1496045737814-5ef82eb050fd",
+    "alt": "Geöffnetes Fenster mit braunen Holzläden",
+    "credit": "Jens Peter Olesen",
+    "creditUrl": "https://unsplash.com/@jenspeter"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Rollläden?",
+      "html": "<ul><li>Einbau und Austausch von Rollläden und Jalousien</li><li>Reparatur von Gurt, Panzer und Wickler</li><li>Nachrüstung elektrischer Antriebe und Zeitschaltungen</li><li>Einbau von Markisen und Terrassenüberdachungen</li><li>Raffstores und außen liegender Sonnenschutz</li><li>Einbau und Austausch von Garagentoren und elektrischen Torantrieben</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Der Rollladen klemmt, der Gurt ist gerissen oder Lamellen sind gebrochen</li><li>Räume heizen sich im Sommer stark auf</li><li>Sie möchten Rollläden bequem per Schalter oder App steuern</li><li>Die Terrasse soll Schatten oder ein Dach bekommen</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Rollladen- und Sonnenschutztechniker)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Welche Antriebe und Steuerungen bieten Sie an, und sind sie mit meinem Smart Home kompatibel?</li><li>Welche Windwiderstandsklasse hat die Markise, und gibt es einen Windwächter?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Anzahl und Größe der Fenster, Vorbau- oder Aufsatzrollladen</li><li>Material der Lamellen (Kunststoff, Aluminium)</li><li>Elektrischer Antrieb, Steuerung und Elektroanschluss</li><li>Größe und Ausstattung von Markisen und Überdachungen</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Außen liegender Sonnenschutz hält deutlich mehr Hitze ab als innen liegende Rollos.</li><li>Gurtwickler mit Motor lassen sich oft ohne großen Umbau nachrüsten.</li><li>Markisen bei Wind und Regen einfahren, ein Windwächter erledigt das automatisch.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Rollläden</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Rollladen- und Sonnenschutztechniker). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>Seit 2020 ist das Rollladen- und Sonnenschutztechniker-Handwerk wieder zulassungspflichtig. Markisen und Terrassenüberdachungen können je nach Größe und Landesbauordnung genehmigungspflichtig sein; in Eigentumswohnanlagen und bei Gestaltungssatzungen sind Farbe und Form oft geregelt.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kann man jeden Rollladen elektrisch nachrüsten?",
+      "a": "Die meisten Rollläden mit Gurt lassen sich mit einem Gurtwickler oder Rohrmotor nachrüsten. Für einen Rohrmotor wird ein Stromanschluss am Rollladenkasten benötigt."
+    },
+    {
+      "q": "Braucht eine Terrassenüberdachung eine Baugenehmigung?",
+      "a": "Das hängt von Größe und Bundesland ab. Fragen Sie beim Bauamt nach, bevor Sie bestellen."
+    },
+    {
+      "q": "Helfen Rollläden beim Einbruchschutz?",
+      "a": "Geschlossene, hochschiebegesicherte Rollläden erschweren den Einbruch. Den größten Schutz bieten einbruchhemmende Fenster und Türen."
+    }
+  ],
+  "related": [
+    "gewerke/fenster-tueren",
+    "gewerke/klimaanlage",
+    "gewerke/elektriker"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

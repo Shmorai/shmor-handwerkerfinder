@@ -1,0 +1,693 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke",
+  "nav": "Gewerke",
+  "navOrder": 1,
+  "title": "Alle Gewerke: den passenden Handwerker finden",
+  "description": "Sanitär, Elektrik, Dach, Maler, Heizung, Garten, Umzug und mehr: Finden Sie den passenden Handwerker für Ihren Auftrag und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "handwerker",
+    "gewerke",
+    "handwerker finden",
+    "handwerker in der nähe",
+    "handwerker angebote"
+  ],
+  "cardText": "Sanitär, Elektrik, Dach, Maler, Heizung, Garten, Umzug und mehr.",
+  "eyebrow": "Alle Gewerke",
+  "h1": "Welcher Handwerker für Ihren Auftrag?",
+  "intro": "31 Gewerke und 56 häufig gefragte Leistungen, geordnet wie bei den großen Handwerkerportalen. Wählen Sie Ihre Leistung: Sie erfahren, welche Fragen Sie stellen sollten, was den Preis beeinflusst und welche Vorschriften gelten.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1567361808960-dec9cb578182",
+    "alt": "Verschiedene Tischlerwerkzeuge auf einer braunen Holzfläche",
+    "credit": "Louis Hansel",
+    "creditUrl": "https://unsplash.com/@louishansel"
+  },
+  "blocks": [
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Sanitär, Bad und Abfluss",
+      "items": [
+        {
+          "title": "Armaturen anschließen und tauschen",
+          "text": "Wasserhahn, Mischbatterie, Thermostat",
+          "icon": "droplet",
+          "slug": "gewerke/sanitaer",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Bad- und Sanitärobjekte",
+          "text": "WC, Waschtisch, Dusche, Wanne",
+          "icon": "bath",
+          "slug": "gewerke/sanitaer",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Rohrleitungen und Wasseranschlüsse",
+          "text": "Installation und Reparatur",
+          "icon": "wrench",
+          "slug": "gewerke/sanitaer",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Badsanierung",
+          "text": "Komplett oder teilweise, barrierefrei",
+          "icon": "bath",
+          "slug": "gewerke/badsanierung",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Verstopfter Abfluss",
+          "text": "Rohrreinigung, Kamera, Rückstau",
+          "icon": "droplet",
+          "slug": "gewerke/rohrreinigung",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Wand- und Bodenfliesen",
+          "text": "Verlegen, Abdichtung, neue Fugen",
+          "icon": "layers",
+          "slug": "gewerke/fliesenleger",
+          "cta": "Ansehen"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Heizung, Klima und Energie",
+      "items": [
+        {
+          "title": "Warmwasser- und Heizanlagen",
+          "text": "Wartung, Reparatur, Austausch",
+          "icon": "flame",
+          "slug": "gewerke/heizung",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Heizkörper anschließen und tauschen",
+          "text": "Heizkörper, Thermostate, Abgleich",
+          "icon": "thermometer",
+          "slug": "gewerke/heizung",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Wärmepumpen",
+          "text": "Planung, Installation, Wartung",
+          "icon": "thermometer",
+          "slug": "gewerke/waermepumpe",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Klimaanlagen",
+          "text": "Split, Multisplit, Wartung",
+          "icon": "waves",
+          "slug": "gewerke/klimaanlage",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Lüftungsanlagen",
+          "text": "Wohnraumlüftung, Abluftanlagen",
+          "icon": "waves",
+          "slug": "gewerke/klimaanlage",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Energie- und Fördermittelberatung",
+          "text": "Sanierungsfahrplan, Energieausweis",
+          "icon": "gauge",
+          "slug": "gewerke/energieberater",
+          "cta": "Ansehen"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Elektrik und Solar",
+      "items": [
+        {
+          "title": "Steckdosen, Schalter, Verkabelung",
+          "text": "Verlegen und erweitern",
+          "icon": "zap",
+          "slug": "gewerke/elektriker",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Komplette Elektroanlagen",
+          "text": "Erneuerung, Sicherungskasten",
+          "icon": "zap",
+          "slug": "gewerke/elektriker",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Ladestationen für E-Autos",
+          "text": "Wallbox installieren und anmelden",
+          "icon": "car",
+          "slug": "gewerke/elektriker",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Lampen und Beleuchtung",
+          "text": "Innen- und Außenbeleuchtung",
+          "icon": "sun",
+          "slug": "gewerke/elektriker",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Solaranlagen",
+          "text": "Photovoltaik, Speicher, Solarthermie",
+          "icon": "sun",
+          "slug": "gewerke/solar",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Smart Home",
+          "text": "Heimautomatisierung, Netzwerk",
+          "icon": "wifi",
+          "slug": "gewerke/elektriker",
+          "cta": "Ansehen"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Dach, Fassade und Dämmung",
+      "items": [
+        {
+          "title": "Dächer decken und reparieren",
+          "text": "Ziegel, Schiefer, Flachdach",
+          "icon": "house",
+          "slug": "gewerke/dachdecker",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Dachdämmung",
+          "text": "Zwischen-, Auf-, Untersparren",
+          "icon": "house",
+          "slug": "gewerke/dachdecker",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Dachfenster",
+          "text": "Einbau und Austausch",
+          "icon": "window",
+          "slug": "gewerke/dachdecker",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Dachrinnen und Fallrohre",
+          "text": "Montage und Reinigung",
+          "icon": "droplet",
+          "slug": "gewerke/dachdecker",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Fassade dämmen und sanieren",
+          "text": "WDVS, Putz, Verkleidung",
+          "icon": "building",
+          "slug": "gewerke/fassade",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Schornsteine",
+          "text": "Bau, Sanierung, Reinigung",
+          "icon": "flame",
+          "slug": "gewerke/schornsteinfeger",
+          "cta": "Ansehen"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Innenausbau und Renovierung",
+      "items": [
+        {
+          "title": "Malerarbeiten innen",
+          "text": "Wände, Decken, Treppenhaus",
+          "icon": "roller",
+          "slug": "gewerke/maler",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Tapezieren",
+          "text": "Raufaser, Vlies, Muster",
+          "icon": "roller",
+          "slug": "gewerke/maler",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Trockenbauwände und Decken",
+          "text": "Trennwände, Dachausbau, Schallschutz",
+          "icon": "building",
+          "slug": "gewerke/trockenbau",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Parkett und Dielen",
+          "text": "Verlegen, Schleifen, Versiegeln",
+          "icon": "layers",
+          "slug": "gewerke/bodenleger",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Laminat, Vinyl, Teppich",
+          "text": "Verlegen und austauschen",
+          "icon": "layers",
+          "slug": "gewerke/bodenleger",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Innenausbau und Sanierung",
+          "text": "Wohnung oder Haus, alle Gewerke",
+          "icon": "hammer",
+          "slug": "gewerke/bauunternehmen",
+          "cta": "Ansehen"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Fenster, Türen und Sonnenschutz",
+      "items": [
+        {
+          "title": "Fenster einbauen und tauschen",
+          "text": "Kunststoff, Holz, Alu",
+          "icon": "window",
+          "slug": "gewerke/fenster-tueren",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Außen- und Haustüren",
+          "text": "Einbau, Reparatur, Sicherheit",
+          "icon": "key",
+          "slug": "gewerke/fenster-tueren",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Fliegengitter und Insektenschutz",
+          "text": "Maßanfertigung, Montage",
+          "icon": "window",
+          "slug": "gewerke/fenster-tueren",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Rollläden und Jalousien",
+          "text": "Einbau, Reparatur, Motor",
+          "icon": "window",
+          "slug": "gewerke/rollladen",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Markisen und Terrassendächer",
+          "text": "Sonnenschutz und Überdachung",
+          "icon": "sun",
+          "slug": "gewerke/rollladen",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Garagentore und Torantriebe",
+          "text": "Einbau und Austausch",
+          "icon": "car",
+          "slug": "gewerke/rollladen",
+          "cta": "Ansehen"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Bauen, Mauern und Möbel",
+      "items": [
+        {
+          "title": "Rohbau und Mauerarbeiten",
+          "text": "Neubau, Anbau, kleine Mauerarbeiten",
+          "icon": "hardhat",
+          "slug": "gewerke/maurer",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Wanddurchbrüche und Kernbohrungen",
+          "text": "mit Statik",
+          "icon": "hammer",
+          "slug": "gewerke/maurer",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Kellersanierung",
+          "text": "Trockenlegung, Abdichtung",
+          "icon": "building",
+          "slug": "gewerke/maurer",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Anbauten und Nebengebäude",
+          "text": "Planung und Ausführung",
+          "icon": "building",
+          "slug": "gewerke/bauunternehmen",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Möbel und Einbauschränke nach Maß",
+          "text": "Tischler und Schreiner",
+          "icon": "hammer",
+          "slug": "gewerke/tischler",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Küchen aufbauen und erweitern",
+          "text": "Montage, Arbeitsplatten",
+          "icon": "utensils",
+          "slug": "gewerke/kuechenbau",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Kaminöfen",
+          "text": "Aufbau und Anschluss",
+          "icon": "flame",
+          "slug": "gewerke/kaminofen",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Fertigmöbel und IKEA-Möbel",
+          "text": "Aufbau und Montage",
+          "icon": "wrench",
+          "slug": "gewerke/montageservice",
+          "cta": "Ansehen"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Garten und Außenbereich",
+      "items": [
+        {
+          "title": "Gartenpflege",
+          "text": "Rasen, Hecken, Beete",
+          "icon": "tree",
+          "slug": "gewerke/garten-landschaftsbau",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Gartengestaltung",
+          "text": "Planung und Anlage",
+          "icon": "tree",
+          "slug": "gewerke/garten-landschaftsbau",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Bäume pflegen und fällen",
+          "text": "Kronenschnitt, Fällung, Wurzeln",
+          "icon": "tree",
+          "slug": "gewerke/baumpflege",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Terrassen, Wege, Einfahrten",
+          "text": "Pflastern und Platten",
+          "icon": "shovel",
+          "slug": "gewerke/pflasterarbeiten",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Zäune und Tore",
+          "text": "Aufbau und Austausch",
+          "icon": "fence",
+          "slug": "gewerke/zaunbau",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Sicht- und Lärmschutz",
+          "text": "Montage",
+          "icon": "fence",
+          "slug": "gewerke/zaunbau",
+          "cta": "Ansehen"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "class": "svc",
+      "title": "Umzug, Reinigung und Entsorgung",
+      "items": [
+        {
+          "title": "Regionaler Umzug",
+          "text": "bis 50 km",
+          "icon": "truck",
+          "slug": "gewerke/umzug",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Bundesweiter und internationaler Umzug",
+          "text": "über 50 km und ins Ausland",
+          "icon": "truck",
+          "slug": "gewerke/umzug",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Entrümpelung und Haushaltsauflösung",
+          "text": "Keller, Dachboden, Wohnung",
+          "icon": "truck",
+          "slug": "gewerke/entruempelung",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Gebäude- und Unterhaltsreinigung",
+          "text": "Wohnung, Treppenhaus, Büro",
+          "icon": "sparkles",
+          "slug": "gewerke/gebaeudereinigung",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Fenster- und Glasreinigung",
+          "text": "auch Wintergärten",
+          "icon": "sparkles",
+          "slug": "gewerke/gebaeudereinigung",
+          "cta": "Ansehen"
+        },
+        {
+          "title": "Winterdienst",
+          "text": "Schneeräumung und Streuen",
+          "icon": "sparkles",
+          "slug": "gewerke/gebaeudereinigung",
+          "cta": "Ansehen"
+        }
+      ]
+    },
+    {
+      "type": "cards",
+      "class": "trades",
+      "title": "Alle Gewerke von A bis Z",
+      "intro": "Jede Seite erklärt Leistungen, Fragen, Preisfaktoren und Vorschriften.",
+      "items": [
+        {
+          "slug": "gewerke/badsanierung",
+          "title": "Badsanierung",
+          "text": "Komplettsanierung, bodengleiche Dusche, barrierefreies Bad",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/bauunternehmen",
+          "title": "Bauen und Renovieren",
+          "text": "Anbau, Umbau, Kernsanierung, Innenausbau und Rohbau",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/baumpflege",
+          "title": "Baumpflege",
+          "text": "Baumfällung, Kronenschnitt, Totholzentfernung, Wurzelfräsen",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/bodenleger",
+          "title": "Bodenleger",
+          "text": "Parkett, Dielen, Laminat, Vinyl, Teppich, Estrich, Schleifen und Versiegeln",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/dachdecker",
+          "title": "Dachdecker",
+          "text": "Dachreparatur, Neueindeckung, Dachdämmung, Dachfenster und Dachrinnen",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/elektriker",
+          "title": "Elektriker",
+          "text": "Steckdosen, Leitungen, Sicherungskasten, Wallbox und Smart Home",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/energieberater",
+          "title": "Energieberater",
+          "text": "Energieberatung, Sanierungsfahrplan (iSFP), Energieausweis, Förderanträge",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/entruempelung",
+          "title": "Entrümpelung",
+          "text": "Haushalts- und Wohnungsauflösung, Keller, Dachboden, Sperrmüll",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/fassade",
+          "title": "Fassade",
+          "text": "Fassadendämmung, Putz, Anstrich, Verkleidung, Reinigung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/fenster-tueren",
+          "title": "Fenster und Türen",
+          "text": "Fenster und Haustüren austauschen, Reparatur, Verglasung, Insektenschutz",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/fliesenleger",
+          "title": "Fliesenleger",
+          "text": "Wand- und Bodenfliesen, Naturstein, Abdichtung, Fugen erneuern",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/garten-landschaftsbau",
+          "title": "Garten- und Landschaftsbau",
+          "text": "Gartengestaltung, Gartenpflege, Rasen, Hecken, Teiche, Bewässerung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/heizung",
+          "title": "Heizung",
+          "text": "Wartung, Heizkörper, hydraulischer Abgleich, neue Heizung, Fußbodenheizung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/kaminofen",
+          "title": "Kaminofen",
+          "text": "Aufbau und Anschluss von Kamin-, Kachel- und Pelletöfen",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/klimaanlage",
+          "title": "Klimaanlage",
+          "text": "Split- und Multisplit-Klimageräte, Lüftungsanlagen, Wartung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/kuechenbau",
+          "title": "Küchenmontage",
+          "text": "Aufbau von Einbau- und Fertigküchen, Arbeitsplatten, Geräteanschluss",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/maler",
+          "title": "Maler",
+          "text": "Wände und Decken streichen, Tapezieren, Lackieren, Dekorputz",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/maurer",
+          "title": "Maurer",
+          "text": "Mauerarbeiten, Wanddurchbrüche, Fundamente, Bodenplatten, Kellersanierung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/montageservice",
+          "title": "Montageservice",
+          "text": "Möbelaufbau, Regale, Lampen, Vorhänge, kleine Reparaturen im Haushalt",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/pflasterarbeiten",
+          "title": "Pflasterarbeiten",
+          "text": "Einfahrten, Terrassen, Gartenwege, Erdarbeiten und Entwässerung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/gebaeudereinigung",
+          "title": "Reinigung",
+          "text": "Unterhaltsreinigung, Fenster, Grundreinigung, Hausmeisterservice, Winterdienst",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/rohrreinigung",
+          "title": "Rohrreinigung",
+          "text": "Verstopfte Abflüsse, Kanalreinigung, Kamerainspektion, Rückstau",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/rollladen",
+          "title": "Rollläden",
+          "text": "Rollläden, Jalousien, Markisen, Terrassenüberdachungen, elektrische Antriebe",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/sanitaer",
+          "title": "Sanitär",
+          "text": "Armaturen, WC, Waschtische, Wasserleitungen und Rohrbruch",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/schornsteinfeger",
+          "title": "Schornsteinfeger",
+          "text": "Kehren, Messen, Feuerstättenschau, Schornsteinbau und -sanierung",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/solar",
+          "title": "Solaranlage",
+          "text": "Photovoltaik, Stromspeicher, Solarthermie, Balkonkraftwerke",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/tischler",
+          "title": "Tischler",
+          "text": "Möbel und Einbauschränke nach Maß, Treppen, Türen, Reparaturen",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/trockenbau",
+          "title": "Trockenbau",
+          "text": "Trennwände, abgehängte Decken, Dachausbau, Schall- und Brandschutz",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/umzug",
+          "title": "Umzug",
+          "text": "Regionaler und bundesweiter Umzug, Transporte, Ab- und Aufbau",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/waermepumpe",
+          "title": "Wärmepumpe",
+          "text": "Planung, Heizlastberechnung, Installation und Wartung von Wärmepumpen",
+          "cta": "Mehr erfahren"
+        },
+        {
+          "slug": "gewerke/zaunbau",
+          "title": "Zaunbau",
+          "text": "Gartenzäune, Doppelstabmatten, Sicht- und Lärmschutz, Tore, Geländer",
+          "cta": "Mehr erfahren"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Was ist ein zulassungspflichtiges Handwerk?",
+      "a": "Für Handwerke in Anlage A der Handwerksordnung, etwa Dachdecker, Elektrotechniker oder Installateur und Heizungsbauer, muss ein Betrieb in die Handwerksrolle eingetragen sein. Auf jeder Gewerkeseite steht, ob das zutrifft."
+    },
+    {
+      "q": "Welcher Handwerker ist für mich zuständig?",
+      "a": "Wählen Sie oben die Leistung, die Ihrem Auftrag am nächsten kommt. Für Projekte mit mehreren Gewerken wie eine Badsanierung gibt es Betriebe, die alles koordinieren."
+    }
+  ],
+  "related": [
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/angebot-verstehen",
+    "regionen"
+  ],
+  "relatedTitle": "Gut zu wissen",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

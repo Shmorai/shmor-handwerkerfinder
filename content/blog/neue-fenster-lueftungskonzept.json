@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog/neue-fenster-lueftungskonzept",
+  "type": "post",
+  "date": "2026-10-15",
+  "title": "Neue Fenster: Warum ein Lüftungskonzept wichtig ist",
+  "description": "Dichte neue Fenster sparen Energie, verändern aber das Raumklima. Was ein Lüftungskonzept nach DIN 1946-6 ist und wann es empfohlen wird.",
+  "keywords": [
+    "lüftungskonzept",
+    "din 1946-6",
+    "neue fenster schimmel",
+    "fenster austauschen lüften"
+  ],
+  "cardText": "Dichte Fenster, Raumklima und DIN 1946-6",
+  "eyebrow": "Blog",
+  "h1": "Neue Fenster und das Lüftungskonzept",
+  "intro": "Alte Fenster sind oft undicht, das sorgt nebenbei für Luftaustausch. Nach dem Tausch fällt dieser Effekt weg. Ohne angepasstes Lüften steigt das Schimmelrisiko.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1751486403820-7cf45ebec080",
+    "alt": "Offenes Fenster, draußen laufen Bauarbeiten",
+    "credit": "Fabian Kleiser",
+    "creditUrl": "https://unsplash.com/@fabiankleiser"
+  },
+  "sections": [
+    {
+      "h2": "Was ein Lüftungskonzept ist",
+      "html": "<p>Ein Lüftungskonzept nach <strong>DIN 1946-6</strong> prüft, ob der notwendige Luftaustausch zum Feuchteschutz ohne Zutun der Bewohner gewährleistet ist. Falls nicht, werden Maßnahmen empfohlen, etwa Fensterfalzlüfter, Außenwandluftdurchlässe oder eine Lüftungsanlage.</p>"
+    },
+    {
+      "h2": "Wann es empfohlen wird",
+      "html": "<p>Die Norm sieht ein Lüftungskonzept vor, wenn in einem Gebäude ein wesentlicher Teil der Fenster ausgetauscht oder ein großer Teil der Dachfläche abgedichtet wird. Seriöse Fensterbauer sprechen das Thema von sich aus an. Fragen Sie im Angebot nach.</p>"
+    },
+    {
+      "h2": "Im Alltag",
+      "html": "<p>Mehrmals täglich stoßlüften, Feuchtequellen begrenzen und die Luftfeuchte im Blick behalten. Mehr dazu in unserem Beitrag <a href=\"/blog/schimmel-vermeiden/\">Schimmel vermeiden</a> und auf der Seite <a href=\"/gewerke/fenster-tueren/\">Fenster und Türen</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Gebäudeenergiegesetz (GEG)",
+      "url": "https://www.gesetze-im-internet.de/geg/"
+    },
+    {
+      "title": "Umweltbundesamt",
+      "url": "https://www.umweltbundesamt.de/"
+    }
+  ],
+  "related": [
+    "gewerke/fenster-tueren",
+    "gewerke/klimaanlage",
+    "blog/schimmel-vermeiden"
+  ],
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

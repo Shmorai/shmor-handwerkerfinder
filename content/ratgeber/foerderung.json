@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "slug": "ratgeber/foerderung",
+  "nav": "Förderung",
+  "title": "Förderung für Sanierung und Heizung: der Überblick",
+  "description": "BAFA-Zuschüsse, KfW-Programme, Steuerbonus und Energieberatung: Welche Förderwege es für Sanierung und Heizung gibt und was vor dem Auftrag zu tun ist.",
+  "keywords": [
+    "förderung sanierung",
+    "bafa förderung",
+    "kfw förderung heizung",
+    "beg förderung",
+    "energetische sanierung steuer"
+  ],
+  "cardText": "BAFA, KfW, § 35c EStG und Energieberatung",
+  "eyebrow": "Ratgeber",
+  "h1": "Förderung für Sanierung und Heizung",
+  "intro": "Für energetische Sanierungen gibt es Zuschüsse, Kredite und Steuervorteile. Die Programme ändern sich häufig, die Grundregeln bleiben: erst beraten lassen, dann beantragen, dann beauftragen.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1560520653-9e0e4c89eb11",
+    "alt": "Kleines Holzhaus neben einer Lupe",
+    "credit": "Tierra Mallorca",
+    "creditUrl": "https://unsplash.com/@tierramallorca"
+  },
+  "sections": [
+    {
+      "h2": "Bundesförderung für effiziente Gebäude (BEG)",
+      "html": "<ul><li><strong>Einzelmaßnahmen an der Gebäudehülle</strong> (Dämmung, Fenster, Türen) und Anlagentechnik: Zuschüsse über das <a href=\"https://www.bafa.de/\" rel=\"noopener\" target=\"_blank\">BAFA</a></li><li><strong>Heizungstausch</strong>: Zuschuss über die <a href=\"https://www.kfw.de/\" rel=\"noopener\" target=\"_blank\">KfW</a></li><li><strong>Komplettsanierung zum Effizienzhaus</strong>: Kredite mit Tilgungszuschuss über die KfW</li></ul><p>Fördersätze, Boni und Bedingungen werden regelmäßig angepasst. Wir nennen deshalb bewusst keine Beträge; den aktuellen Stand finden Sie bei BAFA, KfW und auf <a href=\"https://www.energiewechsel.de/\" rel=\"noopener\" target=\"_blank\">energiewechsel.de</a>.</p>"
+    },
+    {
+      "h2": "Steuerbonus für energetische Sanierung",
+      "html": "<p>Statt eines Zuschusses können Selbstnutzer von Wohneigentum energetische Maßnahmen nach <strong>§ 35c EStG</strong> steuerlich geltend machen: 20 % der Kosten, verteilt auf drei Jahre, höchstens 40.000 € je Objekt. Voraussetzung ist unter anderem eine Bescheinigung des Fachbetriebs nach amtlichem Muster. Für dieselbe Maßnahme können Sie nicht zusätzlich einen Zuschuss oder den <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">Handwerkerbonus nach § 35a</a> nutzen.</p>"
+    },
+    {
+      "h2": "Energieberatung zuerst",
+      "html": "<p>Viele Programme verlangen einen Experten aus der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Ein <a href=\"/gewerke/energieberater/\">Energieberater</a> erstellt auf Wunsch einen individuellen Sanierungsfahrplan, der zusätzliche Förderung bringen kann. Eine erste, günstige Orientierung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Energieberatung der Verbraucherzentrale</a>.</p>"
+    },
+    {
+      "h2": "Die wichtigste Regel",
+      "html": "<p><strong>Antrag vor Auftrag:</strong> Bei den meisten Zuschussprogrammen muss der Antrag gestellt bzw. bewilligt sein, bevor Sie den Handwerker verbindlich beauftragen. Oft sind Verträge mit aufschiebender Bedingung (Förderzusage) möglich. Prüfen Sie außerdem Programme Ihres Bundeslandes und Ihrer Kommune.</p>"
+    },
+    {
+      "h2": "Quellen und offizielle Links",
+      "html": "<ul><li><a href=\"https://www.bafa.de/\" rel=\"noopener\" target=\"_blank\">BAFA: Bundesförderung für effiziente Gebäude</a></li><li><a href=\"https://www.kfw.de/\" rel=\"noopener\" target=\"_blank\">KfW: Bestandsimmobilien</a></li><li><a href=\"https://www.gesetze-im-internet.de/estg/__35c.html\" rel=\"noopener\" target=\"_blank\">§ 35c EStG</a></li><li><a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a></li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kann ich Förderung und Steuerbonus kombinieren?",
+      "a": "Für dieselbe Maßnahme nicht. Sie können aber für verschiedene Maßnahmen unterschiedliche Wege wählen. Lassen Sie sich beraten, was in Ihrem Fall günstiger ist."
+    },
+    {
+      "q": "Gibt es Förderung für Mieter?",
+      "a": "Programme richten sich meist an Eigentümer. Mieter profitieren vor allem vom Handwerkerbonus nach § 35a EStG, etwa über die Nebenkostenabrechnung."
+    }
+  ],
+  "related": [
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/angebot-verstehen",
+    "ratgeber/kostenvoranschlag-festpreis"
+  ],
+  "relatedTitle": "Weitere Ratgeber",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

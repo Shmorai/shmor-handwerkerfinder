@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/hessen",
+  "nav": "Hessen",
+  "title": "Handwerker in Hessen: Angebote vergleichen",
+  "description": "Handwerker in Hessen finden (Frankfurt am Main, Wiesbaden und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker hessen",
+    "handwerker frankfurt am main",
+    "handwerker wiesbaden",
+    "handwerker kassel",
+    "handwerker darmstadt",
+    "elektriker frankfurt am main",
+    "elektriker wiesbaden"
+  ],
+  "cardText": "Frankfurt am Main, Wiesbaden, Kassel, Darmstadt … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Hessen finden",
+  "intro": "Ob Sanitär in Frankfurt am Main, Dachdecker in Wiesbaden oder Maler in Kassel: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Hessen.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1626447637943-4c9d412fa8cf",
+    "alt": "Skyline einer Stadt unter weißen Wolken",
+    "credit": "Matthias Münning",
+    "creditUrl": "https://unsplash.com/@muenningmedia"
+  },
+  "chips": [
+    {
+      "label": "Tischler",
+      "slug": "gewerke/tischler"
+    },
+    {
+      "label": "Maler",
+      "slug": "gewerke/maler"
+    },
+    {
+      "label": "Badsanierung",
+      "slug": "gewerke/badsanierung"
+    },
+    {
+      "label": "Energieberater",
+      "slug": "gewerke/energieberater"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Hessen vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern in Hessen",
+      "html": "<p>Landeshauptstadt ist Wiesbaden. Größere Städte sind unter anderem Frankfurt am Main, Wiesbaden, Kassel, Darmstadt, Offenbach am Main, Hanau, Gießen, Marburg, Fulda. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Hessen ist die Handwerkskammern Frankfurt-Rhein-Main, Kassel und Wiesbaden zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Hessen",
+      "html": "<ul><li>Hessen ist reich an Fachwerk: In Städten wie Marburg, Limburg oder Fritzlar und in vielen Dörfern sind Fachleute für Lehm, Holz und Kalkputz gefragt.</li><li>Im Rhein-Main-Gebiet dominieren Mehrfamilienhäuser und Wohnungen; Badsanierung, Malerarbeiten und Umzüge sind häufige Aufträge.</li><li>Schiefer- und Basaltbauten finden sich im Taunus und Vogelsberg.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>Hochwasser drohen an Rhein, Main, Lahn und Fulda. Der Oberrheingraben im Süden ist leicht erdbebengefährdet. Bei Fachwerkhäusern sind falsche Dämmung und dichte Anstriche eine häufige Ursache für Feuchteschäden.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Hessische Bauordnung (HBO)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Grenzabstände für Hecken, Bäume und Zäune sowie Fragen wie überstehende Dämmung regelt das <strong>Hessisches Nachbarrechtsgesetz (NachbG HE)</strong>. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Hessen an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie dämme ich ein Fachwerkhaus richtig?",
+      "a": "Fachwerk braucht diffusionsoffene, kapillaraktive Materialien wie Holzfaser, Lehm oder Kalk. Lassen Sie sich von einem Energieberater mit Fachwerkerfahrung beraten; bei Denkmalschutz ist die Denkmalbehörde einzubeziehen."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Hessen?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/tischler",
+    "gewerke/maler",
+    "gewerke/badsanierung",
+    "regionen/rheinland-pfalz",
+    "regionen/nordrhein-westfalen",
+    "regionen/thueringen"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Hessen"
+}

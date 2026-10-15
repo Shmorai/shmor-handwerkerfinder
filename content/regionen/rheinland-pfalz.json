@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/rheinland-pfalz",
+  "nav": "Rheinland-Pfalz",
+  "title": "Handwerker in Rheinland-Pfalz: Angebote vergleichen",
+  "description": "Handwerker in Rheinland-Pfalz finden (Mainz, Ludwigshafen am Rhein und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker rheinland-pfalz",
+    "handwerker mainz",
+    "handwerker ludwigshafen am rhein",
+    "handwerker koblenz",
+    "handwerker trier",
+    "elektriker mainz",
+    "elektriker ludwigshafen am rhein"
+  ],
+  "cardText": "Mainz, Ludwigshafen am Rhein, Koblenz, Trier … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Rheinland-Pfalz finden",
+  "intro": "Ob Sanitär in Mainz, Dachdecker in Ludwigshafen am Rhein oder Maler in Koblenz: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Rheinland-Pfalz.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1662486717047-ea680aa453e6",
+    "alt": "Fluss, der durch ein bewaldetes Tal fließt",
+    "credit": "Johnny Africa",
+    "creditUrl": "https://unsplash.com/@johnnyafrica"
+  },
+  "chips": [
+    {
+      "label": "Dachdecker",
+      "slug": "gewerke/dachdecker"
+    },
+    {
+      "label": "Maurer",
+      "slug": "gewerke/maurer"
+    },
+    {
+      "label": "Fassade",
+      "slug": "gewerke/fassade"
+    },
+    {
+      "label": "Rohrreinigung",
+      "slug": "gewerke/rohrreinigung"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Rheinland-Pfalz vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern in Rheinland-Pfalz",
+      "html": "<p>Landeshauptstadt ist Mainz. Größere Städte sind unter anderem Mainz, Ludwigshafen am Rhein, Koblenz, Trier, Kaiserslautern, Worms, Neuwied, Neustadt an der Weinstraße, Landau in der Pfalz. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Rheinland-Pfalz ist die Handwerkskammern Koblenz, Pfalz, Rheinhessen und Trier zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Rheinland-Pfalz",
+      "html": "<ul><li>Schiefer aus Mosel, Hunsrück und Eifel prägt Dächer und Fassaden; Schieferdecker sind hier besonders gefragt.</li><li>In Weinbauregionen wie der Pfalz und Rheinhessen stehen viele Winzerhöfe aus Sandstein und Bruchstein.</li><li>Historische Ortskerne an Rhein und Mosel, teils UNESCO-Welterbe, unterliegen oft dem Denkmalschutz.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>Die Flutkatastrophe im Ahrtal 2021 hat die Gefahr durch Starkregen und Hochwasser in engen Tälern gezeigt. Auch Rhein und Mosel führen regelmäßig Hochwasser. In Teilen der Eifel gibt es erhöhte Radonwerte.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Landesbauordnung Rheinland-Pfalz (LBauO)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Grenzabstände für Hecken, Bäume und Zäune sowie Fragen wie überstehende Dämmung regelt das <strong>Nachbarrechtsgesetz für Rheinland-Pfalz (LNRG)</strong>. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Rheinland-Pfalz an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie schütze ich mein Haus vor Hochwasser?",
+      "a": "Prüfen Sie die Hochwassergefahrenkarten des Landes, lassen Sie eine Rückstausicherung einbauen, lagern Sie Heizöl und Wertsachen nicht im Keller und prüfen Sie, ob Ihre Wohngebäudeversicherung Elementarschäden abdeckt."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Rheinland-Pfalz?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/dachdecker",
+    "gewerke/maurer",
+    "gewerke/fassade",
+    "regionen/saarland",
+    "regionen/hessen",
+    "regionen/nordrhein-westfalen"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Rheinland-Pfalz"
+}

@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/saarland",
+  "nav": "Saarland",
+  "title": "Handwerker im Saarland: Angebote vergleichen",
+  "description": "Handwerker im Saarland finden (Saarbrücken, Neunkirchen und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker saarland",
+    "handwerker saarbrücken",
+    "handwerker neunkirchen",
+    "handwerker homburg",
+    "handwerker völklingen",
+    "elektriker saarbrücken",
+    "elektriker neunkirchen"
+  ],
+  "cardText": "Saarbrücken, Neunkirchen, Homburg, Völklingen … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker im Saarland finden",
+  "intro": "Ob Sanitär in Saarbrücken, Dachdecker in Neunkirchen oder Maler in Homburg: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben im Saarland.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1622069319018-90b19ee40cd5",
+    "alt": "Luftaufnahme von Wald und einer Flussschleife",
+    "credit": "Benjamin van Keulen",
+    "creditUrl": "https://unsplash.com/@benjaminvankeulen_"
+  },
+  "chips": [
+    {
+      "label": "Maurer",
+      "slug": "gewerke/maurer"
+    },
+    {
+      "label": "Dachdecker",
+      "slug": "gewerke/dachdecker"
+    },
+    {
+      "label": "Heizung",
+      "slug": "gewerke/heizung"
+    },
+    {
+      "label": "Fenster und Türen",
+      "slug": "gewerke/fenster-tueren"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern im Saarland vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern im Saarland",
+      "html": "<p>Landeshauptstadt ist Saarbrücken. Größere Städte sind unter anderem Saarbrücken, Neunkirchen, Homburg, Völklingen, Saarlouis, St. Ingbert, Merzig. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk im Saarland ist die Handwerkskammer des Saarlandes zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge im Saarland",
+      "html": "<ul><li>Typisch sind Bergmannshäuser und Siedlungen aus der Zeit von Kohle und Stahl, oft mit Anbauten über Generationen.</li><li>Das Saarland hat traditionell eine hohe Eigentumsquote: Viele Aufträge betreffen das eigene Haus, von Dach bis Heizung.</li><li>Sandsteinbauten finden sich im Saartal und in den Dörfern.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>In Bergbauregionen können Bergschäden und Senkungen auftreten, der Steinkohlenbergbau endete 2012. Hochwasser betrifft vor allem Saar, Blies und Nebenflüsse.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Landesbauordnung des Saarlandes (LBO)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Grenzabstände für Hecken, Bäume und Zäune sowie Fragen wie überstehende Dämmung regelt das <strong>Saarländisches Nachbarrechtsgesetz (NachbG Saar)</strong>. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch im Saarland an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Woran erkenne ich Bergschäden?",
+      "a": "Typisch sind Risse in Wänden und Fliesen, klemmende Türen und Fenster oder Schieflagen. Lassen Sie Schäden durch einen Sachverständigen bewerten, bevor Sie reparieren lassen."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker im Saarland?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/maurer",
+    "gewerke/dachdecker",
+    "gewerke/heizung",
+    "regionen/rheinland-pfalz",
+    "regionen/baden-wuerttemberg",
+    "regionen/hessen"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag im Saarland"
+}

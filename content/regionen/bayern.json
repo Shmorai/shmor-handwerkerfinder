@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/bayern",
+  "nav": "Bayern",
+  "title": "Handwerker in Bayern: Angebote vergleichen",
+  "description": "Handwerker in Bayern finden (München, Nürnberg und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker bayern",
+    "handwerker münchen",
+    "handwerker nürnberg",
+    "handwerker augsburg",
+    "handwerker regensburg",
+    "elektriker münchen",
+    "elektriker nürnberg"
+  ],
+  "cardText": "München, Nürnberg, Augsburg, Regensburg … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Bayern finden",
+  "intro": "Ob Sanitär in München, Dachdecker in Nürnberg oder Maler in Augsburg: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Bayern.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1565089849244-55f033575bb6",
+    "alt": "Häuser und Bäume in einem Dorf an einem sonnigen Tag",
+    "credit": "Nils Schirmer",
+    "creditUrl": "https://unsplash.com/@nilsschirmer"
+  },
+  "chips": [
+    {
+      "label": "Dachdecker",
+      "slug": "gewerke/dachdecker"
+    },
+    {
+      "label": "Tischler",
+      "slug": "gewerke/tischler"
+    },
+    {
+      "label": "Heizung",
+      "slug": "gewerke/heizung"
+    },
+    {
+      "label": "Wärmepumpe",
+      "slug": "gewerke/waermepumpe"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Bayern vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern in Bayern",
+      "html": "<p>Landeshauptstadt ist München. Größere Städte sind unter anderem München, Nürnberg, Augsburg, Regensburg, Ingolstadt, Würzburg, Fürth, Erlangen, Rosenheim. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Bayern ist die Handwerkskammern München und Oberbayern, Niederbayern-Oberpfalz, Schwaben, Mittelfranken, Oberfranken und Unterfranken zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Bayern",
+      "html": "<ul><li>Im Alpenvorland und in den Alpen sind Holzbalkone, flache Satteldächer und große Dachüberstände typisch; Holzpflege ist hier ein Dauerthema.</li><li>Schneelasten sind in höheren Lagen deutlich größer: Dach, Solaranlagen und Schneefanggitter müssen dafür ausgelegt sein.</li><li>Fränkische Fachwerk- und Sandsteinhäuser im Norden sowie Jugendstil- und Gründerzeitbauten in den Städten verlangen behutsame Sanierung.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>Im Bayerischen Wald, im Fichtelgebirge und in Teilen der Oberpfalz gibt es Gebiete mit erhöhter Radonkonzentration. Hochwasser drohen an Donau, Inn und Isar, wie 2013 und 2024 in Teilen Bayerns. In den Alpen kommen Lawinen- und Murgefahren hinzu.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Bayerische Bauordnung (BayBO)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Grenzabstände für Hecken, Bäume und Zäune sowie Fragen wie überstehende Dämmung regelt das <strong>Nachbarrecht im Ausführungsgesetz zum BGB (AGBGB, Art. 43 ff.)</strong>. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Bayern an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Muss ich in Bayern beim Bauen besonders auf Schnee achten?",
+      "a": "Ja. Die Schneelastzonen nach DIN EN 1991-1-3 sind in den Alpen und im Bayerischen Wald hoch. Dachkonstruktion, PV-Montagesysteme und Schneefanggitter müssen dafür bemessen sein."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Bayern?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/dachdecker",
+    "gewerke/tischler",
+    "gewerke/heizung",
+    "regionen/baden-wuerttemberg",
+    "regionen/hessen",
+    "regionen/thueringen"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Bayern"
+}

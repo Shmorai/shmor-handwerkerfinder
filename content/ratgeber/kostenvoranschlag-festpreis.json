@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-15",
+  "slug": "ratgeber/kostenvoranschlag-festpreis",
+  "nav": "Kostenvoranschlag",
+  "title": "Kostenvoranschlag oder Festpreis: Was gilt rechtlich?",
+  "description": "Kostenvoranschlag, Pauschalpreis oder Stundenlohn: Was gilt, wenn die Rechnung höher ausfällt als erwartet? Ihre Rechte nach BGB verständlich erklärt.",
+  "keywords": [
+    "kostenvoranschlag",
+    "festpreis handwerker",
+    "kostenvoranschlag überschritten",
+    "pauschalpreis",
+    "stundenlohn handwerker"
+  ],
+  "cardText": "Unverbindlich, verbindlich, pauschal: was Sie wissen sollten",
+  "eyebrow": "Ratgeber",
+  "h1": "Kostenvoranschlag oder Festpreis?",
+  "intro": "Die Rechnung ist höher als erwartet: Ob das zulässig ist, hängt davon ab, was vereinbart wurde. Die wichtigsten Varianten im Überblick.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1709880945165-d2208c6ad2ec",
+    "alt": "Taschenrechner neben einem Laptop auf einem Tisch",
+    "credit": "Jakub Żerdzicki",
+    "creditUrl": "https://unsplash.com/@jakubzerdzicki"
+  },
+  "sections": [
+    {
+      "h2": "Der Kostenvoranschlag",
+      "html": "<p>Ein Kostenvoranschlag ist eine fachmännische Schätzung der voraussichtlichen Kosten. Er ist in der Regel <strong>unverbindlich</strong>: Der Endpreis darf abweichen. Stellt sich heraus, dass er <strong>wesentlich</strong> überschritten wird, muss der Handwerker Sie unverzüglich informieren (§ 649 BGB). Sie können den Vertrag dann kündigen und zahlen nur die bis dahin erbrachte Leistung. Wann eine Überschreitung „wesentlich“ ist, hängt vom Einzelfall ab; Gerichte haben häufig Werte um 15 bis 20 % angenommen.</p>"
+    },
+    {
+      "h2": "Verbindlicher Kostenvoranschlag und Festpreis",
+      "html": "<p>Wurde ein <strong>Festpreis</strong> oder ein ausdrücklich verbindlicher Kostenvoranschlag vereinbart, zahlen Sie den vereinbarten Betrag, auch wenn der Aufwand größer war. Ausnahme: Sie bestellen zusätzliche Leistungen oder ändern den Auftrag. Halten Sie Änderungen deshalb immer schriftlich fest, mit Preis.</p>"
+    },
+    {
+      "h2": "Pauschalpreis und Einheitspreise",
+      "html": "<p>Beim <strong>Pauschalpreis</strong> ist die Leistung zu einem Gesamtpreis vereinbart. Beim <strong>Einheitspreisvertrag</strong> zahlen Sie nach tatsächlichen Mengen (z. B. Quadratmeter Fliesen); das Aufmaß am Ende entscheidet. Fragen Sie bei Einheitspreisen, wie die Mengen ermittelt werden.</p>"
+    },
+    {
+      "h2": "Stundenlohnarbeiten",
+      "html": "<p>Bei Abrechnung nach Aufwand sollten Stundensatz, Materialaufschläge und Anfahrt vorher vereinbart sein. Lassen Sie sich Stundenzettel geben und abzeichnen. Für größere Aufträge ist ein Angebot mit Positionen meist die bessere Grundlage.</p>"
+    },
+    {
+      "h2": "Quellen und offizielle Links",
+      "html": "<ul><li><a href=\"https://www.gesetze-im-internet.de/bgb/__649.html\" rel=\"noopener\" target=\"_blank\">§ 649 BGB (Kostenanschlag)</a></li><li><a href=\"https://www.gesetze-im-internet.de/bgb/__632.html\" rel=\"noopener\" target=\"_blank\">§ 632 BGB (Vergütung)</a></li><li><a href=\"https://www.verbraucherzentrale.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a></li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Muss ich einen Kostenvoranschlag bezahlen?",
+      "a": "Nur wenn das vorher vereinbart wurde. Ohne Vereinbarung ist er im Zweifel kostenlos (§ 632 Abs. 3 BGB)."
+    },
+    {
+      "q": "Was tun, wenn die Rechnung viel höher ist als der Kostenvoranschlag?",
+      "a": "Prüfen Sie, ob Sie rechtzeitig über die Überschreitung informiert wurden. Wenn nicht, kann der Handwerker unter Umständen schadensersatzpflichtig sein. Die Verbraucherzentrale berät im Einzelfall."
+    }
+  ],
+  "related": [
+    "ratgeber/handwerker-pruefen",
+    "ratgeber/angebot-verstehen",
+    "ratgeber/gewaehrleistung"
+  ],
+  "relatedTitle": "Weitere Ratgeber",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

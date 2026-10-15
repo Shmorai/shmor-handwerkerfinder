@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/gebaeudereinigung",
+  "nav": "Reinigung",
+  "title": "Reinigungsfirma finden: Haus, Büro, Fenster | HandwerkerFinder",
+  "description": "Unterhaltsreinigung, Fensterputzer, Grundreinigung, Hausmeisterservice oder Winterdienst: Finden Sie eine Reinigungsfirma und vergleichen Sie Angebote.",
+  "keywords": [
+    "reinigungsfirma",
+    "gebäudereinigung",
+    "fensterputzer",
+    "putzfrau",
+    "grundreinigung",
+    "hausmeisterservice",
+    "winterdienst"
+  ],
+  "cardText": "Unterhaltsreinigung, Fenster, Grundreinigung, Hausmeisterservice, Winterdienst",
+  "eyebrow": "Reinigung und Hausmeisterservice",
+  "h1": "Reinigungsfirma in Ihrer Nähe finden",
+  "intro": "Regelmäßige Unterhaltsreinigung, glänzende Fenster oder die Endreinigung nach dem Auszug: Professionelle Reinigungskräfte sparen Zeit. Vergleichen Sie Angebote von Reinigungsfirmen und Hausmeisterdiensten aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1627905646269-7f034dcc5738",
+    "alt": "Hände in blauen Handschuhen reinigen einen Schreibtisch mit Sprühflasche und Tuch",
+    "credit": "Towfiqu barbhuiya",
+    "creditUrl": "https://unsplash.com/@towfiqu999999"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Reinigung?",
+      "html": "<ul><li>Gebäude- und Unterhaltsreinigung für Wohnungen, Treppenhäuser und Büros</li><li>Reinigung von Fenstern und Glasflächen, Wintergärten</li><li>Grund- und Endreinigung nach Umzug oder Renovierung</li><li>Reinigung von Fassaden, Dächern und Dachrinnen</li><li>Hausmeisterservice und Gartenpflege</li><li>Winterdienst und Schneeräumung</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Ihnen fehlt die Zeit für die regelmäßige Reinigung</li><li>Die Wohnung soll beim Auszug sauber übergeben werden</li><li>Fenster in großer Höhe oder Wintergärten müssen geputzt werden</li><li>Als Eigentümer müssen Sie Gehwege räumen und streuen</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Sind die Reinigungskräfte angestellt und versichert?</li><li>Bringen Sie Reinigungsmittel und Geräte selbst mit?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Fläche, Verschmutzungsgrad und Häufigkeit</li><li>Art der Reinigung (Unterhalts-, Grund-, Fensterreinigung)</li><li>Höhe der Fenster und Zugänglichkeit</li><li>Vertragslaufzeit, Bereitschaft beim Winterdienst</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Für eine Haushaltshilfe im Minijob melden Sie diese über das Haushaltsscheckverfahren der Minijob-Zentrale an.</li><li>Fenster putzt man am besten bei bewölktem Wetter, sonst trocknet das Wasser zu schnell und hinterlässt Streifen.</li><li>Vereinbaren Sie bei regelmäßiger Reinigung eine Checkliste, was jedes Mal erledigt wird.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Gebäudereiniger ist ein zulassungsfreies Handwerk (Anlage B der Handwerksordnung); Betriebe brauchen keinen Meistertitel, müssen aber angemeldet sein. Wer eine Reinigungskraft schwarz beschäftigt, riskiert Bußgelder und hat keinen Versicherungsschutz bei Unfällen. Die Räum- und Streupflicht für Gehwege legen die Gemeinden in ihrer Satzung fest; sie kann per Mietvertrag auf Mieter übertragen werden.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ist eine Reinigungskraft steuerlich absetzbar?",
+      "a": "Ja. Haushaltsnahe Dienstleistungen wie Reinigung und Fensterputzen werden nach § 35a EStG mit 20 % der Arbeitskosten gefördert, höchstens 4.000 € Steuerermäßigung im Jahr. Bezahlen Sie per Überweisung."
+    },
+    {
+      "q": "Minijob oder Reinigungsfirma?",
+      "a": "Eine Haushaltshilfe im Minijob ist günstig, Sie sind dann aber Arbeitgeber. Eine Firma stellt Vertretung, Versicherung und Material, ist dafür meist teurer."
+    },
+    {
+      "q": "Wer muss im Winter den Gehweg räumen?",
+      "a": "Das regelt die Satzung Ihrer Gemeinde; meist sind es die Anlieger. Ein Winterdienst kann die Arbeit übernehmen, die Verantwortung für die Kontrolle bleibt bei Ihnen."
+    }
+  ],
+  "related": [
+    "gewerke/entruempelung",
+    "gewerke/umzug",
+    "gewerke/garten-landschaftsbau"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

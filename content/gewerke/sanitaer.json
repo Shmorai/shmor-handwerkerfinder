@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/sanitaer",
+  "nav": "Sanitär",
+  "title": "Sanitärinstallateur finden: Angebote vergleichen",
+  "description": "Rohrbruch, tropfende Armatur, neues WC oder Badumbau: Finden Sie einen Sanitärinstallateur in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "sanitärinstallateur",
+    "installateur",
+    "sanitär notdienst",
+    "wasserhahn reparieren",
+    "rohrbruch",
+    "wc austauschen"
+  ],
+  "cardText": "Armaturen, WC, Waschtische, Wasserleitungen und Rohrbruch",
+  "eyebrow": "Sanitär und Installation",
+  "h1": "Sanitärinstallateur in Ihrer Nähe finden",
+  "intro": "Ob tropfender Wasserhahn, undichte Leitung oder ein neues WC: Ein Sanitärbetrieb erledigt das sauber und nach den Regeln der Technik. Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Installateuren aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676210134188-4c05dd172f89",
+    "alt": "Handwerker arbeitet an einem Rohr in einer Wand",
+    "credit": "Timur Shakerzianov",
+    "creditUrl": "https://unsplash.com/@shaker_jpg"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Sanitär?",
+      "html": "<ul><li>Anschluss und Austausch von Armaturen (Wasserhahn, Mischbatterie, Thermostat)</li><li>Einbau und Austausch von WC, Waschtisch, Dusche und Badewanne</li><li>Installation und Reparatur von Wasserleitungen und Wasseranschlüssen</li><li>Suche und Reparatur von Leckagen, Hilfe bei Rohrbruch</li><li>Anschluss von Waschmaschine, Spülmaschine und Wasserenthärtungsanlagen</li><li>Abwasseranschlüsse und Hebeanlagen</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Wasser tritt aus: Drehen Sie zuerst den Haupthahn am Wasserzähler zu und rufen Sie dann einen Fachbetrieb</li><li>Der Wasserdruck sinkt oder das Wasser verfärbt sich</li><li>Sie möchten Armaturen, WC oder Waschtisch erneuern</li><li>Sie planen einen Badumbau oder verlegen Leitungen in der Küche</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Installateur und Heizungsbauer)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Sind Sie bei Ihrem örtlichen Wasserversorger als Installationsunternehmen eingetragen?</li><li>Welche Marken und Produktlinien setzen Sie ein, und wie lange gibt es dafür Ersatzteile?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Umfang der Arbeiten und Zugänglichkeit der Leitungen (Vorwand, Unterputz, Keller)</li><li>Material und Qualität der Armaturen und Sanitärobjekte</li><li>Anfahrt und eventuelle Notdienstzuschläge nachts oder am Wochenende</li><li>Entsorgung von Altgeräten und Bauschutt</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Merken Sie sich, wo Ihr Haupthahn sitzt: Bei einem Rohrbruch zählt jede Minute.</li><li>Ein tropfender Einhebelmischer lässt sich oft durch eine neue Kartusche reparieren, ohne die ganze Armatur zu tauschen.</li><li>Strahlregler (Perlatoren) regelmäßig entkalken: Kalk mindert den Durchfluss und belastet Dichtungen.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Sanitär</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Installateur und Heizungsbauer). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>Arbeiten an der Trinkwasser-Installation hinter dem Wasserzähler dürfen nach der AVBWasserV nur Installationsunternehmen ausführen, die beim Wasserversorger in das Installateurverzeichnis eingetragen sind. Die Trinkwasserverordnung verpflichtet Eigentümer außerdem, die Anlage so zu betreiben, dass das Wasser hygienisch einwandfrei bleibt: Selten genutzte Leitungen sollten Sie regelmäßig spülen oder stilllegen lassen.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wer zahlt einen Wasserschaden in der Mietwohnung?",
+      "a": "Schäden an der Leitung selbst sind meist Sache des Vermieters bzw. seiner Gebäudeversicherung. Für Ihr eigenes Hab und Gut ist Ihre Hausratversicherung zuständig. Melden Sie den Schaden sofort dem Vermieter und dokumentieren Sie ihn mit Fotos."
+    },
+    {
+      "q": "Darf ich einen Wasserhahn selbst austauschen?",
+      "a": "Einen Wasserhahn an einem vorhandenen Eckventil zu tauschen, ist für geübte Heimwerker möglich. Eingriffe in die Leitungen selbst gehören in die Hände eines eingetragenen Installationsbetriebs."
+    },
+    {
+      "q": "Kann ich die Handwerkerkosten von der Steuer absetzen?",
+      "a": "Ja, für Reparaturen und Modernisierungen in Ihrem Haushalt können Sie 20 % der Arbeits-, Anfahrts- und Maschinenkosten (höchstens 1.200 € Steuerermäßigung im Jahr) nach § 35a EStG geltend machen, wenn Sie per Überweisung bezahlt haben."
+    }
+  ],
+  "related": [
+    "gewerke/badsanierung",
+    "gewerke/heizung",
+    "gewerke/rohrreinigung"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

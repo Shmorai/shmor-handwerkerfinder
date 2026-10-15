@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/elektriker",
+  "nav": "Elektriker",
+  "title": "Elektriker finden: kostenlose Angebote vergleichen",
+  "description": "Steckdosen, Sicherungskasten, Wallbox oder komplette Elektroinstallation: Finden Sie einen Elektrofachbetrieb in Ihrer Nähe und vergleichen Sie Angebote.",
+  "keywords": [
+    "elektriker",
+    "elektriker in der nähe",
+    "elektroinstallation",
+    "sicherungskasten erneuern",
+    "steckdose verlegen",
+    "wallbox installieren"
+  ],
+  "cardText": "Steckdosen, Leitungen, Sicherungskasten, Wallbox und Smart Home",
+  "eyebrow": "Elektroinstallation",
+  "h1": "Elektriker in Ihrer Nähe finden",
+  "intro": "Strom ist nichts für Experimente: Arbeiten an der Elektroinstallation gehören in die Hände eines Fachbetriebs. Beschreiben Sie, was zu tun ist, und vergleichen Sie Angebote von Elektrikern aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e",
+    "alt": "Elektriker mit gelbem Helm verlegt Leitungen",
+    "credit": "Emmanuel Ikwuegbu",
+    "creditUrl": "https://unsplash.com/@emmages"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Elektriker?",
+      "html": "<ul><li>Verlegen von Steckdosen, Lichtschaltern und Leitungen</li><li>Erneuerung von Sicherungskasten und Zählerschrank</li><li>Installation und Erneuerung kompletter Elektroanlagen bei Sanierungen</li><li>Installation von Ladestationen (Wallboxen) für Elektroautos</li><li>Lampen und Beleuchtung, Außenbeleuchtung, Klingel- und Gegensprechanlagen</li><li>Smart Home, Netzwerk- und SAT-Verkabelung, Prüfung elektrischer Anlagen (E-Check)</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Sicherungen oder der FI-Schalter lösen immer wieder aus</li><li>Steckdosen oder Schalter werden warm, riechen verbrannt oder sind beschädigt</li><li>Sie sanieren einen Altbau mit alten Leitungen ohne Schutzleiter</li><li>Sie möchten eine Wallbox, eine PV-Anlage oder mehr Steckdosen</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Sind Sie in die <strong>Handwerksrolle</strong> eingetragen (Handwerkskarte als Elektrotechniker)?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Sind Sie beim Netzbetreiber im Installateurverzeichnis eingetragen?</li><li>Erhalte ich nach den Arbeiten ein Prüfprotokoll?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Zustand der vorhandenen Installation (Altbau, fehlender Schutzleiter, Aufputz oder Unterputz)</li><li>Anzahl der Stromkreise, Steckdosen und Schalter</li><li>Material und Schalterprogramm</li><li>Stemm-, Putz- und Malerarbeiten nach dem Verlegen</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Testen Sie den FI-Schutzschalter (Fehlerstrom-Schutzschalter) regelmäßig über die Prüftaste.</li><li>Planen Sie bei einer Sanierung lieber ein paar Steckdosen mehr ein: Nachrüsten ist später teurer.</li><li>Lassen Sie Leerrohre mitverlegen, dann lassen sich Netzwerk- oder Smart-Home-Kabel später leicht nachziehen.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p><strong>Elektriker</strong>: Hierfür ist ein zulassungspflichtiges Handwerk zuständig (Anlage A der Handwerksordnung: Elektrotechniker). Der Betrieb muss in die Handwerksrolle eingetragen sein; lassen Sie sich die Handwerkskarte zeigen.</p><p>Neuanlagen, Erweiterungen und Änderungen an der elektrischen Anlage hinter der Hausanschlusssicherung dürfen nach der Niederspannungsanschlussverordnung (NAV, § 13) nur Unternehmen ausführen, die beim Netzbetreiber im Installateurverzeichnis eingetragen sind. Ladestationen für E-Autos müssen vor der Inbetriebnahme beim Netzbetreiber angemeldet werden, bei mehr als 12 kVA Leistung (etwa 22-kW-Wallboxen) brauchen sie vorher dessen Zustimmung (§ 19 NAV).</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Darf ich eine Steckdose selbst anschließen?",
+      "a": "Arbeiten an der festen Installation sollten Sie einem eingetragenen Elektrofachbetrieb überlassen. Fehler können Brände und Stromunfälle verursachen und den Versicherungsschutz gefährden."
+    },
+    {
+      "q": "Was kostet eine Wallbox-Installation?",
+      "a": "Das hängt von der Entfernung zum Zählerschrank, dem Zustand der Installation und dem Gerät ab. Lassen Sie sich mehrere Angebote mit Vor-Ort-Prüfung machen und fragen Sie nach der Anmeldung beim Netzbetreiber."
+    },
+    {
+      "q": "Wie oft sollte die Elektroanlage geprüft werden?",
+      "a": "Für private Wohnungen gibt es keine feste gesetzliche Frist. Viele Fachleute empfehlen eine Prüfung (E-Check) bei Kauf oder Mieterwechsel und spätestens alle paar Jahre bei älteren Anlagen."
+    }
+  ],
+  "related": [
+    "gewerke/solar",
+    "gewerke/waermepumpe",
+    "gewerke/montageservice"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

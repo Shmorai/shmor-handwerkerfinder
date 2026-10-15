@@ -1,0 +1,51 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog/schimmel-vermeiden",
+  "type": "post",
+  "date": "2026-10-15",
+  "title": "Schimmel in der Wohnung: Ursachen und richtig lüften",
+  "description": "Warum Schimmel entsteht, wie Sie richtig lüften und heizen und wann ein Fachbetrieb ran muss: Tipps nach dem Schimmelleitfaden des Umweltbundesamts.",
+  "keywords": [
+    "schimmel wohnung",
+    "schimmel vermeiden",
+    "richtig lüften",
+    "schimmel entfernen"
+  ],
+  "cardText": "Feuchtigkeit, Lüften, Heizen, Sanierung",
+  "eyebrow": "Blog",
+  "h1": "Schimmel vermeiden: Ursachen und richtiges Lüften",
+  "intro": "Schimmel braucht vor allem eines: Feuchtigkeit. Wer die Ursache kennt, kann gezielt gegensteuern, und erkennt, wann ein Bauschaden dahintersteckt.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1770208741702-33c0932702b1",
+    "alt": "Nahaufnahme einer Wand mit abblätternder Farbe und Verschmutzung",
+    "credit": "remapstudio",
+    "creditUrl": "https://unsplash.com/@remapstudio"
+  },
+  "sections": [
+    {
+      "h2": "Woher die Feuchtigkeit kommt",
+      "html": "<ul><li>Kochen, Duschen, Wäschetrocknen und Atmen geben täglich viel Feuchtigkeit an die Raumluft ab.</li><li>An kalten Außenwänden, Fensterlaibungen und hinter Möbeln kondensiert sie.</li><li>Bauschäden wie undichte Dächer, Leitungen oder aufsteigende Feuchte sind eine weitere Ursache.</li></ul>"
+    },
+    {
+      "h2": "Richtig lüften und heizen",
+      "html": "<p>Das Umweltbundesamt empfiehlt, mehrmals täglich stoß- oder querzulüften, statt Fenster dauerhaft zu kippen. Nach dem Duschen und Kochen sofort lüften. Räume nicht zu stark auskühlen lassen und Möbel mit etwas Abstand zu Außenwänden stellen. Ein Hygrometer hilft, die Luftfeuchte im Blick zu behalten.</p>"
+    },
+    {
+      "h2": "Wann ein Fachbetrieb ran muss",
+      "html": "<p>Kleine oberflächliche Stellen lassen sich oft selbst entfernen. Bei größeren Flächen, wiederkehrendem Befall oder unklarer Ursache sollten Fachleute die Ursache klären und sanieren, etwa ein <a href=\"/gewerke/maurer/\">Maurerbetrieb</a> bei feuchtem Mauerwerk oder ein <a href=\"/gewerke/dachdecker/\">Dachdecker</a> bei Undichtigkeiten. Mieter sollten den Vermieter sofort informieren.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Umweltbundesamt: Schimmelleitfaden",
+      "url": "https://www.umweltbundesamt.de/"
+    }
+  ],
+  "related": [
+    "gewerke/maurer",
+    "gewerke/maler",
+    "blog/neue-fenster-lueftungskonzept"
+  ],
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

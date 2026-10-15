@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-15",
+  "slug": "regionen/baden-wuerttemberg",
+  "nav": "Baden-Württemberg",
+  "title": "Handwerker in Baden-Württemberg: Angebote vergleichen",
+  "description": "Handwerker in Baden-Württemberg finden (Stuttgart, Mannheim und mehr): regionale Tipps zu Bauweise, Vorschriften und Risiken, dazu kostenlose Angebote.",
+  "keywords": [
+    "handwerker baden-württemberg",
+    "handwerker stuttgart",
+    "handwerker mannheim",
+    "handwerker karlsruhe",
+    "handwerker freiburg im breisgau",
+    "elektriker stuttgart",
+    "elektriker mannheim"
+  ],
+  "cardText": "Stuttgart, Mannheim, Karlsruhe, Freiburg im Breisgau … Bauweise, Risiken und Vorschriften.",
+  "eyebrow": "Bundesland",
+  "h1": "Handwerker in Baden-Württemberg finden",
+  "intro": "Ob Sanitär in Stuttgart, Dachdecker in Mannheim oder Maler in Karlsruhe: Beschreiben Sie Ihren Auftrag und vergleichen Sie Angebote von Handwerksbetrieben in Baden-Württemberg.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1617728035926-9768d5ed60e4",
+    "alt": "Menschen auf einer Straße vor einem hellen Gebäude",
+    "credit": "Marcel Strauß",
+    "creditUrl": "https://unsplash.com/@martzzl"
+  },
+  "chips": [
+    {
+      "label": "Dachdecker",
+      "slug": "gewerke/dachdecker"
+    },
+    {
+      "label": "Heizung",
+      "slug": "gewerke/heizung"
+    },
+    {
+      "label": "Garten- und Landschaftsbau",
+      "slug": "gewerke/garten-landschaftsbau"
+    },
+    {
+      "label": "Solaranlage",
+      "slug": "gewerke/solar"
+    }
+  ],
+  "partnersTitle": "Angebote von Handwerkern in Baden-Württemberg vergleichen",
+  "sections": [
+    {
+      "h2": "Städte und Handwerkskammern in Baden-Württemberg",
+      "html": "<p>Landeshauptstadt ist Stuttgart. Größere Städte sind unter anderem Stuttgart, Mannheim, Karlsruhe, Freiburg im Breisgau, Heidelberg, Ulm, Heilbronn, Pforzheim, Reutlingen. Geben Sie bei Ihrer Anfrage die Postleitzahl an, damit Betriebe aus Ihrer Umgebung antworten können.</p><p>Für das Handwerk in Baden-Württemberg ist die Handwerkskammern Freiburg, Heilbronn-Franken, Karlsruhe, Konstanz, Mannheim Rhein-Neckar-Odenwald, Region Stuttgart, Reutlingen und Ulm zuständig. Dort erfahren Sie, ob ein Betrieb in die Handwerksrolle eingetragen ist, und finden Schlichtungsstellen bei Streitigkeiten.</p>"
+    },
+    {
+      "h2": "Bauweise und typische Aufträge in Baden-Württemberg",
+      "html": "<ul><li>Fachwerkhäuser in vielen Altstädten, etwa in Tübingen, Esslingen oder Schwäbisch Hall, brauchen Handwerker mit Erfahrung in traditionellen Materialien wie Lehm und Kalk.</li><li>Im Schwarzwald prägen große Höfe mit weit heruntergezogenen Dächern und Holzschindeln das Bild.</li><li>Hanglagen in Stuttgart und im Neckartal machen Erdarbeiten, Stützmauern und Entwässerung aufwendiger.</li></ul>"
+    },
+    {
+      "h2": "Naturrisiken und regionale Hinweise",
+      "html": "<p>Der Zollernalbkreis auf der Schwäbischen Alb gehört zu den erdbebenaktivsten Gegenden Deutschlands. Im Schwarzwald gibt es Gebiete mit erhöhter Radonbelastung. Hochwasser drohen an Rhein, Neckar und Donau sowie bei Starkregen in engen Tälern.</p><p>Ob Ihr Grundstück betroffen ist, zeigen die Hochwassergefahrenkarten des Landes; zu Radon informiert das <a href=\"https://www.bfs.de/\" rel=\"noopener\" target=\"_blank\">Bundesamt für Strahlenschutz</a>. Tipps zur Vorsorge lesen Sie in unserem Beitrag <a href=\"/blog/haus-vor-starkregen-schuetzen/\">Haus vor Starkregen schützen</a>.</p>"
+    },
+    {
+      "h2": "Bauordnung und Nachbarrecht",
+      "html": "<p>Ob ein Vorhaben genehmigungspflichtig ist, regelt die <strong>Landesbauordnung für Baden-Württemberg (LBO)</strong>; Auskunft gibt das Bauamt Ihrer Stadt oder Ihres Kreises. Grenzabstände für Hecken, Bäume und Zäune sowie Fragen wie überstehende Dämmung regelt das <strong>Nachbarrechtsgesetz Baden-Württemberg (NRG)</strong>. Bei denkmalgeschützten Gebäuden ist die Untere Denkmalschutzbehörde einzubeziehen.</p>"
+    },
+    {
+      "h2": "Kostenlos beraten lassen",
+      "html": "<p>Neutrale Energieberatung bietet die <a href=\"https://verbraucherzentrale-energieberatung.de/\" rel=\"noopener\" target=\"_blank\">Verbraucherzentrale</a> auch in Baden-Württemberg an, Energieberater finden Sie in der <a href=\"https://www.energie-effizienz-experten.de/\" rel=\"noopener\" target=\"_blank\">Energieeffizienz-Expertenliste</a>. Bei Streit mit einem Handwerksbetrieb vermitteln die Schlichtungsstellen der Handwerkskammern.</p><p>Vor der Beauftragung: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>, <a href=\"/ratgeber/angebot-verstehen/\">Angebote vergleichen</a> und <a href=\"/ratgeber/foerderung/\">Förderung prüfen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Gibt es in Baden-Württemberg Regeln für Schottergärten?",
+      "a": "Ja. Das Naturschutzgesetz Baden-Württemberg stellt klar, dass Schottergärten grundsätzlich keine zulässige Gartennutzung sind; Gartenflächen sollen begrünt werden. Fragen Sie im Zweifel bei Ihrer Gemeinde nach."
+    },
+    {
+      "q": "Finde ich über HandwerkerFinder Handwerker in Baden-Württemberg?",
+      "a": "Unsere Partner vermitteln Aufträge in ganz Deutschland. Wie viele Rückmeldungen Sie erhalten, hängt von Ihrem Ort, dem Gewerk und der Jahreszeit ab."
+    },
+    {
+      "q": "Ist das kostenlos?",
+      "a": "Ja. Ihren Auftrag zu beschreiben und Angebote zu erhalten ist kostenlos und unverbindlich. Den Vertrag schließen Sie direkt mit dem Handwerker, den Sie wählen."
+    }
+  ],
+  "related": [
+    "gewerke/dachdecker",
+    "gewerke/heizung",
+    "gewerke/garten-landschaftsbau",
+    "regionen/bayern",
+    "regionen/hessen",
+    "regionen/rheinland-pfalz"
+  ],
+  "relatedTitle": "Gewerke und Nachbarländer",
+  "ctaTitle": "Ihr Auftrag in Baden-Württemberg"
+}

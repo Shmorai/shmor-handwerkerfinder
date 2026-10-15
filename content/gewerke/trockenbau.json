@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "gewerke/trockenbau",
+  "nav": "Trockenbau",
+  "title": "Trockenbau: Fachbetrieb finden und vergleichen",
+  "description": "Trockenbauwände, abgehängte Decken, Dachausbau oder Schallschutz: Finden Sie einen Trockenbauer in Ihrer Nähe und vergleichen Sie kostenlose Angebote.",
+  "keywords": [
+    "trockenbau",
+    "trockenbauer",
+    "trockenbauwand",
+    "decke abhängen",
+    "dachausbau",
+    "rigips"
+  ],
+  "cardText": "Trennwände, abgehängte Decken, Dachausbau, Schall- und Brandschutz",
+  "eyebrow": "Trockenbau und Innenausbau",
+  "h1": "Trockenbauer in Ihrer Nähe finden",
+  "intro": "Mit Trockenbau lassen sich Räume schnell und ohne viel Schmutz neu aufteilen, Decken abhängen oder Dachgeschosse ausbauen. Vergleichen Sie Angebote von Trockenbaubetrieben aus Ihrer Region.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1634586648651-f1fb9ec10d90",
+    "alt": "Raum im Umbau mit Stützen, Werkzeug und Schutt auf dem Boden",
+    "credit": "Stefan Lehner",
+    "creditUrl": "https://unsplash.com/@st_lehner"
+  },
+  "searchPlaceholder": "Ihr Auftrag, z. B. „Wasserhahn“ oder „Fenster“",
+  "highlights": [
+    {
+      "title": "Kostenlos",
+      "text": "Ihren Auftrag beschreiben und Angebote erhalten kostet Sie nichts."
+    },
+    {
+      "title": "Mehrere Angebote",
+      "text": "Vergleichen Sie Preise, Termine und Vorgehen, bevor Sie entscheiden."
+    },
+    {
+      "title": "Unverbindlich",
+      "text": "Sie entscheiden frei, ob und wen Sie beauftragen."
+    }
+  ],
+  "partnersTitle": "Kostenlose Angebote unserer Partner vergleichen",
+  "sections": [
+    {
+      "h2": "Was macht ein Fachbetrieb für Trockenbau?",
+      "html": "<ul><li>Aufbau von Trockenbauwänden und Vorsatzschalen</li><li>Abhängen von Decken, auch mit integrierter Beleuchtung</li><li>Dachausbau mit Dämmung und Verkleidung</li><li>Schallschutz und Schalldämmung</li><li>Verkleidung von Rohren, Installationen und Vorwänden im Bad</li><li>Spachteln und Schleifen bis zur gewünschten Oberflächenqualität</li></ul>"
+    },
+    {
+      "h2": "Wann Sie einen Fachbetrieb brauchen",
+      "html": "<ul><li>Sie möchten ein großes Zimmer in zwei Räume teilen</li><li>Das Dachgeschoss soll Wohnraum werden</li><li>Hellhörige Wände oder Decken stören</li><li>Leitungen sollen hinter einer Verkleidung verschwinden</li></ul>"
+    },
+    {
+      "h2": "Fragen vor der Beauftragung",
+      "html": "<p>Diese Fragen helfen beim Vergleich der Angebote:</p><ol><li>Seit wann gibt es Ihren Betrieb, und haben Sie Referenzen für ähnliche Aufträge?</li><li>Haben Sie eine <strong>Betriebshaftpflichtversicherung</strong>?</li><li>Welche Qualitätsstufe der Spachtelung (Q1 bis Q4) ist im Angebot vorgesehen?</li><li>Welche Platten verwenden Sie in Feuchträumen oder für Brandschutz?</li><li>Sind Anfahrt, Material und Entsorgung im Angebot enthalten?</li><li>Wann können Sie beginnen, und wie lange dauern die Arbeiten?</li></ol><p>Mehr dazu: <a href=\"/ratgeber/handwerker-pruefen/\">Handwerker prüfen</a>.</p>"
+    },
+    {
+      "h2": "Was den Preis beeinflusst",
+      "html": "<p>Jeder Auftrag ist anders. Diese Faktoren bestimmen den Preis am stärksten:</p><ul><li>Wandfläche bzw. Deckenfläche und Raumhöhe</li><li>Art der Platten und Dämmung (Schallschutz, Feuchtraum, Brandschutz)</li><li>Türöffnungen, Revisionsklappen, Einbaustrahler</li><li>Spachtelqualität und Malerarbeiten danach</li></ul><p>Verlässlich wird es erst mit mehreren detaillierten Angeboten für dieselbe Leistung. Siehe <a href=\"/ratgeber/angebot-verstehen/\">Angebote verstehen und vergleichen</a>. Tipp: Die Arbeitskosten können Sie nach § 35a EStG zum Teil <a href=\"/ratgeber/steuerbonus-handwerkerleistungen/\">von der Steuer absetzen</a>.</p>"
+    },
+    {
+      "h2": "Profi-Tipps",
+      "html": "<ul><li>Planen Sie Steckdosen und Leitungen in neuen Wänden mit dem Elektriker, bevor die zweite Plattenlage kommt.</li><li>Für Hängeschränke oder Waschtische Verstärkungen in die Ständerwand einbauen lassen.</li><li>Eine Mineralwolle-Füllung verbessert den Schallschutz einer Trennwand deutlich.</li></ul><p>Weitere Tipps finden Sie im <a href=\"/blog/\">Ratgeber-Blog</a>.</p>"
+    },
+    {
+      "h2": "Vorschriften und Hinweise",
+      "html": "<p>Trockenbau ist kein eigenes zulassungspflichtiges Handwerk; ihn übernehmen Trockenbaufirmen, Stuckateure, Zimmerer oder Innenausbauer. Fragen Sie nach Referenzen. Beim Dachausbau zu Wohnraum sind Brandschutz, Rettungswege, Mindestraumhöhen und Wärmeschutz zu beachten; je nach Landesbauordnung ist eine Baugenehmigung nötig. In Mietwohnungen brauchen Sie für bauliche Veränderungen die Zustimmung des Vermieters.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ist eine Trockenbauwand genehmigungspflichtig?",
+      "a": "Eine nichttragende Trennwand innerhalb der Wohnung ist meist genehmigungsfrei. Ändert sich die Nutzung oder sind Brandschutz und Rettungswege betroffen, sollten Sie bei der Bauaufsicht nachfragen."
+    },
+    {
+      "q": "Wie stabil ist eine Trockenbauwand?",
+      "a": "Mit doppelter Beplankung und Verstärkungen trägt sie auch Regale und Hängeschränke. Sagen Sie vorher, was befestigt werden soll."
+    },
+    {
+      "q": "Wie schnell geht ein Dachausbau?",
+      "a": "Das hängt von Fläche, Dämmung und Fenstern ab. Rechnen Sie bei einem kompletten Ausbau eher in Wochen als in Tagen."
+    }
+  ],
+  "related": [
+    "gewerke/maler",
+    "gewerke/dachdecker",
+    "gewerke/elektriker"
+  ],
+  "relatedTitle": "Verwandte Gewerke",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}

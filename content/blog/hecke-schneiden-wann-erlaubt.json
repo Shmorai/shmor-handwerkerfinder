@@ -1,0 +1,55 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog/hecke-schneiden-wann-erlaubt",
+  "type": "post",
+  "date": "2026-10-15",
+  "title": "Hecke schneiden: Wann ist was erlaubt?",
+  "description": "Formschnitt im Sommer, radikaler Rückschnitt nur im Winter: Was das Bundesnaturschutzgesetz erlaubt und was bei Bäumen und Nachbarn zu beachten ist.",
+  "keywords": [
+    "hecke schneiden erlaubt",
+    "heckenschnitt verbot",
+    "hecke schneiden wann",
+    "bundesnaturschutzgesetz hecke"
+  ],
+  "cardText": "Schonzeit 1. März bis 30. September",
+  "eyebrow": "Blog",
+  "h1": "Hecke schneiden: was wann erlaubt ist",
+  "intro": "Jedes Frühjahr kommt die Frage auf: Darf ich meine Hecke jetzt noch schneiden? Die Antwort hängt davon ab, wie stark Sie schneiden.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1668120089662-42642838cfef",
+    "alt": "Große Rasenfläche mit Büschen und Bäumen",
+    "credit": "Raelle Cameron",
+    "creditUrl": "https://unsplash.com/@raegocreative"
+  },
+  "sections": [
+    {
+      "h2": "Die Schonzeit",
+      "html": "<p>Nach § 39 Abs. 5 Bundesnaturschutzgesetz ist es vom <strong>1. März bis 30. September</strong> verboten, Hecken, lebende Zäune, Gebüsche und andere Gehölze abzuschneiden, auf den Stock zu setzen oder zu beseitigen. Das schützt brütende Vögel und andere Tiere.</p>"
+    },
+    {
+      "h2": "Was trotzdem geht",
+      "html": "<p><strong>Schonende Form- und Pflegeschnitte</strong> sind auch im Sommer erlaubt, also das Zurückschneiden des Zuwachses. Voraussetzung: Es brüten keine Vögel in der Hecke. Schauen Sie vorher genau hin; Nester sind ganzjährig geschützt.</p>"
+    },
+    {
+      "h2": "Bäume, Satzungen und Nachbarn",
+      "html": "<ul><li>Viele Gemeinden haben eine <strong>Baumschutzsatzung</strong>; für das Fällen größerer Bäume brauchen Sie dann eine Genehmigung.</li><li>Grenzabstände und Höhen regeln die Nachbarrechtsgesetze der Länder; Bremen, Hamburg und Mecklenburg-Vorpommern haben keines.</li><li>Überhängende Äste darf der Nachbar unter Umständen selbst abschneiden, wenn er Ihnen vorher eine angemessene Frist gesetzt hat (§ 910 BGB).</li></ul><p>Für große Hecken und Bäume lohnt ein <a href=\"/gewerke/garten-landschaftsbau/\">Gartenbaubetrieb</a> oder <a href=\"/gewerke/baumpflege/\">Baumpfleger</a>.</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "§ 39 Bundesnaturschutzgesetz",
+      "url": "https://www.gesetze-im-internet.de/bnatschg_2009/__39.html"
+    },
+    {
+      "title": "§ 910 BGB (Überhang)",
+      "url": "https://www.gesetze-im-internet.de/bgb/__910.html"
+    }
+  ],
+  "related": [
+    "gewerke/garten-landschaftsbau",
+    "gewerke/baumpflege",
+    "gewerke/zaunbau"
+  ],
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?"
+}
