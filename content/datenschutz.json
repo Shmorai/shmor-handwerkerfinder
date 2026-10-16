@@ -21,7 +21,7 @@
   "sections": [
     {
       "h2": "Verantwortlicher",
-      "html": "<p>Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) ist der im <a href=\"/impressum/\">Impressum</a> genannte Anbieter. Datenschutzanfragen: <a href=\"mailto:privacy@shmor.ai\">privacy@shmor.ai</a>. Vertreter in der EU nach Art. 27 DSGVO: <mark class=\"todo\">[Bitte ergänzen: falls der Anbieter seinen Sitz außerhalb der EU hat]</mark></p>"
+      "html": "<p>Verantwortlich im Sinne der Datenschutz-Grundverordnung (DSGVO) ist der im <a href=\"/impressum/\">Impressum</a> genannte Anbieter. Datenschutzanfragen: <a href=\"mailto:handwerkerfinder@shmor.ai\">handwerkerfinder@shmor.ai</a>. Vertreter in der EU nach Art. 27 DSGVO: <mark class=\"todo\">[Bitte ergänzen: falls der Anbieter seinen Sitz außerhalb der EU hat]</mark></p>"
     },
     {
       "h2": "Hosting und Server-Logfiles",

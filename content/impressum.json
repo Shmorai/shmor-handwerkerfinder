@@ -21,11 +21,11 @@
   "sections": [
     {
       "h2": "Anbieter",
-      "html": "<p>HandwerkerFinder (handwerkerfinder.shmor.ai) ist Teil des Netzwerks <a href=\"https://shmor.ai/\" hreflang=\"en\">Shmor.ai</a>. Anbieter:</p><ul><li>Firma: <mark class=\"todo\">[Bitte ergänzen: Name des Unternehmens]</mark></li><li>Rechtsform und Vertretungsberechtigte: <mark class=\"todo\">[Bitte ergänzen: Rechtsform, Geschäftsführer/Inhaber]</mark></li><li>Anschrift: <mark class=\"todo\">[Bitte ergänzen: ladungsfähige Anschrift]</mark></li><li>Registereintrag: <mark class=\"todo\">[Bitte ergänzen: Registergericht und Registernummer, falls vorhanden]</mark></li><li>Umsatzsteuer-ID: <mark class=\"todo\">[Bitte ergänzen: USt-IdNr. nach § 27a UStG, falls vorhanden]</mark></li></ul>"
+      "html": "<p>HandwerkerFinder (handwerkerfinder.shmor.ai) ist Teil des Netzwerks <a href=\"https://shmor.ai/\" hreflang=\"en\">Shmor.ai</a>. Anbieter:</p><ul><li>Firma: Shmor.ai</li><li>Rechtsform und Vertretungsberechtigte: <mark class=\"todo\">[Bitte ergänzen: Rechtsform, Geschäftsführer/Inhaber]</mark></li><li>Anschrift: 82 King Street, Manchester, Greater Manchester, M2 4WQ, Vereinigtes Königreich</li><li>Registereintrag: <mark class=\"todo\">[Bitte ergänzen: Registergericht und Registernummer, falls vorhanden]</mark></li><li>Umsatzsteuer-ID: <mark class=\"todo\">[Bitte ergänzen: USt-IdNr. nach § 27a UStG, falls vorhanden]</mark></li></ul>"
     },
     {
       "h2": "Kontakt",
-      "html": "<ul><li>E-Mail: <a href=\"mailto:hello@shmor.ai\">hello@shmor.ai</a></li><li>Telefon: <mark class=\"todo\">[Bitte ergänzen: Telefonnummer]</mark></li></ul>"
+      "html": "<ul><li>E-Mail: <a href=\"mailto:handwerkerfinder@shmor.ai\">handwerkerfinder@shmor.ai</a></li><li>Telefon: <mark class=\"todo\">[Bitte ergänzen: Telefonnummer]</mark></li></ul>"
     },
     {
       "h2": "Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV",
