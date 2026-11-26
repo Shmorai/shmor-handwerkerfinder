@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-11-26",
   "slug": "blog/umzug-checkliste",
   "type": "post",
   "date": "2026-10-15",
@@ -25,6 +25,10 @@
     {
       "h2": "Einige Wochen vorher",
       "html": "<ul><li>Mietvertrag fristgerecht kündigen (gesetzliche Kündigungsfrist für Mieter: drei Monate, § 573c BGB).</li><li>Angebote von <a href=\"/gewerke/umzug/\">Umzugsunternehmen</a> einholen, am besten mit Besichtigung.</li><li>Halteverbotszone bei der Stadt beantragen.</li><li>Ausmisten: Was nicht mit soll, rechtzeitig verkaufen oder <a href=\"/gewerke/entruempelung/\">entsorgen</a>.</li></ul>"
+    },
+    {
+      "h2": "Umzugsunternehmen beauftragen: worauf Sie achten sollten",
+      "html": "<p>Wer nicht alles selbst trägt, sollte mehrere <strong>schriftliche Angebote</strong> vergleichen, am besten nach einer Besichtigung der Wohnung. Im Angebot sollten Leistungsumfang (Verpacken, Möbelabbau, Etagen, Parkmöglichkeiten), Termin und Preisart klar stehen: Festpreis oder Abrechnung nach Aufwand. Mehr dazu in unserem Ratgeber <a href=\"/ratgeber/kostenvoranschlag-festpreis/\">Kostenvoranschlag und Festpreis</a> und in <a href=\"/blog/angebote-richtig-vergleichen/\">Angebote richtig vergleichen</a>.</p><p>Fragen Sie nach der <strong>Haftung</strong>: Beim Umzugsvertrag ist die gesetzliche Haftung des Umzugsunternehmens für Schäden am Umzugsgut begrenzt, die Höchstbeträge regelt <a href=\"https://www.gesetze-im-internet.de/hgb/__451e.html\">§ 451e HGB</a>. Wertvolle Stücke sollten Sie deshalb mit dem Betrieb gesondert besprechen und eine Zusatzversicherung prüfen. Notieren Sie sichtbare Schäden bei der Übergabe möglichst sofort schriftlich und mit Fotos.</p>"
     },
     {
       "h2": "Kurz vorher",
@@ -55,5 +59,19 @@
     "gewerke/gebaeudereinigung"
   ],
   "relatedTitle": "Passend dazu",
-  "ctaTitle": "Welchen Handwerker suchen Sie?"
+  "ctaTitle": "Welchen Handwerker suchen Sie?",
+  "faqs": [
+    {
+      "q": "Wie lange vorher sollte ich ein Umzugsunternehmen anfragen?",
+      "a": "Möglichst einige Wochen vorher, damit Sie mehrere Angebote vergleichen können. Zum Monatsende und in den Ferien sind Termine gefragter; ein verbindlicher Termin und Preis gehören ins schriftliche Angebot."
+    },
+    {
+      "q": "Wie schnell muss ich mich nach dem Umzug anmelden?",
+      "a": "Innerhalb von zwei Wochen beim Bürgeramt (§ 17 Bundesmeldegesetz). Der Vermieter muss Ihnen den Einzug bestätigen."
+    },
+    {
+      "q": "Haftet das Umzugsunternehmen für Schäden?",
+      "a": "Ja, aber die gesetzliche Haftung ist begrenzt; die Höchstbeträge stehen in § 451e HGB. Besprechen Sie wertvolle Gegenstände vorab mit dem Betrieb und prüfen Sie eine Zusatzversicherung."
+    }
+  ]
 }

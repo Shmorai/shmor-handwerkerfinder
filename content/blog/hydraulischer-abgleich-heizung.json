@@ -1,0 +1,90 @@
+{
+  "eyebrow": "Heizung · Energie sparen",
+  "title": "Hydraulischer Abgleich: Wann er sich lohnt",
+  "description": "Hydraulischer Abgleich bei der Heizung: Was er bringt, wann er Pflicht ist, wer ihn durchführt und woran Sie erkennen, dass er in Ihrem Haus fehlt.",
+  "h1": "Hydraulischer Abgleich: Was er bringt, wer ihn macht und wann er Pflicht ist",
+  "intro": "Manche Heizkörper werden kaum warm, andere rauschen und glühen: Oft fehlt nicht mehr Heizleistung, sondern ein hydraulischer Abgleich. Hier erfahren Sie, was dahintersteckt, in welchen Fällen er vorgeschrieben ist und wie Sie einen Fachbetrieb dafür finden.",
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/247_Home_Rescue_radiator_thermostat.jpg/1920px-247_Home_Rescue_radiator_thermostat.jpg",
+    "alt": "Weißer Thermostatkopf an einem Heizkörperventil neben einem weißen Heizkörper",
+    "credit": "247homerescue / CC0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:247_Home_Rescue_radiator_thermostat.jpg"
+  },
+  "keywords": [
+    "hydraulischer abgleich",
+    "hydraulischer abgleich pflicht",
+    "hydraulischer abgleich kosten",
+    "hydraulischer abgleich wer macht das",
+    "hydraulischer abgleich einfamilienhaus",
+    "heizkörper werden nicht warm",
+    "heizung rauscht",
+    "hydraulischer abgleich selber machen",
+    "hydraulischer abgleich förderung"
+  ],
+  "cardText": "Gleichmäßig warme Räume, leiseres Heizsystem: so läuft ein hydraulischer Abgleich ab.",
+  "relatedTitle": "Passend dazu",
+  "ctaTitle": "Welchen Handwerker suchen Sie?",
+  "sections": [
+    {
+      "h2": "Was ist ein hydraulischer Abgleich?",
+      "html": "<p>Beim hydraulischen Abgleich werden Kessel, Pumpe und voreinstellbare Thermostatventile so aufeinander abgestimmt, dass <strong>jeder Heizkörper genau die Wassermenge bekommt, die sein Raum braucht</strong>. Ohne Abgleich fließt das Heizwasser bevorzugt durch Heizkörper nahe an der Pumpe, während weit entfernte Räume zu wenig abbekommen. Viele Haushalte drehen dann die Vorlauftemperatur hoch, was Energie kostet.</p><p>Die Verbraucherinformation von co2online beschreibt als Vorteile gleichmäßig warme Räume, eine effizientere Arbeitsweise von Brennwertkesseln durch niedrige Rücklauftemperaturen, oft eine niedriger laufende Pumpe und weniger Strömungsgeräusche.</p></p>"
+    },
+    {
+      "h2": "Woran Sie erkennen, dass er fehlt",
+      "html": "<p>Typische Anzeichen laut co2online sind:</p><ul><li>manche Räume sind zu warm, andere zu kalt;</li><li>die Heizung rauscht, pfeift, brummt oder gluckert;</li><li>die Heizungspumpe ist überdimensioniert oder zu hoch eingestellt;</li><li>die Vorlauftemperatur wurde erhöht, weil nicht alle Räume warm werden;</li><li>an den Ventilunterteilen der Heizkörper fehlt eine Skala, es sind also keine voreinstellbaren Ventile verbaut.</li></ul><p>Von außen sehen Sie nicht, ob ein Abgleich schon gemacht wurde. Fragen Sie Vorbesitzer, Vermieter oder den Heizungsbauer. Bevor Sie ihn beauftragen, lohnt sich ein einfacher Schritt: <a href=\"/blog/heizung-fit-fuer-den-winter/\">Heizkörper entlüften und die Anlage prüfen</a>, wie in unserem Winter-Check beschrieben.</p>"
+    },
+    {
+      "h2": "Wann ist der hydraulische Abgleich Pflicht?",
+      "html": "<p>Nach den Angaben von co2online (Stand Januar 2026) gilt:</p><ul><li><strong>Neubau:</strong> Die VOB/C verpflichtet die ausführenden Betriebe zum Abgleich.</li><li><strong>Heizungstausch:</strong> Bei Aufträgen nach VOB ist er Pflichtaufgabe, unabhängig vom Energieträger.</li><li><strong>Gebäude mit mindestens sechs Wohnungen oder Nutzungseinheiten:</strong> Seit dem 1. Oktober 2024 gilt nach § 60c GEG eine Pflicht für neu installierte wassergeführte Heizungen.</li><li><strong>Ein- und Zweifamilienhäuser sowie Mehrfamilienhäuser bis fünf Wohneinheiten:</strong> keine gesetzliche Pflicht, der Abgleich wird aber dringend empfohlen.</li></ul><p>Das Gebäudeenergiegesetz wird politisch überarbeitet. Prüfen Sie deshalb vor einem Auftrag die aktuelle Fassung auf <a href=\"https://www.gesetze-im-internet.de/geg/\">gesetze-im-internet.de</a>.</p>"
+    },
+    {
+      "h2": "Wer führt den hydraulischen Abgleich durch?",
+      "html": "<p>co2online rät davon ab, den Abgleich selbst zu machen. Ein Fachbetrieb teilt die Arbeit meist so auf:</p><ul><li><strong>Begehung und Berechnung:</strong> Energieberater oder Schornsteinfeger, bei größeren Mehrfamilienhäusern ein Ingenieur.</li><li><strong>Einbau fehlender Komponenten und Einstellung:</strong> der <a href=\"/gewerke/heizung/\">Heizungsbauer</a>, zum Beispiel nachgerüstete voreinstellbare Thermostatventile.</li></ul><p>Meist reichen zwei Termine. Für ein Einfamilienhaus nennt co2online etwa 1,5 Stunden für die Datenaufnahme, rund 4 Stunden für die Berechnung und etwa 5 Minuten Einstellzeit pro Heizkörper. Das sind Richtwerte, Ihr Haus kann abweichen.</p>"
+    },
+    {
+      "h2": "So läuft ein Abgleich ab",
+      "html": "<ol><li>Gebäudezustand und Heizkörper raumweise erfassen.</li><li>Für jeden Raum die nötige Wärmeleistung ermitteln, abhängig von Dämmung, Fenstern, Wärmeverlusten und Lüftungsverhalten.</li><li>Optimale Vorlauf- und Rücklauftemperatur festlegen und die Wassermenge je Heizkörper bestimmen.</li><li>Rohrnetz und Strömungswiderstände erfassen und die passende Pumpenleistung berechnen.</li><li>Die Werte an Kessel (Heizkurve), Pumpe und Thermostatventilen einstellen.</li></ol><p>Laut co2online ist das bei laufendem Betrieb möglich, wenn voreinstellbare Thermostatventile, eine witterungsgeführte Regelung und möglichst eine geregelte Pumpe vorhanden sind. Lassen Sie sich das Ergebnis schriftlich geben, mit den berechneten Einstellwerten je Heizkörper.</p>"
+    },
+    {
+      "h2": "Was bringt er und was kostet er?",
+      "html": "<p>Im Testgebäude von co2online sparte eine Gasetagenheizung 12 Prozent Energie. Wie viel es bei Ihnen ist, hängt vom Zustand der Anlage ab, deshalb nennen wir keine Pauschalzahlen. <strong>Kosten und Förderung ändern sich</strong>: BAFA und KfW fördern Heizungsoptimierung unter bestimmten Bedingungen, die Sätze haben wir bewusst nicht aufgeführt. Aktuelle Angaben finden Sie bei <a href=\"https://www.bafa.de/\">bafa.de</a> und in unserem Ratgeber <a href=\"/ratgeber/foerderung/\">Förderung</a>.</p><p>Holen Sie mehrere schriftliche Angebote ein und achten Sie darauf, dass Begehung, Berechnung, Einbau und Einstellung klar aufgeführt sind. Tipps dazu finden Sie in <a href=\"/blog/angebote-richtig-vergleichen/\">Angebote richtig vergleichen</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ist der hydraulische Abgleich im Einfamilienhaus Pflicht?",
+      "a": "Nach co2online (Stand Januar 2026) besteht für Ein- und Zweifamilienhäuser und Mehrfamilienhäuser bis fünf Wohneinheiten keine gesetzliche Pflicht. Er wird aber dringend empfohlen. Bei einem Heizungstausch nach VOB gehört er zu den Pflichtleistungen."
+    },
+    {
+      "q": "Kann ich den hydraulischen Abgleich selbst machen?",
+      "a": "Davon raten Fachleute laut co2online ab. Berechnung und Einstellung erfordern Fachwissen und passende Ventile. Beauftragen Sie einen Fachbetrieb."
+    },
+    {
+      "q": "Wie lange dauert ein hydraulischer Abgleich?",
+      "a": "Meist genügen zwei Termine. Für ein Einfamilienhaus nennt co2online etwa 1,5 Stunden Datenaufnahme, rund 4 Stunden Berechnung und etwa 5 Minuten Einstellung pro Heizkörper."
+    },
+    {
+      "q": "Warum rauscht meine Heizung?",
+      "a": "Rauschen, Pfeifen oder Gluckern können auf fehlenden Abgleich, eine zu hoch eingestellte Pumpe oder Luft im System hinweisen. Eine Fachkraft kann die Ursache prüfen."
+    }
+  ],
+  "sources": [
+    {
+      "title": "co2online: Hydraulischer Abgleich, häufige Fragen",
+      "url": "https://www.co2online.de/energie-sparen/heizenergie-sparen/hydraulischer-abgleich/hydraulischer-abgleich-faq/"
+    },
+    {
+      "title": "Gesetze im Internet: Gebäudeenergiegesetz (GEG)",
+      "url": "https://www.gesetze-im-internet.de/geg/"
+    }
+  ],
+  "related": [
+    "gewerke/heizung",
+    "blog/heizung-fit-fuer-den-winter",
+    "ratgeber/foerderung"
+  ],
+  "type": "post",
+  "date": "2026-11-26",
+  "updated": "2026-11-26",
+  "slug": "blog/hydraulischer-abgleich-heizung"
+}
